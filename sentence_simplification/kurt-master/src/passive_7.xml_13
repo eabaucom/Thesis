@@ -1,0 +1,44 @@
+<top>
+  <S>
+    <NP>
+      <NN>
+        <word> Multiple </word>
+      </NN>
+      <NNS>
+        <word> tornadoes </word>
+      </NNS>
+    </NP>
+    <VP>
+      <VBP>
+        <word> are </word>
+      </VBP>
+      <VP>
+        <VBN>
+          <word> referred </word>
+        </VBN>
+        <PP>
+          <TO>
+            <word> to </word>
+          </TO>
+          <NP>
+            <RB>
+              <word> as </word>
+            </RB>
+            <DT>
+              <word> a </word>
+            </DT>
+            <JJ>
+              <word> tornado </word>
+            </JJ>
+            <NN>
+              <word> family </word>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

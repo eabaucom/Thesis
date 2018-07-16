@@ -1,0 +1,34 @@
+<top>
+  <S>
+    <NP>
+      <DT>
+        <word> The </word>
+      </DT>
+      <NNP>
+        <word> Standard </word>
+      </NNP>
+      <NNP>
+        <word> Model </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> predicted </word>
+      </VBZ>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NNP>
+          <word> Higgs </word>
+        </NNP>
+        <NN>
+          <word> boson </word>
+        </NN>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

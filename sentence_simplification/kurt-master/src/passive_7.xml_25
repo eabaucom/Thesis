@@ -1,0 +1,44 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Faisal </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> succeeded </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <PRP$>
+              <word> his </word>
+            </PRP$>
+            <NN>
+              <word> half-brother </word>
+            </NN>
+            <NNP>
+              <word> Khalid </word>
+            </NNP>
+            <IN>
+              <word> as </word>
+            </IN>
+            <NNP>
+              <word> King </word>
+            </NNP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

@@ -1,0 +1,31 @@
+<top>
+  <S>
+    <NP>
+      <DT>
+        <word> The </word>
+      </DT>
+      <NN>
+        <word> ruler </word>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> appointed </word>
+      </VBZ>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NN>
+          <word> prayer </word>
+        </NN>
+        <NN>
+          <word> leader </word>
+        </NN>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

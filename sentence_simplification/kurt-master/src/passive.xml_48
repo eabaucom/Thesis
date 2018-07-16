@@ -1,0 +1,28 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Waldo </word>
+      </NNP>
+      <NNP>
+        <word> Salt </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> wrote </word>
+      </VBD>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NN>
+          <word> movie </word>
+        </NN>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

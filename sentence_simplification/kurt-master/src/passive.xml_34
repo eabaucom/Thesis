@@ -1,0 +1,41 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> George </word>
+      </NNP>
+      <NNP>
+        <word> Martin </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VP>
+        <VBN>
+          <word> composed </word>
+        </VBN>
+      </VP>
+      <CC>
+        <word> and </word>
+      </CC>
+      <VP>
+        <VBD>
+          <word> arranged </word>
+        </VBD>
+        <NP>
+          <DT>
+            <word> an </word>
+          </DT>
+          <JJ>
+            <word> orchestral </word>
+          </JJ>
+          <NN>
+            <word> score </word>
+          </NN>
+        </NP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

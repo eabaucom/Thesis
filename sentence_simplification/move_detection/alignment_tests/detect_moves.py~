@@ -1,0 +1,328 @@
+import sys
+from nltk.tree import ParentedTree
+from nltk.tree import Tree
+
+alignfi = open(sys.argv[1]).readlines()
+compfi = open(sys.argv[2]).readlines()
+simpfi = open(sys.argv[3]).readlines()
+
+DEBUG = True
+
+def get_node(tr):
+    return str(tr.productions()[0].lhs())
+
+def get_anchor(poslist, comptree, simptree):
+    #if anchor is a leaf, change the subtree to be the whole pre-terminal ... 
+    #but the return value is the original tree position of the leaf
+    for c,s,r in poslist:
+        #require 'anchor' to maintain mother node label and treeposition
+        csub = comptree.root()[c]
+        ssub = simptree.root()[s]
+        if csub == '.' or c == () or c == (0,): continue #skip punctuation -- vacuous anchor
+        #if subtrees are leaves, change to pre-terminals
+        if isinstance(csub, str):
+            csub = comptree.root()[c[:-1]]
+            #c = c[:-1]
+        if isinstance(ssub, str):
+            ssub = simptree.root()[s[:-1]]
+            #s = s[:-1]
+        cparentpos = csub.parent().treeposition()
+        sparentpos = ssub.parent().treeposition()
+        if DEBUG:
+            print '###'
+            print 'csub:',csub
+            print 'ssub:',ssub
+            print 'cparnode:',get_node(comptree.root()[cparentpos])
+            print 'sparnode:',get_node(simptree.root()[sparentpos])
+            print 'cparpos:',cparentpos
+            print 'sparpos:',sparentpos
+        if get_node(comptree.root()[cparentpos]) == get_node(simptree.root()[sparentpos]) and \
+                cparentpos == sparentpos:
+            if DEBUG:
+                print 'we have a 1 winner!!'
+            return (c, s, r)
+    for c,s,r in poslist:
+        #require 'anchor' to maintain mother node label and vertical distance from root
+        csub = comptree.root()[c]
+        ssub = simptree.root()[s]
+        if csub == '.' or c == () or c == (0,): continue #skip punctuation -- vacuous anchor
+        #if subtrees are leaves, change to pre-terminals
+        if isinstance(csub, str):
+            csub = comptree.root()[c[:-1]]
+            #c = c[:-1]
+        if isinstance(ssub, str):
+            ssub = simptree.root()[s[:-1]]
+            #s = s[:-1]
+        cparentpos = csub.parent().treeposition()
+        sparentpos = ssub.parent().treeposition()
+        if DEBUG:
+            print '###'
+            print 'csub:',csub
+            print 'ssub:',ssub
+            print 'cparnode:',get_node(comptree.root()[cparentpos])
+            print 'sparnode:',get_node(simptree.root()[sparentpos])
+            print 'cparpos:',cparentpos
+            print 'sparpos:',sparentpos
+        if get_node(comptree.root()[cparentpos]) == get_node(simptree.root()[sparentpos]) and \
+                len(cparentpos) == len(sparentpos):
+            if DEBUG:
+                print 'we have a 2 winner!!'
+            return (c, s, r)
+    for c,s,r in poslist:
+        #require 'anchor' to maintain mother node label
+        csub = comptree.root()[c]
+        ssub = simptree.root()[s]
+        if csub == '.' or c == () or c == (0,): continue #skip punctuation -- vacuous anchor
+        #if subtrees are leaves, change to pre-terminals
+        if isinstance(csub, str):
+            csub = comptree.root()[c[:-1]]
+            #c = c[:-1]
+        if isinstance(ssub, str):
+            ssub = simptree.root()[s[:-1]]
+            #s = s[:-1]
+        cparentpos = csub.parent().treeposition()
+        sparentpos = ssub.parent().treeposition()
+        if DEBUG:
+            print '###'
+            print 'csub:',csub
+            print 'ssub:',ssub
+            print 'cparnode:',get_node(comptree.root()[cparentpos])
+            print 'sparnode:',get_node(simptree.root()[sparentpos])
+            print 'cparpos:',cparentpos
+            print 'sparpos:',sparentpos            
+        if get_node(comptree.root()[cparentpos]) == get_node(simptree.root()[sparentpos]):
+            if DEBUG:
+                print 'we have a 3 winner!!'
+            return (c, s, r)
+
+def has_vp_ancestor(pos, tree):
+    #myparpos = tree.root()[pos].parent().treeposition()
+    myparpos = pos[:-1]
+    myparnode = get_node(tree.root()[myparpos])
+    if myparnode == 'VP':
+        return True
+    else:
+        try:
+            return has_vp_ancestor(myparpos, tree)
+        except:
+            return False
+
+def lowest_common_ancestor(pos1, pos2):
+    ancestor_list = []
+    for i in xrange(0, min(len(pos1), len(pos2))):
+        if pos1[i] == pos2[i]:
+            ancestor_list.append(pos1[i])
+        else:
+            return tuple(ancestor_list)
+    return tuple(ancestor_list)
+
+def get_movements(anchor_tup, poslist, ctree):
+    mymoves = [(), ()]
+    for cpos,spos,r in poslist:
+        if cpos == anchor_tup[0] or cpos == () or cpos == (0,): continue #skip anchor itself, and high-level subtrees
+        if isinstance(ctree.root()[cpos], str):
+            node_handle = ctree.root()[cpos[:-1]]
+        else:
+             node_handle = ctree.root()[cpos]
+        #print node_handle
+        if get_node(node_handle) == 'NP': #may be agent or patient
+            if has_vp_ancestor(cpos, ctree):
+                #this is the object of complex sent
+                lca = lowest_common_ancestor(cpos, anchor_tup[0])
+                move_up = len(cpos) - len(lca)
+                down_n_over = anchor_tup[0][len(lca) - len(anchor_tup[0]):-1] + tuple([anchor_tup[0][-1]-1]) #tuple of remaining path, but move one to the left
+                mymoves[0] = (cpos, move_up, down_n_over)
+            else:
+                #this is the subject of complex sent
+                lca = lowest_common_ancestor(cpos, anchor_tup[0])
+                move_up = len(cpos) - len(lca)
+                down_n_over = anchor_tup[0][len(lca) - len(anchor_tup[0]):-1] + tuple([anchor_tup[0][-1]+1]) #tuple of remaining path, but move one to the right
+                mymoves[1] = (cpos, move_up, down_n_over)
+        else:
+            #some other 'moved' stuff ... ?
+            if DEBUG:
+                print 'NON-NP MOVERS DETECTED ...'
+                print 'complex mover:'
+                print ctree.root()[cpos]
+            pass
+    return tuple(mymoves)
+
+def make_moves(ctree, stree, anchor, mymoves, mymoverlist):
+    old_obj_leaves = ''
+    old_subj_leaves = ''
+    punct = ''
+    adjunct = []
+    for x in mymoverlist:
+        if x[0] == mymoves[0][0]:
+            try:
+                old_obj_leaves = ' '.join(stree.root()[x[1]].leaves())
+            except:
+                old_obj_leaves = ' '.join(stree.root()[x[1][:-1]].leaves())
+        if x[0] == mymoves[1][0]:
+            try:
+                old_subj_leaves = ' '.join(stree.root()[x[1]].leaves())
+            except:
+                old_subj_leaves = ' '.join(stree.root()[x[1][:-1]].leaves())
+        if x[0] != mymoves[0][0] and x[0] != mymoves[1][0] and x[0] != anchor[0]: #must be punctuation (right??) ... or adjunct?
+            try:
+                adjunct.append(' '.join(stree.root()[x[1]].leaves()))
+            except:
+                punct = ' '.join(stree.root()[x[1][:-1]].leaves())
+    #try:
+        #anchor_leaves = ' '.join(stree.root()[anchor[1]].leaves())
+    #except:
+        #anchor_leaves = ' '.join(stree.root()[anchor[1][:-1]].leaves())
+    anchor_leaves = ' '.join(stree.leaves()[anchor[2][1][0]: anchor[2][1][1]])
+    if DEBUG:
+        print 'old obj leaves:', old_obj_leaves
+        print 'old subj leaves:', old_subj_leaves
+        print 'anchor leaves:', anchor_leaves
+        print 'punct:', punct
+        print 'adjunct:', adjunct
+    if not adjunct:
+        return old_obj_leaves+' '+anchor_leaves+' '+old_subj_leaves+' '+punct
+    else:
+        return old_obj_leaves+' '+anchor_leaves+' '+old_subj_leaves+' '+' '.join(adjunct)+' '+punct
+    '''
+    #doesn't work -- maybe try building tree from scratch ...
+    newtree = ParentedTree(ctree.pprint()) #make copy of complex tree
+    old_obj_tree = ParentedTree(ctree.root()[mymoves[0][0]].pprint())
+    old_subj_tree = ParentedTree(ctree.root()[mymoves[1][0]].pprint())
+    newtree.root()[canchor[:-1]].insert(0, old_obj_tree) #insert former object to subject pos, i.e., left of anchor parent
+    newtree.root()[canchor[:-1]].insert(1, old_subj_tree) #insert former subject to object pos, i.e., right of anchor parent
+    del newtree[mymoves[0][0]]
+    del newtree[mymoves[1][0]]
+    return newtree
+    '''
+
+for i in xrange(0, len(alignfi)):
+    if alignfi[i].strip() == '': break
+    align_c2s = {}
+    align_s2c = {}
+    for x in alignfi[i].split():
+        c_num = int(x.split('-')[1])
+        s_num = int(x.split('-')[0])
+        align_c2s[c_num] = align_c2s.setdefault(c_num, [])+[s_num]
+        align_s2c[s_num] = align_s2c.setdefault(s_num, [])+[c_num]
+
+    comptree = ParentedTree(compfi[i])
+    simptree = ParentedTree(simpfi[i])
+    if DEBUG:
+        print '######################'
+        print 'comptree:', comptree
+        print 'simptree:', simptree
+        print 'c2s align:', align_c2s
+    complength = len(comptree.leaves())
+    simplength = len(simptree.leaves())
+    if complength > simplength:
+        maxlength = complength
+        longdict = align_c2s
+        chunk_list = []
+        mychunk = []
+        for j in xrange(0, maxlength):
+            if j in longdict:
+                mychunk.append((j, longdict[j][0]))
+            else:
+                continue
+            try:
+                if longdict[j+1] != [longdict[j][0] + 1]:
+                    chunk_list.append(mychunk)
+                    mychunk = []
+                    continue
+            except KeyError:
+                chunk_list.append(mychunk)
+                mychunk = []
+                continue
+            if j == maxlength - 1 and mychunk != []:
+                chunk_list.append(mychunk)
+
+    else:
+        if DEBUG:
+            print '---###---'
+            print 'equal lengths, or simple is longer ...'
+        maxlength = simplength
+        longdict = align_s2c
+        chunk_list = []
+        mychunk = []
+        for j in xrange(0, maxlength):
+            if j in longdict:
+                mychunk.append((longdict[j][0], j))
+            else:
+                continue
+            try:
+                if longdict[j+1] != [longdict[j][0] + 1]:
+                    chunk_list.append(mychunk)
+                    mychunk = []
+                    continue
+            except KeyError:
+                print 'WHAT HAPPENED'
+                chunk_list.append(mychunk)
+                mychunk = []
+                continue
+            if j == maxlength - 1 and mychunk != []:
+                chunk_list.append(mychunk)
+
+
+    myposlist = []
+    if DEBUG:
+        print 'chunk list ...'
+        print chunk_list
+    for chunk in chunk_list:
+
+        comprange = (chunk[0][0], chunk[-1][0]+1)
+        simprange = (chunk[0][1], chunk[-1][1]+1)
+        if DEBUG:
+            print 'comprange of chunk', chunk,'...'
+            print comprange
+            print 'simprange ...'
+            print simprange
+        compposition = comptree.treeposition_spanning_leaves(comprange[0], comprange[1])
+        simpposition = simptree.treeposition_spanning_leaves(simprange[0], simprange[1])
+        if DEBUG:
+            print 'derived comp subtree ...'
+            print comptree.root()[compposition]
+            print 'derived simp subtree ...'
+            print simptree.root()[simpposition]
+            #print comptree.leaves()[comprange[1]-1]
+            if len(ParentedTree(comptree.root()[compposition].pprint()).leaves()) != comprange[1]-comprange[0] or \
+                    len(ParentedTree(simptree.root()[simpposition].pprint()).leaves()) != simprange[1]-simprange[0]:
+                raw_input('mah tree is too big! ')
+        if compposition == (0,) and comptree.pos()[comprange[1]-1][0] == '.':
+            #capture adjuncts that are beside EOS punctuation ...
+            #BUT, NOT NECESSARILY ADJUNCTS ... COULD BE PP ARG, OR NP AT EOS
+            #print 'we got it'
+            compadjpos = comptree.treeposition_spanning_leaves(comprange[0], comprange[1]-1)
+            simpadjpos = simptree.treeposition_spanning_leaves(simprange[0], simprange[1]-1)
+            comppunctpos = comptree.treeposition_spanning_leaves(comprange[1]-1, comprange[1])
+            simppunctpos = simptree.treeposition_spanning_leaves(simprange[1]-1, simprange[1])
+            myposlist.append((compadjpos, simpadjpos, ((comprange[0],comprange[1]-1),(simprange[0],simprange[1]-1))))
+            myposlist.append((comppunctpos, simppunctpos, ((comprange[1]-1,comprange[1]),(simprange[1]-1,simprange[1]))))
+        else:
+            #print type(comptree.root()[compposition])
+            #print comptree.root()[compposition]
+            #if not isinstance(comptree.root()[compposition], str):
+                #if len(comptree.root()[compposition].leaves()) != comprange[1] - comprange[0]:
+                    #print 'WAAAAAAAAAAAAA'
+                    #print comptree.root()[compposition]
+                    #print comprange
+            myposlist.append((compposition, simpposition, (comprange, simprange)))
+    if DEBUG:
+        print '## all complex moves'
+        for t in myposlist:
+            print comptree.root()[t[0]]
+        print '## all simple moves'
+        for t in myposlist:
+            print simptree.root()[t[1]]
+    anchor_tuple = get_anchor(myposlist, comptree, simptree)
+    #print myposlist
+    moves_tuple = get_movements(anchor_tuple, myposlist, comptree) #tuple of obj(move to subj), subj(move to obj) moves, relative to comp tree
+    #print 'moves tuple',moves_tuple
+    new_sent = make_moves(comptree, simptree, anchor_tuple, moves_tuple, myposlist).strip()
+    try:
+        assert new_sent == ' '.join(simptree.leaves())
+    except AssertionError:
+        print '##error'
+        print comptree
+        print simptree
+        print new_sent
+        sys.exit(1)

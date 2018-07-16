@@ -1,0 +1,129 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> directed </word>
+      </VBD>
+      <S>
+        <NP>
+          <JJ>
+            <word> MNC-I </word>
+          </JJ>
+          <NN>
+            <word> counter </word>
+          </NN>
+          <NN>
+            <word> intelligence </word>
+          </NN>
+          <NN>
+            <word> asset </word>
+          </NN>
+        </NP>
+        <VP>
+          <TO>
+            <word> to </word>
+          </TO>
+          <VP>
+            <VB>
+              <word> proceed </word>
+            </VB>
+            <PP>
+              <TO>
+                <word> to </word>
+              </TO>
+              <NP>
+                <DT>
+                  <word> the </word>
+                </DT>
+                <NNP>
+                  <word> Antar </word>
+                </NNP>
+                <NNP>
+                  <word> Caf<E9> </word>
+                </NNP>
+              </NP>
+            </PP>
+            <S>
+              <VP>
+                <TO>
+                  <word> to </word>
+                </TO>
+                <VP>
+                  <VB>
+                    <word> pose </word>
+                  </VB>
+                  <PP>
+                    <IN>
+                      <word> as </word>
+                    </IN>
+                    <NP>
+                      <DT>
+                        <word> a </word>
+                      </DT>
+                      <NN>
+                        <word> customer </word>
+                      </NN>
+                    </NP>
+                  </PP>
+                </VP>
+              </VP>
+            </S>
+            <SBAR>
+              <IN>
+                <word> in </word>
+              </IN>
+              <NN>
+                <word> order </word>
+              </NN>
+              <S>
+                <VP>
+                  <TO>
+                    <word> to </word>
+                  </TO>
+                  <VP>
+                    <VB>
+                      <word> determine </word>
+                    </VB>
+                    <SBAR>
+                      <IN>
+                        <word> if </word>
+                      </IN>
+                      <S>
+                        <NP>
+                          <NNP>
+                            <word> Wajeeh </word>
+                          </NNP>
+                          <NNP>
+                            <word> Al-Mutadee </word>
+                          </NNP>
+                        </NP>
+                        <VP>
+                          <VBZ>
+                            <word> is </word>
+                          </VBZ>
+                          <ADJP>
+                            <JJ>
+                              <word> present </word>
+                            </JJ>
+                          </ADJP>
+                        </VP>
+                      </S>
+                    </SBAR>
+                  </VP>
+                </VP>
+              </S>
+            </SBAR>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

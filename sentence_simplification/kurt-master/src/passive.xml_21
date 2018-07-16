@@ -1,0 +1,35 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> named </word>
+      </VBD>
+      <NP>
+        <NNP>
+          <word> Elizabeth </word>
+        </NNP>
+      </NP>
+      <PP>
+        <IN>
+          <word> after </word>
+        </IN>
+        <NP>
+          <PRP$>
+            <word> her </word>
+          </PRP$>
+          <NN>
+            <word> mother </word>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

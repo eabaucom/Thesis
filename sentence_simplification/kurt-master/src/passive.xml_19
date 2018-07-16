@@ -1,0 +1,28 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Brett </word>
+      </NNP>
+      <NNP>
+        <word> Ratner </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> directed </word>
+      </VBZ>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NN>
+          <word> movie </word>
+        </NN>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

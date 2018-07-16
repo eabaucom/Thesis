@@ -1,0 +1,53 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Vacheron </word>
+      </NNP>
+      <NNP>
+        <word> Constantin </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> opened </word>
+      </VBD>
+      <NP>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <JJ>
+            <word> first </word>
+          </JJ>
+          <NN>
+            <word> boutique </word>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <word> in </word>
+          </IN>
+          <NP>
+            <NNP>
+              <word> Geneva </word>
+            </NNP>
+          </NP>
+        </PP>
+      </NP>
+      <PP>
+        <IN>
+          <word> in </word>
+        </IN>
+        <NP>
+          <CD>
+            <word> 1906 </word>
+          </CD>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

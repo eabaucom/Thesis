@@ -1,0 +1,77 @@
+<top>
+  <S>
+    <ADJP>
+      <RBS>
+        <word> Most </word>
+      </RBS>
+      <JJ>
+        <word> Australian </word>
+      </JJ>
+    </ADJP>
+    <comma>
+      <word> , </word>
+    </comma>
+    <NP>
+      <NNP>
+        <word> British </word>
+      </NNP>
+      <comma>
+        <word> , </word>
+      </comma>
+      <ADJP>
+        <JJ>
+          <word> Canadian </word>
+        </JJ>
+        <comma>
+          <word> , </word>
+        </comma>
+        <JJ>
+          <word> Irish </word>
+        </JJ>
+      </ADJP>
+      <comma>
+        <word> , </word>
+      </comma>
+      <NP>
+        <NNP>
+          <word> New </word>
+        </NNP>
+        <NNP>
+          <word> Zealand </word>
+        </NNP>
+      </NP>
+      <CC>
+        <word> and </word>
+      </CC>
+      <NP>
+        <ADJP>
+          <JJ>
+            <word> South </word>
+          </JJ>
+          <JJ>
+            <word> African </word>
+          </JJ>
+        </ADJP>
+        <JJ>
+          <word> academic </word>
+        </JJ>
+        <NNS>
+          <word> institutions </word>
+        </NNS>
+      </NP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> accepted </word>
+      </VBP>
+      <NP>
+        <NNS>
+          <word> IELTS </word>
+        </NNS>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

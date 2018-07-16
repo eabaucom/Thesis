@@ -1,0 +1,40 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <word> The </word>
+        </DT>
+        <NN>
+          <word> crew </word>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NNP>
+            <word> HMS </word>
+          </NNP>
+          <NNP>
+            <word> Resolution </word>
+          </NNP>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> sighted </word>
+      </VBD>
+      <NP>
+        <NNP>
+          <word> Oahu </word>
+        </NNP>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

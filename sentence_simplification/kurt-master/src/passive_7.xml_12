@@ -1,0 +1,48 @@
+<top>
+  <S>
+    <NP>
+      <DT>
+        <word> The </word>
+      </DT>
+      <NN>
+        <word> book </word>
+      </NN>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> published </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> in </word>
+          </IN>
+          <NP>
+            <CD>
+              <word> 1989 </word>
+            </CD>
+          </NP>
+        </PP>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <NNP>
+              <word> Harper </word>
+            </NNP>
+            <NNP>
+              <word> Collins </word>
+            </NNP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

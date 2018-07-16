@@ -1,0 +1,63 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> observed </word>
+      </VBD>
+      <S>
+        <NP>
+          <NP>
+            <CD>
+              <word> two </word>
+            </CD>
+            <NNS>
+              <word> men </word>
+            </NNS>
+          </NP>
+          <PP>
+            <IN>
+              <word> on </word>
+            </IN>
+            <NP>
+              <DT>
+                <word> a </word>
+              </DT>
+              <NN>
+                <word> motor </word>
+              </NN>
+              <NN>
+                <word> bike </word>
+              </NN>
+            </NP>
+          </PP>
+        </NP>
+        <VP>
+          <VBG>
+            <word> fumbling </word>
+          </VBG>
+          <PP>
+            <IN>
+              <word> with </word>
+            </IN>
+            <NP>
+              <DT>
+                <word> a </word>
+              </DT>
+              <NN>
+                <word> backpack </word>
+              </NN>
+            </NP>
+          </PP>
+        </VP>
+      </S>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

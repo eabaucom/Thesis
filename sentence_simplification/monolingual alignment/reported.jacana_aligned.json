@@ -1,0 +1,921 @@
+[
+	{
+	"name": "1",
+	"id": "",
+	"source": "dry , dusty , or rocky surfaces suggest that the ices are hidden beneath the crust .",
+	"target": "dry , dusty , or rocky surfaces suggest x . x is \" that the ices are hidden beneath the crust . \"",
+	"score": "14.211066750919118",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "2",
+	"id": "",
+	"source": "the giotto probe found that comet halley 's nucleus reflects approximately 4 % of the light that falls on it .",
+	"target": "the giotto probe found x . x is \" that comet halley 's nucleus reflects approximately 4 % of the light that falls on it . \"",
+	"score": "14.332141694568453",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "3",
+	"id": "",
+	"source": "surveys ranked denmark as \" the happiest place in the world \" .",
+	"target": "surveys ranked x . x is \" denmark is \" the happiest place in the world \" . \"",
+	"score": "13.23648892916166",
+	"sureAlign": "0-0 1-1 2-7 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "4",
+	"id": "",
+	"source": "st . jerome wrote that gaul was the only region \" free from heresy \" .",
+	"target": "st . jerome wrote x . x is \" that gaul was the only region \" free from heresy \" . \"",
+	"score": "14.176360130310059",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "5",
+	"id": "",
+	"source": "muslims believe that muhammad first received qur 'anic revelations on the night .",
+	"target": "muslims believe x . x is \" that muhammad first received qur 'anic revelations on the night . \"",
+	"score": "14.125647911658653",
+	"sureAlign": "0-0 1-1 2-7 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "6",
+	"id": "",
+	"source": "the third of the five pillars of islam states that muslims are required to give approximately one - fortieth of their wealth to charity as zakat .",
+	"target": "the third of the five pillars of islam states x . x is \" that muslims are required to give approximately one - fortieth of their wealth to charity as zakat . \"",
+	"score": "14.65533447265625",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "7",
+	"id": "",
+	"source": "the mosque was built by babur allegedly on the site of a previous hindu temple marking the birthplace of ram .",
+	"target": "allegedly x . x is \" the mosque was built by babur on the site of a previous hindu temple marking the birthplace of ram . \"",
+	"score": "13.776843843005953",
+	"sureAlign": "0-6 1-7 2-8 3-9 4-10 5-11 6-0 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "8",
+	"id": "",
+	"source": "according to the hanafi and maliki school of islamic jurisprudence , appointment of a prayer leader for friday service is mandatory because otherwise the prayer is invalid .",
+	"target": "according to the hanafi and maliki school of islamic jurisprudence , x . x is \" appointment of a prayer leader for friday service is mandatory because otherwise the prayer is invalid . \"",
+	"score": "14.482611519949776",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31 27-32",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "9",
+	"id": "",
+	"source": "the shafi'i and hanbali schools , however , argue that the appointment is not necessary and the prayer is valid as long as it is performed in a congregation .",
+	"target": "the shafi'i and hanbali schools argue x . x is \" that the appointment is not necessary and the prayer is valid as long as it is performed in a congregation . \"",
+	"score": "13.737748209635416",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 8-5 9-11 10-12 11-13 12-14 13-15 14-16 15-17 16-18 17-19 18-20 19-21 20-22 21-23 22-24 23-25 24-26 25-27 26-28 27-29 28-30 29-31",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "10",
+	"id": "",
+	"source": "muslim authorities disagree over whether the job can be done by a minor .",
+	"target": "muslim authorities disagree over x . x is \" whether the job can be done by a minor . \"",
+	"score": "14.07494136265346",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "11",
+	"id": "",
+	"source": "followers of the maliki school of islamic jurisprudence argue that non - muslims may not be allowed into mosques under any circumstances .",
+	"target": "followers of the maliki school of islamic jurisprudence argue x . x is \" that non - muslims may not be allowed into mosques under any circumstances . \"",
+	"score": "14.401134988536006",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "12",
+	"id": "",
+	"source": "in 2004 it was estimated that there were 800 birds in the wild , as well as 1000 in wildfowl collections and zoos .",
+	"target": "in 2004 they estimated x . x is \" there were 800 birds in the wild , as well as 1000 in wildfowl collections and zoos . \"",
+	"score": "13.574429829915365",
+	"sureAlign": "0-0 1-1 4-3 6-9 7-10 8-11 9-12 10-13 11-14 12-15 13-16 14-17 15-18 16-19 17-20 18-21 19-22 20-23 21-24 22-25 23-26",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "13",
+	"id": "",
+	"source": "it was claimed that many of the adult asylum seekers threw their children into the water , apparently in protest at being turned away .",
+	"target": "they claimed x . x is \" that many of the adult asylum seekers threw their children into the water , apparently in protest at being turned away . \"",
+	"score": "14.20424072265625",
+	"sureAlign": "2-1 3-7 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25 22-26 23-27 24-28",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "14",
+	"id": "",
+	"source": "sean maher recalls reading for the part and liking the character of simon tam , but that it was whedon 's personality and vision that \" sealed the deal \" for him .",
+	"target": "sean maher recalls x . x is \" sean maher reading for the part and liking the character of simon tam , but that it was whedon 's personality and vision that \" sealed the deal \" for him . \"",
+	"score": "14.157065651633523",
+	"sureAlign": "0-0 1-1 2-2 3-10 4-11 5-12 6-13 7-14 8-15 9-16 10-17 11-18 12-19 13-20 14-21 15-22 16-23 17-24 18-25 19-26 20-27 21-28 22-29 23-30 24-31 25-32 26-33 27-34 28-35 29-36 30-37 31-38 32-39",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "15",
+	"id": "",
+	"source": "on 15 may 2006 , it was announced that the station is to be redeveloped as part of a $ 36 million dollar project .",
+	"target": "on 15 may 2006 , they announced x . x is \" that the station is to be redeveloped as part of a $ 36 million dollar project . \"",
+	"score": "13.697647705078126",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 7-6 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25 22-26 23-27 24-28",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "16",
+	"id": "",
+	"source": "family issues reportedly led vaughn to withdraw before shooting began .",
+	"target": "reportedly x . x is \" family issues led vaughn to withdraw before shooting began . \"",
+	"score": "14.0104023326527",
+	"sureAlign": "0-6 1-7 2-0 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "17",
+	"id": "",
+	"source": "hoover argued that a technical solution existed for every social and economic problem .",
+	"target": "hoover argued x . x is \" that a technical solution existed for every social and economic problem . \"",
+	"score": "14.728519984654017",
+	"sureAlign": "0-0 1-1 2-7 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "18",
+	"id": "",
+	"source": "in june 2009 it was announced that a new single , \" one more chance \" , would be released on 10 august 2009 .",
+	"target": "in june 2009 they announced x . x is \" a new single , \" one more chance \" , would be released on 10 august 2009 . \"",
+	"score": "13.674591064453125",
+	"sureAlign": "0-0 1-1 2-2 5-4 7-10 8-11 9-12 10-13 11-14 12-15 13-16 14-17 15-18 16-19 17-20 18-21 19-22 20-23 21-24 22-25 23-26 24-27",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "19",
+	"id": "",
+	"source": "many consider the flavor to be very agreeable .",
+	"target": "many consider x . x is \" the flavor to be very agreeable . \"",
+	"score": "13.547914293077257",
+	"sureAlign": "0-0 1-1 2-7 3-8 4-9 5-10 6-11 7-12 8-13",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "20",
+	"id": "",
+	"source": "it can also be said that 42 is divisible by 7 .",
+	"target": "it can also be said x . x is \" that 42 is divisible by 7 . \"",
+	"score": "13.815648396809896",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-10 6-11 7-12 8-13 9-14 10-15 11-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "21",
+	"id": "",
+	"source": "on his eleventh birthday , harry learns he is a wizard .",
+	"target": "on his eleventh birthday , harry learns x . x is \" he is a wizard . \"",
+	"score": "13.182345072428385",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-12 8-13 9-14 10-15 11-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "22",
+	"id": "",
+	"source": "soviet people 's commissar for foreign affairs vyacheslav molotov claimed in radio broadcasts that the soviet union were not dropping bombs but rather delivering food to the starving finns .",
+	"target": "soviet people 's commissar for foreign affairs vyacheslav molotov claimed in radio broadcasts x . x is \" that the soviet union were not dropping bombs but rather delivering food to the starving finns . \"",
+	"score": "14.852574666341146",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31 27-32 28-33 29-34",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "23",
+	"id": "",
+	"source": "vera returned to new jersey claiming that bangladesh was not a good place to raise a baby .",
+	"target": "vera returned to new jersey claiming x . x is \" that bangladesh was not a good place to raise a baby . \"",
+	"score": "14.558308919270834",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "24",
+	"id": "",
+	"source": "there is much to suggest that this is the kind of environment in which the tetrapods evolved .",
+	"target": "much suggests x . x is \" this is the kind of environment in which the tetrapods evolved . \"",
+	"score": "12.941131591796875",
+	"sureAlign": "2-0 4-1 6-7 7-8 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "25",
+	"id": "",
+	"source": "according to the 2000 u .s . census , 2,649 people speak welsh at home .",
+	"target": "according to the 2000 u .s . census , x . x is \" 2,649 people speak welsh at home . \"",
+	"score": "14.108099937438965",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-14 10-15 11-16 12-17 13-18 14-19 15-20",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "26",
+	"id": "",
+	"source": "still others believe that the sabbath remains as a day of rest on saturday .",
+	"target": "still others believe x . x is \" that the sabbath remains as a day of rest on saturday . \"",
+	"score": "14.264252726236979",
+	"sureAlign": "0-0 1-1 2-2 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "27",
+	"id": "",
+	"source": "findings also indicate that the region was occupied only seasonally , likely only in the summer when the local lake filled with water for grazing cattle .",
+	"target": "findings also indicate x . x is \" that the region was occupied only seasonally , likely only in the summer when the local lake filled with water for grazing cattle . \"",
+	"score": "14.78281995985243",
+	"sureAlign": "0-0 1-1 2-2 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "28",
+	"id": "",
+	"source": "malayalam is considered to have begun as a dialect of old tamil .",
+	"target": "they considered x . x is \" malayalam to have begun as a dialect of old tamil . \"",
+	"score": "13.308506892277645",
+	"sureAlign": "0-7 1-5 2-1 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "29",
+	"id": "",
+	"source": "al-buredi is believed to be an adhamiya resident .",
+	"target": "they believed x . x is \" al-buredi to be an adhamiya resident . \"",
+	"score": "12.265514797634548",
+	"sureAlign": "2-1 3-8 4-9 5-10 6-11 7-12 8-13",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "30",
+	"id": "",
+	"source": "khrayesh tells various shop - owners he is trying to re - connect with al-buredi .",
+	"target": "khrayesh tells various shop - owners x . x is \" he is trying to re - connect with al-buredi . \"",
+	"score": "13.890677452087402",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "31",
+	"id": "",
+	"source": "khrayesh says that he has a possible business opportunity for al-buredi .",
+	"target": "khrayesh says x . x is \" that he has a possible business opportunity for al-buredi . \"",
+	"score": "14.166292826334635",
+	"sureAlign": "0-0 1-1 2-7 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "32",
+	"id": "",
+	"source": "however the e-mail suggested a meeting with khrayesh at a caf ? on ali taleb street in adhamiya on 02\/03\/10 .",
+	"target": "the e-mail suggested x . x is \" a meeting with khrayesh at a caf ? on ali taleb street in adhamiya on 02\/03\/10 . \"",
+	"score": "14.120479038783483",
+	"sureAlign": "1-0 2-1 3-2 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "33",
+	"id": "",
+	"source": "once their interviewers revealed to them that their names and nationalities were already known , they confirmed their identities as ramses al-sabah and nagib mandari .",
+	"target": "their interviewers reveal x . x is \" their names and nationalities were already known . \" they confirm y . y is \" their identities are ramses al-sabah and nagib mandari . \"",
+	"score": "12.79052969125601",
+	"sureAlign": "1-0 2-1 3-2 7-8 8-9 9-10 10-11 11-12 12-13 13-14 15-17 16-18 17-24 18-25 19-26 20-27 21-28 22-29 23-30 24-31 25-32",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "34",
+	"id": "",
+	"source": "neither man admits to being the ? sender ? of an email to omar khrayesh .",
+	"target": "neither man admits to x . x is \" being the ? sender ? of an email to omar khrayesh . \"",
+	"score": "14.064558982849121",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "35",
+	"id": "",
+	"source": "detainees al-sabah and mandari are informed that they will be turned over to their government for repatriation due to their lack of cooperation .",
+	"target": "inform x . x is \" detainees al-sabah and mandari will be turned over to their government for repatriation due to their lack of cooperation . \"",
+	"score": "13.565138498942057",
+	"sureAlign": "0-6 1-7 2-8 3-9 8-10 9-11 10-12 11-13 12-14 13-15 14-16 15-17 16-18 17-19 18-20 19-21 20-22 21-23 22-24 23-25",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "36",
+	"id": "",
+	"source": "foreign nationals , ramses al-sabah and nagib mandari , state that their contact for the moped mission was wajeeh al-mutadee .",
+	"target": "foreign nationals , ramses al-sabah and nagib mandari , state x . x is \" that their contact for the moped mission was wajeeh al-mutadee . \"",
+	"score": "14.354890369233631",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "37",
+	"id": "",
+	"source": "sabah and mandari both claim they never intended to be suicide bombers .",
+	"target": "sabah and mandari both claim x . x is \" they never intended to be suicide bombers . \"",
+	"score": "14.406578650841347",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "38",
+	"id": "",
+	"source": "al-hardi cited growing business opportunities in iraq given the fact that , ? the war will soon be over . ?",
+	"target": "al-hardi cited x . x is \" there will be growing business opportunities in iraq given the fact that , ? the war will soon be over ? . \"",
+	"score": "13.746361142113095",
+	"sureAlign": "0-0 1-1 2-10 3-11 4-12 5-13 6-14 7-15 8-16 9-17 10-18 11-19 12-20 13-21 14-22 15-23 16-24 17-25 18-26 19-28 20-27",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "39",
+	"id": "",
+	"source": "al-hardi reports that the owner appeared apprehensive so he did not press him .",
+	"target": "al-hardi reports x . x is \" that the owner appeared apprehensive so he did not press him . \"",
+	"score": "14.174575805664062",
+	"sureAlign": "0-0 1-1 2-7 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "40",
+	"id": "",
+	"source": "according to the iraqi national police inp , dahr was loyal follower of the former ba ? athists .",
+	"target": "according to the iraqi national police inp , x . x is \" dahr was loyal follower of the former ba ? athists . \"",
+	"score": "14.096131977282072",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "41",
+	"id": "",
+	"source": "he says the war is over soon and people will be back on the streets .",
+	"target": "he says x . x is \" the war is over soon and people will be back on the streets . \"",
+	"score": "14.049033164978027",
+	"sureAlign": "0-0 1-1 2-7 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "42",
+	"id": "",
+	"source": "he claims he is only interested in a prosperous iraq .",
+	"target": "he claims x . x is \" he is only interested in a prosperous iraq . \"",
+	"score": "13.93114540793679",
+	"sureAlign": "0-0 1-1 2-7 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "43",
+	"id": "",
+	"source": "the front company instructed the owner that the installation technicians will come by tomorrow after morning prayers to help set up the new equipment .",
+	"target": "the front company instructed the owner x . x is \" that the installation technicians will come by tomorrow after morning prayers to help set up the new equipment . \"",
+	"score": "14.718443603515626",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "44",
+	"id": "",
+	"source": "the manager says he will have someone there tomorrow morning to work on the computers .",
+	"target": "the manager says x . x is \" he will have someone there tomorrow morning to work on the computers . \"",
+	"score": "14.602877616882324",
+	"sureAlign": "0-0 1-1 2-2 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "45",
+	"id": "",
+	"source": "al-hardi insists he can fix the problem .",
+	"target": "al-hardi insists x . x is \" he can fix the problem . \"",
+	"score": "13.485799789428711",
+	"sureAlign": "0-0 1-1 2-7 3-8 4-9 5-10 6-11 7-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "46",
+	"id": "",
+	"source": "dahr offers al-hardi use of his personal office computer .",
+	"target": "dahr offers x . x is \" al-hardi can use dahr 's personal office computer . \"",
+	"score": "12.124005126953126",
+	"sureAlign": "0-0 1-1 6-12 7-13 8-14 9-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "47",
+	"id": "",
+	"source": "analysis of data recovered from the computers and server at the antar internet caf ? on 03\/23\/10 confirms that the ? old back room ? computer is the source of the original email to omar khrayesh received on 02\/01\/10 .",
+	"target": "analysis of data recovered from the computers and server at the antar internet caf ? on 03\/23\/10 confirms x . x is \" that the ? old back room ? computer is the source of the original email to omar khrayesh received on 02\/01\/10 . \"",
+	"score": "14.853041076660157",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31 27-32 28-33 29-34 30-35 31-36 32-37 33-38 34-39 35-40 36-41 37-42 38-43 39-44",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "48",
+	"id": "",
+	"source": "the email indicated that the meeting would have to take place in four days .",
+	"target": "the email indicated x . x is \" that the meeting would have to take place in four days . \"",
+	"score": "14.648891194661458",
+	"sureAlign": "0-0 1-1 2-2 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "49",
+	"id": "",
+	"source": "omar khrayesh e-mails a reply to al-buredi saying a meeting on 04\/06\/10 will work fine .",
+	"target": "omar khrayesh emails x . x is \" a meeting on 04\/06\/10 will work fine . \"",
+	"score": "13.116188049316406",
+	"sureAlign": "0-0 1-1 2-2 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "50",
+	"id": "",
+	"source": "omar khrayesh suggests to al-buredi that they meet at their alma mater , the mustansiriyia university .",
+	"target": "omar khrayesh suggests x . x is \" omar khrayesh and al-buredi should meet at their alma mater , the mustansiriyia university . \"",
+	"score": "12.788703469669118",
+	"sureAlign": "0-0 1-1 2-2 7-13 8-14 9-15 10-16 11-17 12-18 13-19 14-20 15-21 16-22",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "51",
+	"id": "",
+	"source": "comparisons of the time stamp on the keystroke logger with the ip tracers at the caf ? reveal that the phrase was not a component of any outgoing email .",
+	"target": "comparisons of the time stamp on the keystroke logger with the ip tracers at the caf ? reveal x . x is \" that the phrase was not a component of any outgoing email . \"",
+	"score": "14.51038818359375",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31 27-32 28-33 29-34",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "52",
+	"id": "",
+	"source": "bct computer network analysts monitoring e-mail traffic conclude the messages recorded by keystroke logger at the antar internet caf ? on 04\/03\/10 and 04\/04\/10 were likely ? draft emails ? that were written but never sent .",
+	"target": "bct computer network analysts monitoring e-mail traffic conclude x . x is \" the messages recorded by keystroke logger at the antar internet caf ? on 04\/03\/10 and 04\/04\/10 were likely ? draft emails ? that were written but never sent . \"",
+	"score": "15.007271431587839",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31 27-32 28-33 29-34 30-35 31-36 32-37 33-38 34-39 35-40 36-41",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "53",
+	"id": "",
+	"source": "computer analysts concluded that without ip tracer data the ? draft ? messages were communications between accomplices sharing the e-mail account log - in and password .",
+	"target": "computer analysts concluded x . x is \" that without ip tracer data the ? draft ? messages were communications between accomplices sharing the e-mail account log - in and password . \"",
+	"score": "14.606886121961805",
+	"sureAlign": "0-0 1-1 2-2 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "54",
+	"id": "",
+	"source": "bct computer network analysts monitoring e-mail traffic via keystroke logger at antar internet caf ? indicate a gap in the ? draft ? messages sent on 04\/03\/10 and 04\/04\/10 , respectively ;",
+	"target": "bct computer network analysts monitoring e-mail traffic via keystroke logger at antar internet caf ? indicate x . x is \" a gap in the ? draft ? messages sent on 04\/03\/10 and 04\/04\/10 , respectively ; \"",
+	"score": "14.668829917907715",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31 27-32 28-33 29-34 30-35 31-36",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "55",
+	"id": "",
+	"source": "indicating one of the users is most likely communicating from outside the caf ? .",
+	"target": "indicates x . x is \" one of the users is most likely communicating from outside the caf ? . \"",
+	"score": "13.919985961914062",
+	"sureAlign": "0-0 1-6 2-7 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "56",
+	"id": "",
+	"source": "email from hassan al-buredi to omar khrayesh , indicates that al-buredi will be at the oil ministry building in east baghdad on 04\/17\/10 .",
+	"target": "email from hassan al-buredi to omar khrayesh , indicates x . x is \" that al-buredi will be at the oil ministry building in east baghdad on 04\/17\/10 . \"",
+	"score": "14.743546803792318",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "57",
+	"id": "",
+	"source": "khrayesh instructs al-buredi to call him on his cell phone number when his meeting is finished .",
+	"target": "khrayesh instructs al-buredi to x . x is \" call him on his cell phone number when his meeting is finished . \"",
+	"score": "13.995121675379137",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "58",
+	"id": "",
+	"source": "bct computer network analysis confirms email originated from antar internet caf ? in adhamiya .",
+	"target": "bct computer network analysis confirms x . x is \" email originated from antar internet caf ? in adhamiya . \"",
+	"score": "14.436590576171875",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "59",
+	"id": "",
+	"source": "bct counter surveillance team suspects man posing as hassan al-buredi is probable suicide bomber .",
+	"target": "bct counter surveillance team suspects x . x is \" man posing as hassan al-buredi is probable suicide bomber . \"",
+	"score": "14.240915934244791",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "60",
+	"id": "",
+	"source": "bct communications analysts report that a cell phone call was recorded just prior to bombing at shaikh omar tomb from unidentified male .",
+	"target": "bct communications analysts report x . x is \" that a cell phone call was recorded just prior to bombing at shaikh omar tomb from unidentified male . \"",
+	"score": "14.887386156165082",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "61",
+	"id": "",
+	"source": "sof member posing as a customer at antar internet caf ? confirms the presence of a man matching the description of wajeeh al-mutadee ;",
+	"target": "sof member posing as a customer at antar internet caf ? confirms x . x is \" the presence of a man matching the description of wajeeh al-mutadee ; \"",
+	"score": "14.384991963704428",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "62",
+	"id": "",
+	"source": "suspect captured by mnc - i on 04\/21\/10 in adhamiya is confirmed to be wajeeh al-mutadee .",
+	"target": "they confirmed x . x is \" suspect captured by mnc - i on 04\/21\/10 in adhamiya to be wajeeh al-mutadee . \"",
+	"score": "12.559785730698529",
+	"sureAlign": "0-7 1-8 2-9 3-10 4-11 5-12 6-13 7-14 8-15 9-16 10-5 11-1 12-17 13-18 14-19 15-20 16-21",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "63",
+	"id": "",
+	"source": "he said that he had often thought of suicide .",
+	"target": "he said x . x is \" he had often thought of suicide . \"",
+	"score": "13.636183166503907",
+	"sureAlign": "0-0 1-1 3-7 4-8 5-9 6-10 7-11 8-12 9-13",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "64",
+	"id": "",
+	"source": "the romantics thought that the artist was somehow a person with exaggerated qualities who was not like normal people .",
+	"target": "the romantics thought x . x is \" the artist was somehow a person with exaggerated qualities who was not like normal people . \"",
+	"score": "14.222828674316407",
+	"sureAlign": "0-0 1-1 2-2 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "65",
+	"id": "",
+	"source": "he told friends that the 1770 baptism was of his older brother ludwig maria .",
+	"target": "he told friends x . x is \" the 1770 baptism was of his older brother ludwig maria . \"",
+	"score": "14.062459309895834",
+	"sureAlign": "0-0 1-1 2-2 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "66",
+	"id": "",
+	"source": "both men believed that poetry should always come from the heart .",
+	"target": "both men believed x . x is \" poetry should always come from the heart . \"",
+	"score": "14.174086252848307",
+	"sureAlign": "0-0 1-1 2-2 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "67",
+	"id": "",
+	"source": "at this time he felt that a man 's task in life was to be useful .",
+	"target": "at this time he felt x . x is \" a man 's task in life was to be useful . \"",
+	"score": "13.676801793715534",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "68",
+	"id": "",
+	"source": "mitchell feigenbaum even convinced himself that \" goethe had been right about colour ! \"",
+	"target": "mitchell feigenbaum even convinced himself x . x is \" goethe had been right about colour ! \"",
+	"score": "13.962169392903645",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 6-9 7-10 8-11 9-12 10-13 11-14 12-15 13-16 14-17",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "69",
+	"id": "",
+	"source": "goethe pictures to himself that light and darkness relate to each other like the north and south pole of a magnet .",
+	"target": "goethe pictures to himself x . x is \" light and darkness relate to each other like the north and south pole of a magnet . \"",
+	"score": "14.518013694069602",
+	"sureAlign": "0-0 1-1 2-2 3-3 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "70",
+	"id": "",
+	"source": "he felt that this arising of colour at light - dark boundaries was fundamental to the creation of the spectrum .",
+	"target": "he felt x . x is \" this arising of colour at light - dark boundaries was fundamental to the creation of the spectrum . \"",
+	"score": "13.98619152250744",
+	"sureAlign": "0-0 1-1 3-7 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "71",
+	"id": "",
+	"source": "goethe sought to show that the prism was an integral factor in the arising of color .",
+	"target": "goethe sought to show x . x is \" the prism was an integral factor in the arising of color . \"",
+	"score": "13.99702543370864",
+	"sureAlign": "0-0 1-1 2-2 3-3 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "72",
+	"id": "",
+	"source": "newton explains the appearance of white with colored edges by saying that due to the differing overall amount of refraction , the rays mix together to create a full white towards the centre .",
+	"target": "newton explains the appearance of white with colored edges by saying x . x is \" due to the differing overall amount of refraction , the rays mix together to create a full white towards the centre . \"",
+	"score": "14.564807667451745",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25 22-26 23-27 24-28 25-29 26-30 27-31 28-32 29-33 30-34 31-35 32-36 33-37",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "73",
+	"id": "",
+	"source": "he also showed that the continuum hypothesis cannot be disproved from the accepted axioms of set theory .",
+	"target": "he also showed x . x is \" the continuum hypothesis cannot be disproved from the accepted axioms of set theory . \"",
+	"score": "14.105883280436197",
+	"sureAlign": "0-0 1-1 2-2 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "74",
+	"id": "",
+	"source": "a person living at the time called william of malmesbury said that in exeter both britons and saxons were equal in 927 .",
+	"target": "a person living at the time called william of malmesbury said x . x is \" in exeter both britons and saxons were equal in 927 . \"",
+	"score": "14.587142280910326",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25 22-26",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "75",
+	"id": "",
+	"source": "every member state signed to say that they each agreed with what it says .",
+	"target": "every member state signed to say x . x is \" they each agreed with what it says . \"",
+	"score": "14.32481689453125",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "76",
+	"id": "",
+	"source": "however , some ancient sources show that nero was popular with the common people during and after his reign .",
+	"target": "however , some ancient sources show x . x is \" nero was popular with the common people during and after his reign . \"",
+	"score": "14.482206726074219",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "77",
+	"id": "",
+	"source": "in fact , one modern philosopher said that all philosophy since plato has just been comments on his works .",
+	"target": "in fact , one modern philosopher said x . x is \" all philosophy since plato has just been comments on his works . \"",
+	"score": "14.276174926757813",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "78",
+	"id": "",
+	"source": "catholics believe that when making statements ex cathedra the pope is infallible .",
+	"target": "catholics believe x . x is \" when making statements ex cathedra the pope is infallible . \"",
+	"score": "13.539506178635817",
+	"sureAlign": "0-0 1-1 3-7 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "79",
+	"id": "",
+	"source": "she wrote a book called dialogue , which taught that if you love your neighbors it is loving god .",
+	"target": "she wrote a book called dialogue , which taught x . x is \" if you love your neighbors it is loving god . \"",
+	"score": "13.994804382324219",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "80",
+	"id": "",
+	"source": "doctors in the uk usually inform others that people with the condition have a mild to medium learning difficulty .",
+	"target": "doctors in the uk usually inform others x . x is \" people with the condition have a mild to medium learning difficulty . \"",
+	"score": "14.34501953125",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "81",
+	"id": "",
+	"source": "in 2005 the united nations said that by the end of that year , over half the world would be living in cities .",
+	"target": "in 2005 the united nations said x . x is \" by the end of that year , over half the world would be living in cities . \"",
+	"score": "14.411668141682943",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-15 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25 22-26 23-27",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "82",
+	"id": "",
+	"source": "current evidence strongly suggests that termites have evolved directly from true cockroaches .",
+	"target": "current evidence strongly suggests x . x is \" termites have evolved directly from true cockroaches . \"",
+	"score": "14.38714834359976",
+	"sureAlign": "0-0 1-1 2-2 3-3 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "83",
+	"id": "",
+	"source": "she claimed that her skill was greater than that of athena .",
+	"target": "she claimed x . x is \" her skill was greater than that of athena . \"",
+	"score": "13.871768951416016",
+	"sureAlign": "0-0 1-1 2-12 3-7 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "84",
+	"id": "",
+	"source": "pausanias wrote that aeschylus worked in a vineyard until the god dionysus visited him in his sleep .",
+	"target": "pausanias wrote x . x is \" aeschylus worked in a vineyard until the god dionysus visited him in his sleep . \"",
+	"score": "14.02354515923394",
+	"sureAlign": "0-0 1-1 3-7 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "85",
+	"id": "",
+	"source": "\" the bottom line is that we think that tamu massif was built in a short time of one to several million years and it has been extinct since , \" co - author william sager told the afp news agency .",
+	"target": "co - author william wager told the afp news agency x . x is \" the bottom line is that we think that tamu massif was built in a short time of one to several million years and it has been extinct since . \"",
+	"score": "12.517724900018601",
+	"sureAlign": "0-14 1-15 2-16 3-17 4-18 5-19 6-20 7-21 8-22 9-23 10-24 11-25 12-26 13-27 14-28 15-29 16-30 17-31 18-32 19-33 20-34 21-35 22-36 23-37 24-38 25-39 26-40 27-41 28-42 33-2 34-3 35-4 36-5 37-6 38-7 39-8 40-9 41-43",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "86",
+	"id": "",
+	"source": "einstein and leó szilárd wrote to the u .s . president to say that the united states should invent an atomic bomb so that the nazi government could not beat them to the punch .",
+	"target": "einstein and leó szilárd wrote to the u .s . president to say x . x is \" the united states should invent an atomic bomb so that the nazi government could not beat them to the punch . \"",
+	"score": "14.556338936941964",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-27 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25 22-26 23-27 24-28 25-29 26-30 27-31 28-32 29-33 30-34 31-35 32-36 33-37 34-38",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "87",
+	"id": "",
+	"source": "on your spaceship you say that their spaceship is coming closer to yours .",
+	"target": "on your spaceship you say x . x is \" their spaceship is coming closer to yours . \"",
+	"score": "13.436375209263392",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "88",
+	"id": "",
+	"source": "the constitution says that islam is the official state religion .",
+	"target": "the constitution says x . x is \" islam is the official state religion . \"",
+	"score": "13.45777615633878",
+	"sureAlign": "0-0 1-1 2-2 4-8 5-9 6-10 7-11 8-12 9-13 10-14",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "89",
+	"id": "",
+	"source": "the treaty also says that every nation is able to build nuclear power plants and have nuclear technology .",
+	"target": "the treaty also says x . x is \" every nation is able to build nuclear power plants and have nuclear technology . \"",
+	"score": "14.241193269428454",
+	"sureAlign": "0-0 1-1 2-2 3-3 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "90",
+	"id": "",
+	"source": "other theories say that it comes from one of three munsi words .",
+	"target": "other theories say x . x is \" it comes from one of three munsi words . \"",
+	"score": "14.080400907076323",
+	"sureAlign": "0-0 1-1 2-2 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "91",
+	"id": "",
+	"source": "economist milton friedman said that the great depression was worsened because the federal reserve printed out less money than usual .",
+	"target": "economist milton friedman said x . x is \" the great depression was worsened because the federal reserve printed out less money than usual . \"",
+	"score": "14.655697777157737",
+	"sureAlign": "0-0 1-1 2-2 3-3 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "92",
+	"id": "",
+	"source": "thomas henry huxley remarked that kelvin 's calculations were good .",
+	"target": "thomas henry huxley remarked x . x is \" kelvin 's calculations were good . \"",
+	"score": "13.780588323419744",
+	"sureAlign": "0-0 1-1 2-2 3-3 5-9 6-10 7-11 8-12 9-13 10-14",
+	"possibleAlign": ""
+	}
+]

@@ -1,0 +1,97 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> BCT </word>
+      </NNP>
+      <NNS>
+        <word> assets </word>
+      </NNS>
+    </NP>
+    <VP>
+      <VBP>
+        <word> are </word>
+      </VBP>
+      <VP>
+        <VBN>
+          <word> tasked </word>
+        </VBN>
+        <S>
+          <VP>
+            <TO>
+              <word> to </word>
+            </TO>
+            <VP>
+              <VB>
+                <word> monitor </word>
+              </VB>
+              <NP>
+                <NP>
+                  <DT>
+                    <word> the </word>
+                  </DT>
+                  <JJ>
+                    <word> probable </word>
+                  </JJ>
+                  <NNS>
+                    <word> locations </word>
+                  </NNS>
+                </NP>
+                <PP>
+                  <IN>
+                    <word> for </word>
+                  </IN>
+                  <NP>
+                    <NP>
+                      <DT>
+                        <word> the </word>
+                      </DT>
+                      <NN>
+                        <word> rendezvous </word>
+                      </NN>
+                    </NP>
+                    <PP>
+                      <IN>
+                        <word> between </word>
+                      </IN>
+                      <NP>
+                        <NP>
+                          <NNP>
+                            <word> Omar </word>
+                          </NNP>
+                          <NNP>
+                            <word> Khrayesh </word>
+                          </NNP>
+                        </NP>
+                        <CC>
+                          <word> and </word>
+                        </CC>
+                        <NP>
+                          <JJ>
+                            <word> bio-weapons </word>
+                          </JJ>
+                          <NN>
+                            <word> expert </word>
+                          </NN>
+                          <NNP>
+                            <word> Hassan </word>
+                          </NNP>
+                          <NNP>
+                            <word> Al-Buredi </word>
+                          </NNP>
+                        </NP>
+                      </NP>
+                    </PP>
+                  </NP>
+                </PP>
+              </NP>
+            </VP>
+          </VP>
+        </S>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

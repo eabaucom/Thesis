@@ -1,0 +1,177 @@
+# Notes
+# sents not needing new rules: 4,5,6,11,17,18,21,25,27,29,31,36,39,40,42,44,45,47,48
+
+# sents with bad parses, rewrite: 24,33,35,38,46,49,50
+#rewrite 24
+- state: q
+  lhs: ( (S (NP (EX There)) (VP (VBZ is) (ADJP (JJ much) (S (VP (TO to) (VP (VB suggest) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (NN environment))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS tetrapods)) (VP (VBD evolved))))))))))))) (. .)) )
+  rhs: ( ( (S (NP (JJ Much)) (VP (VBZ suggests) (NP (NNP X))) (. .)) ) ( (S (NP (NN X)) (VP (VBZ is) (`` ``) (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (NN environment))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS tetrapods)) (VP (VBD evolved)))))))) (. .) ('' '')) ) )
+#rewrite 33
+- state: q
+  lhs: ( (S (SBAR (IN Once) (S (NP (PRP$ their) (NNS interviewers)) (VP (VBD revealed) (PP (TO to) (NP (PRP them))) (SBAR (IN that) (S (NP (PRP$ their) (NNS names) (CC and) (NNS nationalities)) (VP (VBD were) (ADVP (RB already)) (VP (VBN known)))))))) (, ,) (NP (PRP they)) (VP (VBD confirmed) (NP (NP (PRP$ their) (NNS identities)) (PP (IN as) (NP (NP (NNP Ramses) (NNP Al-Sabah)) (CC and) (NP (NNP Nagib) (NNP Mandari)))))) (. .)) )
+  rhs: ( ( (S (NP (PRP$ Their) (NNS interviewers)) (VP (VBP reveal) (NP (NNP X))) (. .)) ) ( (S (NP (NN X)) (VP (VBZ is) (`` ``) (S (NP (PRP$ Their) (NNS names) (CC and) (NNS nationalities)) (VP (VBD were) (ADVP (RB already)) (VP (VBN known))))) (. .) ('' '')) ) ( (S (NP (PRP They)) (VP (VBP confirm) (NP (NNP Y))) (. .)) ) ( (S (NP (NNP Y)) (VP (VBZ is) (`` ``) (S (NP (PRP$ Their) (NNS identities)) (VP (VBP are) (NP (NP (NNP Ramses) (NNP Al-Sabah)) (CC and) (NP (NNP Nagib) (NNP Mandari)))))) (. .) ('' '')) ) )
+#rewrite 35
+- state: q
+  lhs: ( (S (NP (NNP Detainees) (NNP Al-Sabah) (CC and) (NNP Mandari)) (VP (VBP are) (ADJP (VBN informed) (SBAR (IN that) (S (NP (PRP they)) (VP (MD will) (VP (VB be) (VP (VBN turned) (PRT (RP over)) (PP (TO to) (NP (NP (PRP$ their) (NN government)) (PP (IN for) (NP (NN repatriation))))))))))) (PP (JJ due) (TO to) (NP (NP (PRP$ their) (NN lack)) (PP (IN of) (NP (NN cooperation)))))) (. .)) )
+  rhs: ( ( (NP (NNP Inform) (NNP X) (. .)) ) ( (S (S (NP (NN X)) (VP (VBZ is) (`` ``) (NP (NNP Detainees) (NNP Al-Sabah)))) (CC and) (S (NP (NNP Mandari)) (VP (MD will) (VP (VB be) (VP (VBN turned) (PRT (RP over)) (PP (TO to) (NP (PRP$ their) (NN government))) (PP (IN for) (NP (NP (NN repatriation)) (ADJP (JJ due) (PP (TO to) (NP (NP (PRP$ their) (NN lack)) (PP (IN of) (NP (NN cooperation)))))))))))) (. .) ('' '')) ) )
+#rewrite 38
+- state: q
+  lhs: ( (S (NP (NNP Al-Hardi)) (VP (VBD cited) (NP (NP (VBG growing) (NN business) (NNS opportunities)) (PP (IN in) (NP (NNP Iraq)))) (PP (VBN given) (NP (DT the) (NN fact) (SBAR (IN that) (, ,) (S (NP (NN ?the) (NN war)) (VP (MD will) (ADVP (RB soon)) (VP (VB be) (ADJP (JJ over.?)))))))))) )
+  rhs: ( ( (S (NP (NNP Al-Hardi)) (VP (VBD cited) (NP (NNP X))) (. .)) ) ( (S (NP (NN X)) (VP (VBZ is) (`` ``) (S (NP (EX There)) (VP (MD will) (VP (VB be) (NP (NP (VBG growing) (NN business) (NNS opportunities)) (PP (IN in) (NP (NNP Iraq))) (PP (VBN given) (NP (DT the) (NN fact) (SBAR (IN that) (, ,) (S (NP (NN ?the) (NN war)) (VP (MD will) (ADVP (RB soon)) (VP (VB be) (ADJP (JJ over?))))))))))))) (. .) ('' '')) ) )
+#rewrite 46
+- state: q
+  lhs: ( (S (NP (NNP Dahr)) (VP (VBZ offers) (NP (NP (JJ al-Hardi) (NN use)) (PP (IN of) (NP (PRP$ his) (JJ personal) (NN office) (NN computer))))) (. .)) )
+  rhs: ( ( (S (NP (NNP Dahr)) (VP (VBZ offers) (NP (NNP X))) (. .)) ) ( (S (NP (NN X)) (VP (VBZ is) (`` ``) (S (NP (NNP Al-Hardi)) (VP (MD can) (VP (VB use) (NP (NP (NNP Dahr) (POS 's)) (JJ personal) (NN office) (NN computer)))))) (. .) ('' '')) ) )
+#rewrite 49
+- state: q
+  lhs: ( (S (NP (NNP Omar) (NNP Khrayesh)) (VP (VBZ e-mails) (NP (DT a) (NN reply)) (PP (TO to) (NP (NNP Al-Buredi))) (S (VP (VBG saying) (SBAR (S (NP (NP (DT a) (NN meeting)) (PP (IN on) (NP (CD 04/06/10)))) (VP (MD will) (VP (VB work) (ADJP (JJ fine))))))))) (. .)) )
+  rhs: ( ( (S (NP (NNP Omar) (NNP Khrayesh)) (VP (VBZ emails) (NP (NNP X))) (. .)) ) ( (S (NP (NN X)) (VP (VBZ is) (`` ``) (S (NP (NP (DT A) (NN meeting)) (PP (IN on) (NP (CD 04/06/10)))) (VP (MD will) (VP (VB work) (ADJP (JJ fine)))))) (. .) ('' '')) ) )
+#rewrite 50
+- state: q
+  lhs: ( (S (NP (NNP Omar) (NNP Khrayesh)) (VP (VBZ suggests) (PP (TO to) (NP (NN Al-Buredi) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP meet) (PP (IN at) (NP (NP (PRP$ their) (NN alma) (NN mater)) (, ,) (NP (DT the) (NNP Mustansiriyia) (NNP University)))))))))) (. .)) )
+  rhs: ( ( (S (NP (NNP Omar) (NNP Khrayesh)) (VP (VBZ suggests) (NP (NNP X))) (. .)) ) ( (S (NP (NN X)) (VP (VBZ is) (`` ``) (S (NP (NP (NNP Omar) (NNP Khrayesh)) (CC and) (NP (NNP Al-Buredi))) (VP (MD should) (VP (VB meet) (PP (IN at) (NP (NP (PRP$ their) (NN alma) (NN mater)) (, ,) (NP (DT the) (NNP Mustansiriyia) (NNP University)))))))) (. .) ('' '')) ) )
+
+
+# basic, with complementizer
+# e.g. ( (S (NP (DT The) (NNP Giotto) (NN probe)) (VP (VBD found) (SBAR (IN that) (S (NP (NP (NNP Comet) (NNP Halley) (POS 's)) (NN nucleus)) (VP (VBZ reflects) (NP (NP (QP (RB approximately) (CD 4)) (NN %)) (PP (IN of) (NP (NP (DT the) (NN light)) (SBAR (WHNP (WDT that)) (S (VP (VBZ falls) (PP (IN on) (NP (PRP it))))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb (SBAR ?comp ?x)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?comp ?x ) (. .) ('' '')) ) ) 
+  
+# basic, no complementizer
+# e.g. ( (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (S (NP (DT the) (NN war)) (VP (VBZ is) (ADVP (RB over) (RB soon)))) (CC and) (S (NP (NNS people)) (VP (MD will) (VP (VB be) (ADVP (RB back) (PP (IN on) (NP (DT the) (NNS streets)))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb (SBAR ?x)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?x ) (. .) ('' '')) ) )
+  
+# basic, with complementizer, mod before main subject
+# e.g. ( (S (ADVP (RB Still)) (NP (NNS others)) (VP (VBP believe) (SBAR (IN that) (S (NP (DT the) (NNP Sabbath)) (VP (VBZ remains) (PP (IN as) (NP (NP (DT a) (NN day)) (PP (IN of) (NP (VB rest))))) (PP (IN on) (NP (NNP Saturday))))))) (. .)) )
+- state: q
+  lhs: ( (S ?mod ?subj (VP ?verb (SBAR ?comp ?x)) (. .)) )
+  rhs: ( ( (S ?mod ?subj (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?comp ?x ) (. .) ('' '')) ) )
+  
+# basic, with complementizer, PPmod before sub-clause
+# e.g. ( (S (NP (NP (NP (NNP Soviet) (NNP People) (POS 's)) (NNP Commissar)) (PP (IN for) (NP (NNP Foreign) (NNP Affairs) (NNP Vyacheslav) (NNP Molotov)))) (VP (VBD claimed) (PP (IN in) (NP (NN radio) (NNS broadcasts))) (SBAR (IN that) (S (NP (DT the) (NNP Soviet) (NNP Union)) (VP (VBD were) (RB not) (VP (VP (VBG dropping) (NP (NNS bombs))) (CONJP (CC but) (RB rather)) (VP (VBG delivering) (NP (NN food)) (PP (TO to) (NP (DT the) (NNP starving) (NNPS Finns))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb (PP ?pp ?ppobj) (SBAR ?comp ?x)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb (PP ?pp ?ppobj) X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?comp ?x ) (. .) ('' '')) ) ) 
+
+# basic, with complementizer, passive weasel voice
+# e.g. ( (S (NP (PRP It)) (VP (VBD was) (VP (VBN claimed) (SBAR (IN that) (S (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NN adult) (NN asylum) (NNS seekers)))) (VP (VBD threw) (NP (PRP$ their) (NNS children)) (PP (IN into) (NP (DT the) (NN water))) (, ,) (PP (ADVP (RB apparently)) (IN in) (NP (NP (NN protest)) (PP (IN at) (S (VP (VBG being) (VP (VBN turned) (PRT (RB away))))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?aux (VP ?verb (SBAR ?comp ?x))) (. .)) )
+  rhs: ( ( (S (NP they) (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?comp ?x ) (. .) ('' '')) ) )
+  
+# basic, with comp, passive weasel voice, extra mod
+# e.g. ( (S (NP (PRP It)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN said) (SBAR (IN that) (S (NP (CD 42)) (VP (VBZ is) (ADJP (JJ divisible) (PP (IN by) (NP (CD 7)))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?modal ?advp (VP ?aux (VP ?verb (SBAR ?comp ?x)))) (. .)) )
+  rhs: ( ( (S ?subj ?modal ?advp ?aux ?verb (NP X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?comp ?x ) (. .) ('' '')) ) )
+  
+# basic, with complementizer, passive weasel voice, front PPmod
+# e.g. ( (S (PP (IN On) (NP (CD 15))) (NP (NNP May) (CD 2006)) (, ,) (NP (PRP it)) (VP (VBD was) (VP (VBN announced) (SBAR (IN that) (S (NP (DT the) (NN station)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN redeveloped) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT a) (ADJP (QP ($ $) (CD 36) (CD million))) (NN dollar) (NN project)))))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?mod1 ?mod2 (, ,) ?subj (VP ?aux (VP ?verb (SBAR ?comp ?x))) (. .)) )
+  rhs: ( ( (S ?mod1 ?mod2 (, ,) (NP they) (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?comp ?x ) (. .) ('' '')) ) ) 
+  
+# basic, gerund object, with subject dropped in sub-clause, 
+# e.g. ( (S (NP (NNP Sean) (NNP Maher)) (VP (VBZ recalls) (SBAR (SBAR (S (VP (VP (VBG reading) (PP (IN for) (NP (DT the) (NN part)))) (CC and) (VP (VBG liking) (NP (NP (DT the) (NN character)) (PP (IN of) (NP (NNP Simon) (NNP Tam)))))))) (, ,) (CC but) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD was) (NP (NP (NP (NNP Whedon) (POS 's)) (NN personality) (CC and) (NN vision)) (SBAR (WHNP (WDT that)) (S (ADVP (RB ")) (VP (VBN sealed) (S (NP (DT the) (NN deal)) (VP (VBG ") (PP (IN for) (NP (PRP him)))))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb (SBAR ?x1 (, ,) (CC but) ?x2)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?subj (SBAR ?x1 (, ,) (CC but) ?x2 )) (. .) ('' '')) ) ) 
+
+# basic, with complementizer, 'however'
+# e.g. ( (S (NP (DT The) (NNP Shafi'i) (CC and) (NNP Hanbali) (NNS schools)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP argue) (SBAR (IN that) (S (S (NP (DT the) (NN appointment)) (VP (VBZ is) (RB not) (ADJP (JJ necessary)))) (CC and) (S (NP (DT the) (NN prayer)) (VP (VBZ is) (ADJP (JJ valid)) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN performed) (PP (IN in) (NP (DT a) (NN congregation))))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (, ,) (ADVP (RB however)) (, ,) (VP ?verb (SBAR ?comp ?x)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?comp ?x ) (. .) ('' '')) ) ) 
+  
+# basic, no complementizer, 'both'
+# e.g. ( (S (NP (NNP Sabah) (CC and) (NNP Mandari)) (DT both) (VP (VBP claim) (SBAR (S (NP (PRP they)) (ADVP (RB never)) (VP (VBD intended) (S (VP (TO to) (VP (VB be) (NP (JJ suicide) (NNS bombers))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (DT both) (VP ?verb ?x) (. .)) )
+  rhs: ( ( (S ?subj (DT both) (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?x ) (. .) ('' '')) ) )
+  
+# basic, no complementizer, fronted 'however', NP obj
+# e.g. ( (S (ADVP (RB however)) (NP (DT the) (NN e-mail)) (VP (VBD suggested) (NP (NP (DT a) (NN meeting)) (PP (IN with) (NP (NNP Khrayesh))) (PP (IN at) (NP (NP (DT a) (NN caf?)) (PP (IN on) (NP (NP (NNP Ali) (NNP Taleb) (NNP Street)) (PP (IN in) (NP (NNP Adhamiya))))) (PP (IN on) (NP (CD 02/03/10))))))) (. .)) )
+- state: q
+  lhs: ( (S (ADVP (RB however)) ?subj (VP ?verb ?obj) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?obj ) (. .) ('' '')) ) )
+  
+# basic, with fronted PPmod, passive, with complementizer
+# e.g. ( (S (PP (IN In) (NP (CD 2004))) (NP (PRP it)) (VP (VBD was) (VP (VBN estimated) (SBAR (IN that) (S (NP (EX there)) (VP (VBD were) (NP (NP (NP (CD 800) (NNS birds)) (PP (IN in) (NP (DT the) (JJ wild)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (CD 1000)) (PP (IN in) (NP (JJ wildfowl) (NNS collections) (CC and) (NNS zoos)))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?ppmod ?subj (VP ?aux (VP ?vbn (SBAR ?comp ?x))) (. .)) )
+  rhs: ( ( (S ?ppmod (NP They) ?vbn (NP X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?x ) (. .) ('' '')) ) )
+
+# full sent, with gerund adjunct containing the report
+# e.g. ( (S (NP (NNP Vera)) (VP (VBD returned) (PP (TO to) (NP (NNP New) (NNP Jersey))) (S (VP (VBG claiming) (SBAR (IN that) (S (NP (NNP Bangladesh)) (VP (VBD was) (RB not) (NP (DT a) (JJ good) (NN place)) (S (VP (TO to) (VP (VB raise) (NP (DT a) (NN baby))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb ?pparg (S (VP ?gerund ?sadjunct))) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb ?pparg (S (VP ?gerund) (NP X))) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) ?sadjunct (. .) ('' '')) ) )
+
+# verb with PP arg with 'to'
+# e.g. ( (S (NP (DT Neither) (NN man)) (VP (VBZ admits) (PP (TO to) (S (VP (VBG being) (NP (NP (DT the) (NN ?sender?)) (PP (IN of) (NP (NP (DT an) (NN email)) (PP (TO to) (NP (NNP Omar) (NNP Khrayesh)))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb (PP (TO to) ?gerund)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb (TO to) (NP X)) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) ?gerund (. .) ('' '')) ) )
+
+# NP consider/believe/etc X VP
+# e.g. ( (S (NP (JJ Many)) (VP (VBP consider) (S (NP (DT the) (NN flavor)) (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ agreeable)))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb (S ?obj ?vp)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb (NP X)) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) (S ?obj ?vp) (. .) ('' '')) ) )
+  
+# X is considered/believed/etc VP -- passive
+# e.g. ( (S (NP (NNP Malayalam)) (VP (VBZ is) (VP (VBN considered) (S (VP (TO to) (VP (VB have) (VP (VBN begun) (PP (IN as) (NP (NP (DT a) (NN dialect)) (PP (IN of) (NP (JJ old) (NNP Tamil))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?aux (VP ?vbn ?s)) (. .)) )
+  rhs: ( ( (S (NP They) (VP ?vbn (NP X)) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) (S ?subj ?s) (. .) ('' '')) ) )
+  
+# subj tells obj X
+# e.g. ( (S (NP (NNP Khrayesh)) (VP (VBZ tells) (NP (JJ various) (NNS shop-owners)) (SBAR (S (NP (PRP he)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB re-connect) (PP (IN with) (NP (NN Al-Buredi))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb ?obj (SBAR ?s)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb ?obj (NP X)) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) ?s (. .) ('' '')) ) )
+  
+# subj tells obj X, with complementizer
+# e.g. ( (S (NP (DT The) (JJ front) (NN company)) (VP (VBD instructed) (NP (DT the) (NN owner)) (SBAR (IN that) (S (NP (DT the) (NN installation) (NNS technicians)) (VP (MD will) (VP (VB come) (PP (IN by) (NP (NN tomorrow))) (SBAR (IN after) (S (NP (NN morning) (NNS prayers)) (VP (TO to) (VP (VB help) (VP (VB set) (PRT (RP up)) (NP (DT the) (JJ new) (NN equipment)))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb ?obj (SBAR ?comp ?s)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb ?obj (NP X)) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) ?comp ?s (. .) ('' '')) ) )
+
+# sbar arg after verb and prep
+# e.g. ( (S (NP (NNP Muslim) (NNS authorities)) (VP (VBP disagree) (PRT (RP over)) (SBAR (IN whether) (S (NP (DT the) (NN job)) (VP (MD can) (VP (VB be) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ minor))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb (PRT ?in) ?sentarg) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb ?in (NP X)) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) ?sentarg (. .) ('' '')) ) )
+
+# "verb'd NP as X"
+# e.g. ( (S (NP (NNS Surveys)) (VP (VBD ranked) (S (NP (NNP Denmark))) (SBAR (IN as) (X (X (X (SYM ")) (NP (NP (DT the) (JJS happiest) (NN place)) (PP (IN in) (NP (DT the) (NN world))))) (NP (SYM "))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?verb ?patient (SBAR (IN as) ?x)) (. .)) )
+  rhs: ( ( (S ?subj (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?patient (VP (VBZ is) ?x )) (. .) ('' '')) ) ) 
+  
+# front NP mod with comma
+# e.g. ( (S (ADVP (RB Dry)) (, ,) (NP (ADJP (JJ dusty) (, ,) (CC or) (JJ rocky)) (NNS surfaces)) (VP (VBP suggest) (SBAR (IN that) (S (NP (DT the) (NNS ices)) (VP (VBP are) (VP (VBN hidden) (PP (IN beneath) (NP (DT the) (NN crust)))))))) (. .)) )
+- state: q
+  lhs: ( (S ?frontmod (, ,) ?subj (VP ?verb ?x) (. .)) )
+  rhs: ( ( (S ?frontmod (, ,) ?subj (VP ?verb X) (. .)) ) ( (S (NP X) (VP (VBZ is) (`` ``) ?x ) (. .) ('' '')) ) )
+  
+# fronted 'according to'
+# e.g. ( (S (PP (VBG According) (PP (TO to) (NP (NP (DT the) (NNP Hanafi) (CC and) (NNP Maliki) (NN school)) (PP (IN of) (NP (JJ Islamic) (NN jurisprudence)))))) (, ,) (NP (NP (NN appointment)) (PP (IN of) (NP (NP (DT a) (NN prayer) (NN leader)) (PP (IN for) (NP (NNP Friday) (NN service)))))) (VP (VBZ is) (ADJP (JJ mandatory)) (SBAR (IN because) (S (ADVP (RB otherwise)) (NP (DT the) (NN prayer)) (VP (VBZ is) (ADJP (JJ invalid)))))) (. .)) )
+- state: q
+  lhs: ( (S (PP (VBG According) (PP (TO to) ?source)) (, ,) ?subj ?pred (. .)) )
+  rhs: ( ( (S (PP (VBG According) (PP (TO to) ?source)) (, ,) (S X) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) ?subj ?pred (. .) ('' '')) ) )
+
+# 'reportedly'
+# e.g. ( (S (NP (JJ Family) (NNS issues)) (ADVP (RB reportedly)) (VP (VBD led) (S (NP (NNP Vaughn)) (VP (TO to) (VP (VB withdraw) (SBAR (IN before) (S (NP (NN shooting)) (VP (VBD began)))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (ADVP (RB reportedly)) ?pred (. .)) )
+  rhs: ( ( (S (ADVP (RB reportedly)) (NP X) (. .)) ) ( (S (NP X) (VBZ is) (`` ``) ?subj ?pred (. .) ('' '')) ) )
+  
+# 'allegedly' modifying PP adjunct mod, with passive
+# e.g. ( (S (NP (DT The) (NN mosque)) (VP (VBD was) (VP (VBN built) (PP (IN by) (NP (NNP Babur))) (PP (ADVP (RB allegedly)) (IN on) (NP (NP (DT the) (NN site)) (PP (IN of) (NP (NP (DT a) (JJ previous) (NNP Hindu) (NN temple)) (VP (VBG marking) (NP (NP (DT the) (NN birthplace)) (PP (IN of) (NP (NN Ram))))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?subj (VP ?aux (VP ?vbn ?byagent (PP (ADVP (RB allegedly)) ?pp ?ppobject))) (. .)) )
+  rhs: ( ( (S (ADVP Allegedly) (S X) (. .)) ) ( (NP X) is (`` ``) (S ?subj (VP ?aux (VP ?vbn ?byagent (PP ?pp ?ppobject))) (. .) ('' '')) ) )

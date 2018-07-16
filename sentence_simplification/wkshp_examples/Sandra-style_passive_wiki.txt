@@ -1,0 +1,197 @@
+O: In the 4th century AD , Gaul � � � s eastern frontier along the Rhine was overrun by Germanic tribes , principally the Franks , from whom the ancient name of � � � Francie � � � was derived .
+M: Gaul 's eastern frontier along the Rhine was overrun by Germanic tribes .
+S: Germanic tribes overran Gaul 's eastern frontier along the Rhine .
+
+O: Much of the Enlightenment occurred in French intellectual circles , and major scientific breakthroughs were achieved by French scientists in the 18th century .
+M: Major scientific breakthroughs were achieved by French scientists in the 18th century .
+S: French scientists in the 18th century achieved major scientific breakthroughs .
+
+O+M: The word was first used by a scientist called Eratosthenes .
+S: A scientist called Eratosthenes first used the word .
+
+O: The paper written by Leonhard Euler on the Seven Bridges of K � � nigsberg and published in 1736 is regarded as the first paper in the history of graph theory .
+M: The paper is regarded as the first paper in the history of graph theory .
+S: We regard the paper as the first paper in the history of graph theory .
+
+O: IELTS is accepted by most Australian , British , Canadian , Irish , New Zealand and South African academic institutions , over 2,000 academic institutions in the United States , and various professional organisations .
+M: IELTS is accepted by most Australian , British , Canadian , Irish , New Zealand and South African academic institutions .
+S: Most Australian , British , Canadian , Irish , New Zealand and South African academic institutions accept IELTS .
+
+O: India is home to two major linguistic families : Indo-Aryan spoken by about 74 % of the population and Dravidian spoken by about 24 % .
+M: Indo-Aryan is spoken by about 74 % of the population .
+S: About 74 % of the population speaks Indo-Aryan .
+
+O: The island of Taiwan is claimed as a " province " by the People 's Republic of China PRC , but it not under their control , Taiwan is currently a democratic island known officially as the Republic of China Taiwan .
+M: The island of Taiwan is claimed as a " province " by the People 's Republic of China PRC .
+S: The People 's Republic of China PRC claim the island of Taiwan as a " province " .
+
+O: The seventeenth CGPM defines the metre as equal to the distance travelled by light in vacuum during a time interval of of a second .
+M: The distance is travelled by light in a vacuum during a time interval of a second .
+S: Light in a vacuum travels the distance during a time interval of a second .
+
+O: In mosques constructed and maintained by the government , the prayer leader is appointed by the ruler ; in private mosques , however , appointment is made by members of the congregation through majority voting .
+M: The prayer leader is appointed by the ruler .
+S: The ruler appoints the prayer leader .
+
+O: A dissenting opinion is presented by followers of the Maliki school of Islamic jurisprudence , who argue that non-Muslims may not be allowed into mosques under any circumstances .
+M: A dissenting opinion is presented by followers of the Maliki school of Islamic jurisprudence .
+S: Followers of the Maliki school of Islamic jurisprudence present a dissenting opinion .
+
+O: The problem with using more disks is that it is more likely that one will fail , but by using error checking the total system can be made more reliable by being able to survive and repair the failure .
+M: By using error checking the total system can be made more reliable .
+S: Using error checking can make the total system more reliable .
+
+O: It can also be said that 42 is divisible by 7 , 42 is a multiple of 7 , 7 divides 42 , or 7 is a factor of 42 .
+M: It can also be said that 42 is divisible by 7 .
+S: We can also say that 42 is divisible by 7 .
+
+O: Block wrote her first book , Weetzie Bat , while a student at UC Berkeley ; it was published in 1989 by Harper Collins .
+M: The book was published in 1989 by Harper Collins .
+S: Harper Collins published the book in 1989 .
+
+O: Multiple tornadoes produced by the same storm are referred to as a tornado family .
+M: Multiple tornadoes are referred to as a tornado family .
+S: We refer to multiple tornadoes as a tornado family .
+
+O: The Kansas City Athletics home and road uniforms were changed by Charles O. Finley in 1963 , to the colors of gold and green .
+M: The Kansas City Athletics home and road uniforms were changed by Charles O. Finley in 1963 . 
+S: Charles O. Finley changed the Kansas City Athletics home and road uniforms in 1963 .
+
+O: Wikipedia contains many different images , some of which are considered objectionable or offensive by some readers .
+M: Some of the images are considered objectionable or offensive by some readers .
+S: Some readers consider some of the images objectionable or offensive .
+
+O: This array distributes data across multiple disks , but the array is seen by the computer user and operating system as one single disk .
+M: The array is seen by the computer user and operating system as one single disk .
+S: The computer user and operating system see the array as one single disk .
+
+O: From as early as 1346 ships were being built at Wearmouth , by a merchant named Thomas Menville .
+M: Ships were being built at Wearmouth by a merchant named Thomas Menville .
+S: A merchant named Thomas Menville was building ships at Wearmouth .
+
+O: The diplomatic activities of the Holy See are directed by the Secretariat of State headed by the Cardinal Secretary of State , through the Section for Relations with States .
+M: The diplomatic activities of the Holy See are directed by the Secretariat of State . 
+S: The Secretariat of State directs the diplomatic activities of the Holy See .
+
+O: It is directed by Brett Ratner , who took over when Bryan Singer dropped out to direct Superman Returns .
+M: The movie is directed by Brett Ratner .
+S: Brett Ratner directs the movie .
+
+O: It was the ancient capital of Cerdanya in antiquity , before being replaced by Hix commune of Bourg-Madame , France in the Middle Ages .
+M: The capital was replaced by Hix commune in the Middle Ages .
+S: Hix commune replaced the capital in the Middle Ages .
+
+O: Elizabeth was named after her mother , great-grandmother Queen Alexandra , and grandmother Queen Mary,Brandreth , p.103 and was called " Lilibet " by her close family .
+M: Elizabeth was named after her mother .
+S: They named Elizabeth after her mother .
+
+O: The classification of crustaceans is currently being debated , and the Malacostraca are regarded by some authors as a class and by others as a subclass .
+M: The classification of crustaceans is currently being debated .
+S: They are currently debating the classification of crustaceans .
+
+O+M: The first boutique in Geneva was opened by Vacheron Constantin in 1906 .
+S: Vacheron Constantin opened the first boutique in Geneva in 1906 .
+
+O: G � � y � � k Khan is enthroned as the 3rd Great Khan of the Mongol Empire an event also witnessed by a papal mission under Giovanni da Pian del Carpine at Karakorum .
+M: Khan is enthroned as the 3rd Great Khan of the Mongol Empire .
+S: They enthrone Khan as the 3rd Great Khan of the Mongol Empire .
+
+O: Faisal was succeeded by his half-brother Khalid as King and Prime Minister ; their half-brother Prince Fahd was named Crown Prince and First Deputy Prime Minister .
+M: Faisal was succeeded by his half-brother Khalid as King .
+S: His half-brother Khalid succeeded Faisal as King .
+
+O: Oahu was apparently the first of the Hawaiian Islands sighted by the crew of HMS Resolution on 18 January 1778 during Captain James Cook 's third Pacific expedition .
+M: Oahu was sighted by the crew of HMS Resolution .
+S: The crew of HMS Resolution sighted Oahu .
+
+O: Wisconsin is bordered by the Montreal River ; Lake Superior and Michigan to the north ; by Lake Michigan to the east ; by Illinois to the south ; and by Iowa and Minnesota to the west .
+M: Wisconsin is bordered by the Montreal River .
+S: The Montreal River borders Wisconsin .
+
+O: Officially the league was abolished by Philip II of Spain in 1568 , but it is still in use unofficially in parts of Latin America , with exact meaning varying in different countries .
+M: Officially the league was abolished by Philip II of Spain in 1568 .
+S: Philip II of Spain officially abolished the league in 1568 .
+
+O: Overview The film was first announced in May 2005 by Ton Roosendaal , the chairman of the Blender Foundation and the lead developer of the foundation 's program , Blender .
+M: The film was first announced in May 2005 by Ton Roosendaal .
+S: Ton Roosendaal first announced the film in May 2005 .
+
+O: He was succeeded by his brother Crown Prince Abdullah , who had handled most of the day-to-day operations of the government .
+M: He was succeeded by his brother Crown Prince Abdullah .
+S: His brother Crown Prince Abdullah succeeded him .
+
+O: After the death of Conrad , the city was destroyed by his brother Manfred in 1259 , but soon rebuilt by Charles I of Anjou , its successor as king of Sicily .
+M: The city was destroyed by his brother Manfred in 1259 .
+S: His brother Manfred destroyed the city in 1259 .
+
+O: It is spoken by more than 280 million people as a first language and by 250 million more as a second language .
+M: It is spoken by more than 280 million people as a first language .
+S: More than 280 million people speak it as a first language .
+
+O: Hipparchus is considered the greatest ancient astronomical observer and , by some , the greatest overall astronomer of antiquity .
+M: Hipparchus is considered the greatest ancient astronomical observer .
+S: We consider Hipparchus the greatest ancient astronomical observer .
+
+O: The film 's instrumental music was an orchestral score composed and arranged by George Martin .
+M: An orchestral score was composed and arranged by George Martin .
+S: George Martin composed and arranged an orchestral score .
+
+O: The film is followed by four sequels , the final three of which were made in Hong Kong .
+M: The film is followed by four sequels .
+S: Four sequels follow the film .
+
+O: Laurent Clerc born Louis Laurent Marie Clerc 26 December 1785 � � � 18 July 1869 was called " The Apostle of the deaf in America " and " The Father of the Deaf " by generations of American deaf people .
+M: Laurent Clerc was called " The Father of the Deaf " by generations of American deaf people .
+S: Generations of American deaf people called Laurent Clerc " The Father of the Deaf " .
+
+O: The first degree was obtained by him before the Supreme Court of the former Federal District , the second one was achieved by Padr � � n at the Central University of Venezuela .
+M: The first degree was obtained by him before the Supreme Court .
+S: He obtained the first degree before the Supreme Court .
+
+O: Poland regained its independence as the Second Polish Republic in 1918 , after World War I , but was later occupied by Nazi Germany and the Soviet Union during World War II .
+M: Poland was later occupied by Nazi Germany and the Soviet Union during World War II .
+S: Nazi Germany and the Soviet Union later occupied Poland during World War II .
+
+O: Geography Jura is one of four departments of the Franche-Comt � � region and is surrounded by the French departments of Doubs , Haute-Sa � � ne , C � � te-d'Or , Sa � � ne-et-Loire , and Ain , as well as the Swiss canton of Vaud on the east .
+M: Jura is surrounded by French departments .
+S: French departments surround Jura .
+
+O: He was suggested by several to rewrite this book for boys , especially during an inspection of the Boys ' Brigade , a large youth movement drilled with military precision .
+M: He was suggested by several to rewrite this book for boys .
+S: Several suggested him to rewrite this book for boys .
+
+O: He was first elected as a delegate to the 1971 Constitutional Convention , then was arrested when martial law was declared by President Ferdinand Marcos .
+M: He was first elected as a delegate to the 1971 Constitutional Convention .
+S: They first elected him as a delegate to the 1971 Constitutional Convention .
+
+O: Morpheus and Trinity use a subway station telephone to exit the Matrix , but before Neo can leave , he is ambushed by Agent Smith .
+M: Neo is ambushed by Agent Smith .
+S: Agent Smith ambushes Neo .
+
+O: Again he specialised in British affairs , and the agency sent him as correspondent to London for a couple of years where he was later joined by his wife and two sons .
+M: He was later joined by his wife and two sons .
+S: His wife and two sons later joined him .
+
+O: On July 18 2002 , a Blender funding campaign was started by Roosendaal in order to collect donations and on September 7 2002 it was announced that enough funds had been collected and that the Blender source code would be released .
+M: A Blender funding campaign was started by Roosendaal in order to collect donations .
+S: Roosendaal started a Blender funding campaign in order to collect donations .
+
+O: Ancient Romans such as Pliny N.H. 5.10 thought that the river near Timbuktu was part of the Nile River , a belief also held by Ibn Battuta , while early European explorers thought that it flowed west and joined the Senegal River .
+M: The belief was also held by Ibn Battuta .
+S: Ibn Battuta also held the belief .
+
+O: Currently , there is one elementary particle predicted by the Standard Model that has yet to be observed : the Higgs boson .
+M: The Higgs boson is predicted by the Standard Model .
+S: The Standard Model predicts the Higgs boson .
+
+O: During the Russo-Turkish War Romania fought on the Russian side , in and in the 1878 Treaty of Berlin , Romania was recognized as an independent state by the Great Powers .
+M: In the 1878 Treaty of Berlin , Romania was recognized as an independent state by the Great Powers .
+S: In the 1878 Treaty of Berlin, the Great Powers recognized Romania as an independent state .
+
+O: It was written by Waldo Salt , directed by John Schlesinger , and stars Dustin Hoffman and then-newcomer Jon Voight in the title role .
+M: The movie was written by Waldo Salt .
+S: Waldo Salt wrote the movie .
+
+O: He was considered the heart and tongue of Ra as well as the means by which Ra 's will was translated into speech .
+M: He was considered the heart and tongue of Ra .
+S: They considered him the heart and tongue of Ra .

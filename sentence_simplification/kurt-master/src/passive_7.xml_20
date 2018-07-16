@@ -1,0 +1,56 @@
+<top>
+  <S>
+    <NP>
+      <DT>
+        <word> The </word>
+      </DT>
+      <NN>
+        <word> capital </word>
+      </NN>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> replaced </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <NP>
+              <JJ>
+                <word> Hix </word>
+              </JJ>
+              <NN>
+                <word> commune </word>
+              </NN>
+            </NP>
+            <PP>
+              <IN>
+                <word> in </word>
+              </IN>
+              <NP>
+                <DT>
+                  <word> the </word>
+                </DT>
+                <NNP>
+                  <word> Middle </word>
+                </NNP>
+                <NNPS>
+                  <word> Ages </word>
+                </NNPS>
+              </NP>
+            </PP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

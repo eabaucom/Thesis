@@ -1,0 +1,59 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Charles </word>
+      </NNP>
+      <NNP>
+        <word> O. </word>
+      </NNP>
+      <NNP>
+        <word> Finley </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> changed </word>
+      </VBD>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NNP>
+          <word> Kansas </word>
+        </NNP>
+        <NNP>
+          <word> City </word>
+        </NNP>
+        <NNP>
+          <word> Athletics </word>
+        </NNP>
+        <NN>
+          <word> home </word>
+        </NN>
+        <CC>
+          <word> and </word>
+        </CC>
+        <NN>
+          <word> road </word>
+        </NN>
+        <NNS>
+          <word> uniforms </word>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <word> in </word>
+        </IN>
+        <NP>
+          <CD>
+            <word> 1963 </word>
+          </CD>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

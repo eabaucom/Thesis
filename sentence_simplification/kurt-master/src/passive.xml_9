@@ -1,0 +1,61 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <NNS>
+          <word> Followers </word>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NNP>
+              <word> Maliki </word>
+            </NNP>
+            <NN>
+              <word> school </word>
+            </NN>
+          </NP>
+          <PP>
+            <IN>
+              <word> of </word>
+            </IN>
+            <NP>
+              <JJ>
+                <word> Islamic </word>
+              </JJ>
+              <NN>
+                <word> jurisprudence </word>
+              </NN>
+            </NP>
+          </PP>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> presented </word>
+      </VBP>
+      <NP>
+        <DT>
+          <word> a </word>
+        </DT>
+        <JJ>
+          <word> dissenting </word>
+        </JJ>
+        <NN>
+          <word> opinion </word>
+        </NN>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

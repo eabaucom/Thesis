@@ -1,0 +1,73 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <NN>
+          <word> Owner </word>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NN>
+              <word> caf? </word>
+            </NN>
+          </NP>
+          <PP>
+            <IN>
+              <word> in </word>
+            </IN>
+            <NP>
+              <NNP>
+                <word> Antar </word>
+              </NNP>
+              <NNP>
+                <word> Internet </word>
+              </NNP>
+              <NNP>
+                <word> Caf? </word>
+              </NNP>
+            </NP>
+          </PP>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> has </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> been </word>
+        </VBN>
+        <VP>
+          <VBN>
+            <word> identified </word>
+          </VBN>
+          <PP>
+            <IN>
+              <word> as </word>
+            </IN>
+            <NP>
+              <NNP>
+                <word> Kaleed </word>
+              </NNP>
+              <NNP>
+                <word> Dahr </word>
+              </NNP>
+            </NP>
+          </PP>
+        </VP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

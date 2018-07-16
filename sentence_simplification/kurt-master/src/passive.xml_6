@@ -1,0 +1,86 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <NP>
+          <DT>
+            <word> The </word>
+          </DT>
+          <NNS>
+            <word> People </word>
+          </NNS>
+          <POS>
+            <word> 's </word>
+          </POS>
+        </NP>
+        <NNP>
+          <word> Republic </word>
+        </NNP>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NNP>
+            <word> China </word>
+          </NNP>
+          <NNP>
+            <word> PRC </word>
+          </NNP>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> claim </word>
+      </VBP>
+      <NP>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <NN>
+            <word> island </word>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <word> of </word>
+          </IN>
+          <NP>
+            <NNP>
+              <word> Taiwan </word>
+            </NNP>
+          </NP>
+        </PP>
+      </NP>
+      <PP>
+        <IN>
+          <word> as </word>
+        </IN>
+        <NP>
+          <NP>
+            <DT>
+              <word> a </word>
+            </DT>
+            <JJ>
+              <word> \" </word>
+            </JJ>
+            <NN>
+              <word> province </word>
+            </NN>
+          </NP>
+          <X>
+            <SYM>
+              <word> \" </word>
+            </SYM>
+          </X>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

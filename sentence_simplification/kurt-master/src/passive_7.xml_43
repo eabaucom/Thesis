@@ -1,0 +1,53 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> He </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <ADVP>
+          <RB>
+            <word> later </word>
+          </RB>
+        </ADVP>
+        <VBD>
+          <word> joined </word>
+        </VBD>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <NP>
+              <PRP$>
+                <word> his </word>
+              </PRP$>
+              <NN>
+                <word> wife </word>
+              </NN>
+            </NP>
+            <CC>
+              <word> and </word>
+            </CC>
+            <NP>
+              <CD>
+                <word> two </word>
+              </CD>
+              <NNS>
+                <word> sons </word>
+              </NNS>
+            </NP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

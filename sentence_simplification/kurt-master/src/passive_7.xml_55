@@ -1,0 +1,102 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <word> The </word>
+        </DT>
+        <NN>
+          <word> e-mail </word>
+        </NN>
+      </NP>
+      <VP>
+        <VBN>
+          <word> sent </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <NP>
+              <NNP>
+                <word> Hassan </word>
+              </NNP>
+              <NNP>
+                <word> Al-Buredi </word>
+              </NNP>
+              <POS>
+                <word> 's </word>
+              </POS>
+            </NP>
+            <NN>
+              <word> account </word>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> traced </word>
+        </VBN>
+        <PP>
+          <TO>
+            <word> to </word>
+          </TO>
+          <NP>
+            <NP>
+              <DT>
+                <word> an </word>
+              </DT>
+              <JJ>
+                <word> IP </word>
+              </JJ>
+              <NN>
+                <word> address </word>
+              </NN>
+            </NP>
+            <VP>
+              <VBG>
+                <word> matching </word>
+              </VBG>
+              <NP>
+                <NP>
+                  <DT>
+                    <word> an </word>
+                  </DT>
+                  <NN>
+                    <word> Internet </word>
+                  </NN>
+                  <NN>
+                    <word> Caf? </word>
+                  </NN>
+                </NP>
+                <PP>
+                  <IN>
+                    <word> near </word>
+                  </IN>
+                  <NP>
+                    <NNP>
+                      <word> Maidan </word>
+                    </NNP>
+                    <NNP>
+                      <word> Square </word>
+                    </NNP>
+                  </NP>
+                </PP>
+              </NP>
+            </VP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

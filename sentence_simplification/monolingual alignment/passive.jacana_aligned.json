@@ -1,0 +1,941 @@
+[
+	{
+	"name": "1",
+	"id": "",
+	"source": "gaul 's eastern frontier along the rhine was overrun by germanic tribes .",
+	"target": "germanic tribes overran gaul 's eastern frontier along the rhine .",
+	"score": "11.649686373197115",
+	"sureAlign": "0-3 1-4 2-5 3-6 4-7 5-8 6-9 10-0 11-1 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "2",
+	"id": "",
+	"source": "major scientific breakthroughs were achieved by french scientists in the 18th century .",
+	"target": "french scientists achieved major scientific breakthroughs in the 18th century .",
+	"score": "12.447991004356972",
+	"sureAlign": "0-3 1-4 2-5 4-2 6-0 7-1 8-6 9-7 10-8 11-9 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "3",
+	"id": "",
+	"source": "the word was first used by a scientist called eratosthenes .",
+	"target": "a scientist called eratosthenes first used the word .",
+	"score": "11.22157773104581",
+	"sureAlign": "1-7 2-2 3-4 4-5 6-0 7-1 8-2 9-3 10-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "4",
+	"id": "",
+	"source": "the paper is regarded as the first paper in the history of graph theory .",
+	"target": "we regarded the paper as the first paper in the history of graph theory .",
+	"score": "13.69276835123698",
+	"sureAlign": "0-2 1-3 3-1 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "5",
+	"id": "",
+	"source": "ielts is accepted by most australian , british , canadian , irish , new zealand and south african academic institutions .",
+	"target": "most australian , british , canadian , irish , new zealand and south african academic institutions accepted ielts .",
+	"score": "12.847586495535714",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-4 9-5 10-6 11-7 12-8 13-9 14-10 15-11 16-12 17-13 18-14 19-15 20-18",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "6",
+	"id": "",
+	"source": "indo - aryan is spoken by about 74 % of the population .",
+	"target": "about 74 % of the population spoke indo - aryan .",
+	"score": "10.92627187875601",
+	"sureAlign": "0-7 1-8 2-9 6-0 7-1 8-2 9-3 10-4 11-5 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "7",
+	"id": "",
+	"source": "the island of taiwan is claimed as a \" province \" by the people 's republic of china prc .",
+	"target": "the people 's republic of china prc claim the island of taiwan as a \" province \" .",
+	"score": "11.14853744506836",
+	"sureAlign": "0-8 1-9 2-10 3-11 5-7 6-12 7-13 8-14 9-15 10-16 13-1 14-2 15-3 16-4 17-5 18-6 19-17",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "8",
+	"id": "",
+	"source": "the distance is travelled by light in a vacuum during a time interval of a second .",
+	"target": "light travelled the distance in a vacuum during a time interval of a second .",
+	"score": "13.301303639131433",
+	"sureAlign": "0-2 1-3 3-1 5-0 6-4 7-5 8-6 9-7 10-8 11-9 12-10 13-11 14-12 15-13 16-14",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "9",
+	"id": "",
+	"source": "the prayer leader is appointed by the ruler .",
+	"target": "the ruler appointed the prayer leader .",
+	"score": "10.590418497721354",
+	"sureAlign": "0-3 1-4 2-5 4-2 7-1 8-6",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "10",
+	"id": "",
+	"source": "a dissenting opinion is presented by followers of the maliki school of islamic jurisprudence .",
+	"target": "followers of the maliki school of islamic jurisprudence presented a dissenting opinion .",
+	"score": "11.833678181966146",
+	"sureAlign": "0-9 1-10 2-11 4-8 6-0 7-1 8-2 9-3 10-4 11-5 12-6 13-7 14-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "11",
+	"id": "",
+	"source": "by using error checking the total system can be made more reliable .",
+	"target": "we can make the total system more reliable by using error checking .",
+	"score": "11.58148193359375",
+	"sureAlign": "0-8 1-9 2-10 3-11 4-3 5-4 6-5 10-6 11-7 12-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "12",
+	"id": "",
+	"source": "it can also be said that 42 is divisible by 7 .",
+	"target": "we can also say that 42 is divisible by 7 .",
+	"score": "12.657705942789713",
+	"sureAlign": "1-1 2-2 3-3 4-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "13",
+	"id": "",
+	"source": "the book was published in 1989 by harper collins .",
+	"target": "harper collins published the book in 1989 .",
+	"score": "10.900536346435548",
+	"sureAlign": "0-3 1-4 3-2 4-5 5-6 7-0 8-1 9-7",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "14",
+	"id": "",
+	"source": "multiple tornadoes are referred to as a tornado family .",
+	"target": "we referred to multiple tornadoes as a tornado family .",
+	"score": "12.829428100585938",
+	"sureAlign": "0-3 1-4 3-1 4-2 5-5 6-6 7-7 8-8 9-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "15",
+	"id": "",
+	"source": "the kansas city athletics home and road uniforms were changed by charles o . finley in 1963 .",
+	"target": "charles o . finley changed the kansas city athletics home and road uniforms in 1963 .",
+	"score": "12.394052293565538",
+	"sureAlign": "0-5 1-6 2-7 3-8 4-9 5-10 6-11 7-12 9-4 11-0 12-1 13-2 14-3 15-13 16-14 17-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "16",
+	"id": "",
+	"source": "some of the images are considered objectionable or offensive by some readers .",
+	"target": "some readers considered some of the images objectionable or offensive .",
+	"score": "11.77007587139423",
+	"sureAlign": "0-3 1-4 2-5 3-6 5-2 6-7 7-8 8-9 10-0 11-1 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "17",
+	"id": "",
+	"source": "the array is seen by the computer user and operating system as one single disk .",
+	"target": "the computer user and operating system see the array as one single disk .",
+	"score": "12.575440406799316",
+	"sureAlign": "0-7 1-8 5-0 6-1 7-2 8-3 9-4 10-5 11-9 12-10 13-11 14-12 15-13",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "18",
+	"id": "",
+	"source": "ships were being built at wearmouth by a merchant named thomas menville .",
+	"target": "a merchant named thomas menville were building ships at wearmouth .",
+	"score": "10.79839618389423",
+	"sureAlign": "0-7 1-5 2-5 3-6 4-8 5-9 7-0 8-1 9-2 10-3 11-4 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "19",
+	"id": "",
+	"source": "the diplomatic activities of the holy see are directed by the secretariat of state .",
+	"target": "the secretariat of state directed the diplomatic activities of the holy see .",
+	"score": "11.330445353190104",
+	"sureAlign": "0-5 1-6 2-7 3-8 4-9 5-10 6-11 8-4 11-1 12-2 13-3 14-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "20",
+	"id": "",
+	"source": "the movie is directed by brett ratner .",
+	"target": "brett ratner directed the movie .",
+	"score": "10.10474967956543",
+	"sureAlign": "0-3 1-4 3-2 5-0 6-1 7-5",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "21",
+	"id": "",
+	"source": "the capital was replaced by hix commune in the middle ages .",
+	"target": "hix commune in the middle ages replaced the capital .",
+	"score": "11.11916732788086",
+	"sureAlign": "5-0 6-1 7-2 8-3 9-4 10-5 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "22",
+	"id": "",
+	"source": "elizabeth was named after her mother .",
+	"target": "we named elizabeth after her mother .",
+	"score": "12.451172964913505",
+	"sureAlign": "2-1 3-3 4-4 5-5 6-6",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "23",
+	"id": "",
+	"source": "the classification of crustaceans is currently being debated .",
+	"target": "we are currently debating the classification of crustaceans .",
+	"score": "10.553907606336805",
+	"sureAlign": "0-4 1-5 2-6 3-7 5-2 6-3 7-3 8-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "24",
+	"id": "",
+	"source": "the first boutique in geneva was opened by vacheron constantin in 1906 .",
+	"target": "vacheron constantin opened the first boutique in geneva in 1906 .",
+	"score": "11.987012423001802",
+	"sureAlign": "0-3 1-4 2-5 3-6 4-7 6-2 8-0 9-1 10-8 11-9 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "25",
+	"id": "",
+	"source": "khan is enthroned as the 3rd great khan of the mongol empire .",
+	"target": "we enthroned khan as the 3rd great khan of the mongol empire .",
+	"score": "13.447495680588942",
+	"sureAlign": "0-2 2-1 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "26",
+	"id": "",
+	"source": "faisal was succeeded by his half - brother khalid as king .",
+	"target": "his half - brother khalid as king succeeded faisal .",
+	"score": "11.614545186360678",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-4 9-5 10-6 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "27",
+	"id": "",
+	"source": "oahu was sighted by the crew of hms resolution .",
+	"target": "the crew of hms resolution sighted oahu .",
+	"score": "10.959661865234375",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-4 9-7",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "28",
+	"id": "",
+	"source": "wisconsin is bordered by the montreal river .",
+	"target": "the montreal river bordered wisconsin .",
+	"score": "10.557345390319824",
+	"sureAlign": "2-3 4-0 5-1 6-2 7-5",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "29",
+	"id": "",
+	"source": "officially the league was abolished by philip ii of spain in 1568 .",
+	"target": "philip ii of spain officially abolished the league in 1568 .",
+	"score": "11.467593853290264",
+	"sureAlign": "0-4 1-6 2-7 4-5 6-0 7-1 8-2 9-3 10-8 11-9 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "30",
+	"id": "",
+	"source": "the film was first announced in may 2005 by ton roosendaal .",
+	"target": "ton roosendaal first announced the film in may 2005 .",
+	"score": "11.24029286702474",
+	"sureAlign": "0-4 1-5 3-2 4-3 5-6 6-7 7-8 9-0 10-1 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "31",
+	"id": "",
+	"source": "he was succeeded by his brother crown prince abdullah .",
+	"target": "his brother crown prince abdullah succeeded he .",
+	"score": "11.385061645507813",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-4 9-7",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "32",
+	"id": "",
+	"source": "the city was destroyed by his brother manfred in 1259 .",
+	"target": "his brother manfred destroyed the city in 1259 .",
+	"score": "11.873099587180398",
+	"sureAlign": "0-4 1-5 2-2 3-3 5-0 6-1 7-2 8-6 9-7 10-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "33",
+	"id": "",
+	"source": "it is spoken by more than 280 million people as a first language .",
+	"target": "more than 280 million people spoke it as a first language .",
+	"score": "12.814871651785714",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-4 9-7 10-8 11-9 12-10 13-11",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "34",
+	"id": "",
+	"source": "hipparchus is considered the greatest ancient astronomical observer .",
+	"target": "we considered hipparchus the greatest ancient astronomical observer .",
+	"score": "13.033476935492622",
+	"sureAlign": "0-2 2-1 3-3 4-4 5-5 6-6 7-7 8-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "35",
+	"id": "",
+	"source": "an orchestral score was composed and arranged by george martin .",
+	"target": "george martin composed and arranged an orchestral score .",
+	"score": "11.29338281804865",
+	"sureAlign": "0-5 1-6 2-7 4-2 5-3 6-4 8-0 9-1 10-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "36",
+	"id": "",
+	"source": "the film is followed by four sequels .",
+	"target": "four sequels followed the film .",
+	"score": "10.47215461730957",
+	"sureAlign": "0-3 1-4 3-2 5-0 6-1 7-5",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "37",
+	"id": "",
+	"source": "laurent clerc was called \" the father of the deaf \" by generations of american deaf people .",
+	"target": "generations of american deaf people called laurent clerc \" the father of the deaf \" .",
+	"score": "11.575799730088976",
+	"sureAlign": "0-6 1-7 3-5 4-8 5-9 6-10 7-11 8-12 9-13 10-14 12-0 13-1 14-2 15-3 16-4 17-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "38",
+	"id": "",
+	"source": "the first degree was obtained by him before the supreme court .",
+	"target": "him obtained the first degree before the supreme court .",
+	"score": "12.242243448893229",
+	"sureAlign": "0-2 1-3 2-4 4-1 7-5 8-6 9-7 10-8 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "39",
+	"id": "",
+	"source": "poland was later occupied by nazi germany and the soviet union during world war ii .",
+	"target": "nazi germany and the soviet union later occupied poland during world war ii .",
+	"score": "12.579838752746582",
+	"sureAlign": "2-6 3-7 5-0 6-1 7-2 8-3 9-4 10-5 11-9 12-10 13-11 14-12 15-13",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "40",
+	"id": "",
+	"source": "jura is surrounded by french departments .",
+	"target": "french departments surrounded jura .",
+	"score": "10.324511936732701",
+	"sureAlign": "2-2 4-0 5-1 6-4",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "41",
+	"id": "",
+	"source": "he was suggested by several to rewrite this book for boys .",
+	"target": "several suggested he to rewrite this book for boys .",
+	"score": "12.508865356445312",
+	"sureAlign": "0-2 2-1 4-0 5-3 6-4 7-5 8-6 9-7 10-8 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "42",
+	"id": "",
+	"source": "he was first elected as a delegate to the 1971 constitutional convention .",
+	"target": "we first elected he as a delegate to the 1971 constitutional convention .",
+	"score": "13.696784386268028",
+	"sureAlign": "0-3 2-1 3-2 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "43",
+	"id": "",
+	"source": "neo is ambushed by agent smith .",
+	"target": "agent smith ambushed neo .",
+	"score": "10.329993111746651",
+	"sureAlign": "2-2 4-0 5-1 6-4",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "44",
+	"id": "",
+	"source": "he was later joined by his wife and two sons .",
+	"target": "his wife and two sons later joined he .",
+	"score": "11.470382690429688",
+	"sureAlign": "2-5 3-6 5-0 6-1 7-2 8-3 9-4 10-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "45",
+	"id": "",
+	"source": "a blender funding campaign was started by roosendaal in order to collect donations .",
+	"target": "roosendaal started a blender funding campaign in order to collect donations .",
+	"score": "12.599671500069755",
+	"sureAlign": "0-2 1-3 2-4 3-5 5-1 7-0 8-6 9-7 10-8 11-9 12-10 13-11",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "46",
+	"id": "",
+	"source": "the belief was also held by ibn battuta .",
+	"target": "ibn battuta also held the belief .",
+	"score": "10.433291965060764",
+	"sureAlign": "0-4 1-5 3-2 4-3 7-1 8-6",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "47",
+	"id": "",
+	"source": "the higgs boson is predicted by the standard model .",
+	"target": "the standard model predicted the higgs boson .",
+	"score": "10.912648010253907",
+	"sureAlign": "0-4 1-5 2-6 4-3 6-0 7-1 8-2 9-7",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "48",
+	"id": "",
+	"source": "in the 1878 treaty of berlin , romania was recognized as an independent state by the great powers .",
+	"target": "in the 1878 treaty of berlin , the great powers recognized romania as an independent state .",
+	"score": "12.671430085834704",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-11 9-10 10-12 11-13 12-14 13-15 15-7 16-8 17-9 18-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "49",
+	"id": "",
+	"source": "the movie was written by waldo salt .",
+	"target": "waldo salt wrote the movie .",
+	"score": "10.125761032104492",
+	"sureAlign": "0-3 1-4 5-0 6-1 7-5",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "50",
+	"id": "",
+	"source": "he was considered the heart and tongue of ra .",
+	"target": "we considered he the heart and tongue of ra .",
+	"score": "12.816952514648438",
+	"sureAlign": "0-2 2-1 3-3 4-4 5-5 6-6 7-7 8-8 9-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "51",
+	"id": "",
+	"source": "al-buredi is believed to be an adhamiya resident .",
+	"target": "we believed al-buredi to be an adhamiya resident .",
+	"score": "12.644277784559462",
+	"sureAlign": "2-1 3-3 4-4 5-5 6-6 7-7 8-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "52",
+	"id": "",
+	"source": "khrayesh was instructed to arrive at 0900hrs to sit at the table closest to the street .",
+	"target": "we instructed khrayesh to arrive at 0900hrs to sit at the table closest to the street .",
+	"score": "13.693026374368106",
+	"sureAlign": "0-2 2-1 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "53",
+	"id": "",
+	"source": "two men on a motor bike were observed fumbling with a backpack .",
+	"target": "we observed two men on a motor bike fumbling with a backpack .",
+	"score": "13.305995060847355",
+	"sureAlign": "0-2 1-3 2-4 3-5 4-6 5-7 7-1 8-8 9-9 10-10 11-11 12-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "54",
+	"id": "",
+	"source": "detainees al-sabah and mandari are informed that they will be turned over to their government for repatriation due to their lack of cooperation .",
+	"target": "we informed detainees al-sabah and mandari that they will be turned over to their government for repatriation due to their lack of cooperation .",
+	"score": "14.228886922200521",
+	"sureAlign": "0-2 1-3 2-4 3-5 5-1 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "55",
+	"id": "",
+	"source": "owner of the caf ? in antar internet caf ? has been identified as kaleed dahr .",
+	"target": "we have identified owner of the caf ? in antar internet caf ? as kaleed dahr .",
+	"score": "12.790589276482077",
+	"sureAlign": "0-3 1-4 2-5 3-6 4-7 5-8 6-9 7-10 8-11 9-12 12-2 13-13 14-14 15-15 16-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "56",
+	"id": "",
+	"source": "the e-mail sent by hassan al-buredi 's account was traced to an ip address matching an internet caf ? near maidan square .",
+	"target": "we traced the e-mail sent by hassan al-buredi 's account to an ip address matching an internet caf ? near maidan square .",
+	"score": "14.03812839673913",
+	"sureAlign": "0-2 1-3 2-4 3-5 4-6 5-7 6-8 7-9 9-1 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "57",
+	"id": "",
+	"source": "all of the packing boxes have been opened .",
+	"target": "we have opened all of the packing boxes .",
+	"score": "11.48643324110243",
+	"sureAlign": "0-3 1-4 2-5 3-6 4-7 5-1 7-2 8-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "58",
+	"id": "",
+	"source": "each computer has had its case opened and tampered with .",
+	"target": "they have opened and tampered with each computer 's case .",
+	"score": "11.002901944247158",
+	"sureAlign": "0-6 1-7 5-9 6-2 7-3 8-4 9-5 10-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "59",
+	"id": "",
+	"source": "he is met by an irate dahr who says they are worthless .",
+	"target": "an irate dahr who says they are worthless met he .",
+	"score": "11.93783451960637",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-4 9-5 10-6 11-7 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "60",
+	"id": "",
+	"source": "bct assets are tasked to monitor the probable locations for the rendezvous between omar khrayesh and bio - weapons expert hassan al-buredi .",
+	"target": "we tasked bct assets to monitor the probable locations for the rendezvous between omar khrayesh and bio - weapons expert hassan al-buredi .",
+	"score": "14.11239358653193",
+	"sureAlign": "0-2 1-3 3-1 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "61",
+	"id": "",
+	"source": "mnc - i counter intelligence asset is directed to proceed to the antar caf < e 9 > to pose as a customer in order to determine if wajeeh al-mutadee is present .",
+	"target": "we directed mnc - i counter intelligence asset to proceed to the antar caf < e 9 > to pose as a customer in order to determine if wajeeh al-mutadee is present .",
+	"score": "14.005425655480588",
+	"sureAlign": "0-2 1-3 2-4 3-5 4-6 5-7 7-1 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28 29-29 30-30 31-31 32-32",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "62",
+	"id": "",
+	"source": "suspect captured by mnc - i on 04\/21\/10 in adhamiya is confirmed to be wajeeh al-mutadee .",
+	"target": "we confirmed suspect captured by mnc - i on 04\/21\/10 in adhamiya to be wajeeh al-mutadee .",
+	"score": "12.945197610294118",
+	"sureAlign": "0-2 1-3 2-4 3-5 4-6 5-7 6-8 7-9 8-10 9-11 11-1 12-12 13-13 14-14 15-15 16-16",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "63",
+	"id": "",
+	"source": "in the 17th century the empire was shattered by the thirty years ' war .",
+	"target": "in the 17th century the thirty years ' war shattered the empire .",
+	"score": "11.988164265950521",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-11 7-9 9-4 10-5 11-6 12-7 13-8 14-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "64",
+	"id": "",
+	"source": "the metric system was invented by french scientists during the french revolution .",
+	"target": "french scientists invented the metric system during the french revolution .",
+	"score": "12.492200411283052",
+	"sureAlign": "0-3 1-4 2-5 4-2 6-8 7-1 8-6 9-7 10-8 11-9 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "65",
+	"id": "",
+	"source": "the rest of the city was captured by canadian forces during operation atlantic .",
+	"target": "canadian forces captured the rest of the city during operation atlantic .",
+	"score": "12.28500475202288",
+	"sureAlign": "0-3 1-4 2-5 3-6 4-7 6-2 8-0 9-1 10-8 11-9 12-10 13-11",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "66",
+	"id": "",
+	"source": "the suez canal was built by the universal suez ship canal company .",
+	"target": "the universal suez ship canal company built the suez canal .",
+	"score": "11.391068678635817",
+	"sureAlign": "1-2 2-4 4-6 6-0 7-1 8-2 9-3 10-4 11-5 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "67",
+	"id": "",
+	"source": "penicillin was discovered by scottish scientist sir alexander fleming in 1928 .",
+	"target": "scottish scientist sir alexander fleming discovered penicillin in 1928 .",
+	"score": "12.321615854899088",
+	"sureAlign": "2-5 4-0 5-1 6-2 7-3 8-4 9-7 10-8 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "68",
+	"id": "",
+	"source": "major politicians were chosen by political machines .",
+	"target": "political machines chose major politicians .",
+	"score": "10.375703811645508",
+	"sureAlign": "0-3 1-4 5-0 6-1 7-5",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "69",
+	"id": "",
+	"source": "they were symbolized by a character called \" rosie the riveter \" .",
+	"target": "a character called \" rosie the riveter \" symbolized them .",
+	"score": "11.70537860576923",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-4 9-5 10-6 11-7 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "70",
+	"id": "",
+	"source": "the canoe is propelled by the use of paddles .",
+	"target": "the use of paddles propels the canoe .",
+	"score": "10.386222839355469",
+	"sureAlign": "5-0 6-1 7-2 8-3 9-7",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "71",
+	"id": "",
+	"source": "a computer program is written by a programmer .",
+	"target": "a programmer writes a computer program .",
+	"score": "10.737796359592014",
+	"sureAlign": "0-3 1-4 2-5 6-0 7-1 8-6",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "72",
+	"id": "",
+	"source": "one of the first examples of this was built by hero of alexandria .",
+	"target": "hero of alexandria built one of the first examples of this .",
+	"score": "11.722466605050224",
+	"sureAlign": "0-4 1-5 2-6 3-7 4-8 5-9 6-10 8-3 10-0 11-1 12-2 13-11",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "73",
+	"id": "",
+	"source": "the first popular non - ibm video cards were manufactured by a company called hercules computer technology , inc .",
+	"target": "a company called hercules computer technology , inc. manufactured the first popular non - ibm video cards .",
+	"score": "11.547937774658203",
+	"sureAlign": "0-9 1-10 2-11 3-12 4-13 5-14 6-15 7-16 8-8 9-8 11-0 12-1 13-2 14-3 15-4 16-5 17-6 18-7 19-17",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "74",
+	"id": "",
+	"source": "democritus was proved right by physicist john dalton in 1804 .",
+	"target": "physicist john dalton proved democritus right in 1804 .",
+	"score": "11.726369684392756",
+	"sureAlign": "2-3 3-5 5-0 6-1 7-2 8-6 9-7 10-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "75",
+	"id": "",
+	"source": "barbara bush was portrayed by ellen burstyn in the 2008 film w .",
+	"target": "ellen burstyn portrayed barbara bush in the 2008 film w .",
+	"score": "12.564639751727764",
+	"sureAlign": "0-3 1-4 3-2 5-0 6-1 7-5 8-6 9-7 10-8 11-9 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "76",
+	"id": "",
+	"source": "a lot of south florida used to be covered by a swamp called the everglades .",
+	"target": "a swamp called the everglades used to cover a lot of south florida .",
+	"score": "11.585752487182617",
+	"sureAlign": "0-8 1-9 2-10 3-11 4-12 5-5 6-6 7-7 8-7 10-0 11-1 12-2 13-3 14-4 15-13",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "77",
+	"id": "",
+	"source": "australia was colonised by people from britain .",
+	"target": "people from britain colonised australia .",
+	"score": "10.586835861206055",
+	"sureAlign": "4-0 5-1 6-2 7-5",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "78",
+	"id": "",
+	"source": "in 1911 , the republic of china was founded by sun yat - sen .",
+	"target": "in 1911 , sun yat - sen founded the republic of china .",
+	"score": "11.359590657552083",
+	"sureAlign": "0-0 1-1 2-2 3-8 4-9 5-10 6-11 8-7 10-3 11-4 12-5 13-6 14-12",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "79",
+	"id": "",
+	"source": "new york city was settled by europeans from the netherlands in 1624 .",
+	"target": "europeans from the netherlands settled new york city in 1624 .",
+	"score": "12.132571880634014",
+	"sureAlign": "0-5 1-6 2-7 4-4 6-0 7-1 8-2 9-3 10-8 11-9 12-10",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "80",
+	"id": "",
+	"source": "shortly after , manhattan was greatly damaged by the great fire of new york in 1776 .",
+	"target": "shortly after , the great fire of new york greatly damaged manhattan in 1776 .",
+	"score": "12.790705961339613",
+	"sureAlign": "0-0 1-1 2-2 3-11 5-9 6-10 8-3 9-4 10-5 11-6 12-7 13-8 14-12 15-13 16-14",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "81",
+	"id": "",
+	"source": "in 1903 , a bronze tablet that bears the text of \" the new colossus \" and commemorates emma lazarus was presented by friends of the poet .",
+	"target": "in 1903 , friends of the poet presented a bronze tablet that bears the text of \" the new colossus \" and commemorates emma lazarus .",
+	"score": "12.812853131975446",
+	"sureAlign": "0-0 1-1 2-2 3-8 4-9 5-10 6-11 7-12 8-13 9-14 10-15 11-16 12-17 13-18 14-19 15-20 16-21 17-22 18-23 19-24 21-7 23-3 24-4 25-5 26-6 27-25",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "82",
+	"id": "",
+	"source": "some cars in the early 20th century were powered by electricity .",
+	"target": "electricity powered some cars in the early 20th century .",
+	"score": "11.834117889404297",
+	"sureAlign": "0-2 1-3 2-4 3-5 4-6 5-7 6-8 10-0 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "83",
+	"id": "",
+	"source": "in the 30s , 70s and 90s the underground was bombed many times by the ira .",
+	"target": "in the 30s , 70s and 90s the ira bombed the underground many times .",
+	"score": "11.900838515337776",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-11 10-9 11-12 12-13 14-7 15-8 16-14",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "84",
+	"id": "",
+	"source": "important issues are decided by the federation president .",
+	"target": "the federation president decides important issues .",
+	"score": "11.081966824001736",
+	"sureAlign": "0-4 1-5 3-3 5-0 6-1 7-2 8-6",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "85",
+	"id": "",
+	"source": "omega 3 and omega 6 fats are needed by the body .",
+	"target": "the body needs omega 3 and omega 6 fats .",
+	"score": "11.558947245279947",
+	"sureAlign": "0-3 1-4 2-5 3-6 4-7 5-8 10-1 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "86",
+	"id": "",
+	"source": "the vedas are considered scripture by all hindus .",
+	"target": "all hindus consider the vedas scripture .",
+	"score": "9.804007636176216",
+	"sureAlign": "0-3 1-4 3-2 4-5 7-1 8-6",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "87",
+	"id": "",
+	"source": "in the anglican church , bishops are governed by archbishops .",
+	"target": "in the anglican church , archbishops govern bishops .",
+	"score": "11.70609491521662",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 9-7 10-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "88",
+	"id": "",
+	"source": "on july 25 , 1943 , mussolini was removed by the great council of fascism .",
+	"target": "on july 25 , 1943 , the great council of fascism removed mussolini .",
+	"score": "12.31074333190918",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-12 8-11 10-6 11-7 12-8 13-9 14-10 15-13",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "89",
+	"id": "",
+	"source": "parliament was chosen by only a few percent of the people .",
+	"target": "only a few percent of the people chose parliament .",
+	"score": "11.692127227783203",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-4 9-5 10-6 11-9",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "90",
+	"id": "",
+	"source": "they are produced by a process called meiosis .",
+	"target": "a process called meiosis produces them .",
+	"score": "11.046688503689236",
+	"sureAlign": "4-0 5-1 6-2 7-3 8-6",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "91",
+	"id": "",
+	"source": "lane - clayton 's study was published by the british ministry of health .",
+	"target": "the british ministry of health published lane - clayton 's study .",
+	"score": "11.23905508858817",
+	"sureAlign": "0-6 1-7 2-8 3-9 4-10 6-5 8-0 9-1 10-2 11-3 12-4 13-11",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "92",
+	"id": "",
+	"source": "mathematics itself is seen as a language by many .",
+	"target": "many see mathematics itself as a language .",
+	"score": "11.18927459716797",
+	"sureAlign": "0-2 1-3 4-4 5-5 6-6 8-0 9-7",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "93",
+	"id": "",
+	"source": "on march 1 , 1978 , his body was stolen by a small group of swiss people .",
+	"target": "on march 1 , 1978 , a small group of swiss people stole his body .",
+	"score": "12.59669918484158",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-13 7-14 9-12 11-6 12-7 13-8 14-9 15-10 16-11 17-15",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "94",
+	"id": "",
+	"source": "about 71 % of the surface of the earth is covered by oceans .",
+	"target": "oceans cover about 71 % of the surface of the earth .",
+	"score": "11.894614083426339",
+	"sureAlign": "0-2 1-3 2-4 3-5 4-6 5-7 6-8 7-9 8-10 12-0 13-11",
+	"possibleAlign": ""
+	}
+]

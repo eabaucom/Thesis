@@ -1,0 +1,57 @@
+<top>
+  <S>
+    <NP>
+      <JJ>
+        <word> Major </word>
+      </JJ>
+      <JJ>
+        <word> scientific </word>
+      </JJ>
+      <NNS>
+        <word> breakthroughs </word>
+      </NNS>
+    </NP>
+    <VP>
+      <VBD>
+        <word> were </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> achieved </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <JJ>
+              <word> French </word>
+            </JJ>
+            <NNS>
+              <word> scientists </word>
+            </NNS>
+          </NP>
+        </PP>
+        <PP>
+          <IN>
+            <word> in </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <JJ>
+              <word> 18th </word>
+            </JJ>
+            <NN>
+              <word> century </word>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

@@ -1,0 +1,6 @@
+(TOP (S (NP (DT The) (NNP Kansas) (NNP City) (NNP Athletics) (NN home) (CC and) (NN road) (NNS uniforms)) (VP (VBD were) (VP (VBN changed) (PP (IN by) (NP (NNP Charles) (NNP O.) (NNP Finley))) (PP (IN in) (NP (CD 1963))) (, ,) (PP (TO to) (NP (NP (DT the) (NNS colors)) (PP (IN of) (NP (NN gold) (CC and) (NN green))))))) (. .)) )
+===============================================
+(TOP (S (PP (IN In) (NP (CD 1963))) (, ,) (NP (NNP Charles) (NNP O.) (NNP Finley)) (VP (VBD changed) (NP (PRP$ his) (NNP Kansas) (NNP City) (NNP Athletics)) (NP (NN home) (CC and) (NN road) (NNS uniforms))) (. .) (NP (PRP They)) (VP (VBD were) (VP (VBN changed) (PP (TO to) (NP (NP (DT the) (NNS colors)) (PP (IN of) (NP (NN gold) (CC and) (NN green))))))) (. .)) )
+
+insert after example 14 -- should also be a "good" example, though somewhat borderline
+got 50 pretty good examples, 8 really good, maybe only a couple perfect -- examples of passives; now try relative clauses

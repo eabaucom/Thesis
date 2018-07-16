@@ -1,0 +1,47 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <word> The </word>
+        </DT>
+        <NN>
+          <word> classification </word>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NNS>
+            <word> crustaceans </word>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <ADVP>
+        <RB>
+          <word> currently </word>
+        </RB>
+      </ADVP>
+      <VP>
+        <VBG>
+          <word> being </word>
+        </VBG>
+        <VP>
+          <VBN>
+            <word> debated </word>
+          </VBN>
+        </VP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

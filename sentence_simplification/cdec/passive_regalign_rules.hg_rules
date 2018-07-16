@@ -1,0 +1,1377 @@
+Sentence 1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN rhine) ||| eastern ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP (NN germanic) (NNS tribes)) ||| rhine ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(NN frontier) ||| overran ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP (DT the) [NN])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(IN along) ||| gaul 's ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP (NP [NN] (POS 's)) (JJ eastern) [NN]) ||| [1] tribes [2] ||| 0-0 1-1 2-1 3-2 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBN overrun) ||| frontier along ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(NN gaul) ||| germanic ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] (VP (VBD was) [VP]) [.]) ||| [1] [2] [3] ||| 0-0 2-1 3-2 ||| count=1.0 sent_count=1
+Sentence 2
+(NNS breakthroughs) ||| achieved ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBD were) (VP [VBN] (PP (IN by) [NP]) [PP])) ||| major [1] [2] [3] ||| 0-0 1-1 2-0 3-2 4-3 ||| count=1.0 sent_count=1
+(NP (JJ french) (NNS scientists)) ||| breakthroughs ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(JJ scientific) ||| scientists ||| 0-0 ||| count=1.0 sent_count=1
+(JJ 18th) ||| 18th ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN century) ||| century ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(JJ major) ||| french ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBN achieved) ||| scientific ||| 0-0 ||| count=1.0 sent_count=1
+(NP [JJ] [JJ] [NNS]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+Sentence 3
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBN called) (S (NP (NNS eratosthenes)))) ||| word ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(RB first) ||| first ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (DT the) (NN word)) (VP (VBD was) (ADVP [RB]) (VP (VBN used) (PP (IN by) (NP (NP (DT a) (NN scientist)) [VP])))) [.]) ||| a scientist called eratosthenes [1] used the [2] [3] ||| 1-0 1-1 2-1 3-4 4-2 4-3 4-5 8-7 9-8 ||| count=1.0 sent_count=1
+Sentence 4
+(NN theory) ||| theory ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(JJ first) ||| first ||| 0-0 ||| count=1.0 sent_count=1
+(NN paper) ||| regarded ||| 0-0 ||| count=1.0 sent_count=1
+(NN history) ||| history ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [2] [1] ||| 0-1 1-0 ||| count=1.0 sent_count=1
+(VBN regarded) ||| paper ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBZ is) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(NP [JJ] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S [NP] (VP [VBZ] [VP]) [.]) ||| [2] [1] [3] [4] ||| 0-1 1-0 2-2 3-3 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJ graph) ||| graph ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN paper) ||| paper ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 5
+(RBS most) ||| british ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [NNS]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(JJ new) ||| new ||| 0-0 ||| count=1.0 sent_count=1
+(NP [ADJP] [JJ] [NNS]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NNS ielts) ||| most ||| 0-0 ||| count=1.0 sent_count=1
+(NNS institutions) ||| ielts ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBZ is) (VP (VBN accepted) (PP (IN by) [NP]))) ||| australian , [1] ||| 0-0 1-0 1-1 3-2 ||| count=1.0 sent_count=1
+(ADJP [RBS] [JJ] (, ,) (JJ british) (, ,) (JJ canadian) (, ,) (JJ irish) (, ,) [JJ] (ADJP [JJ]) [CC] [ADJP]) ||| [1] [2] canadian , irish , [3] zealand [5] south [4] [6] ||| 0-0 1-1 2-2 2-3 3-3 4-4 4-5 5-5 6-5 7-7 8-5 8-7 9-6 10-10 11-8 12-11 ||| count=1.0 sent_count=1
+(RB south) ||| academic ||| 0-0 ||| count=1.0 sent_count=1
+(ADJP (ADVP [RB]) [JJ]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJ zealand) ||| african ||| 0-0 ||| count=1.0 sent_count=1
+(JJ african) ||| institutions ||| 0-0 ||| count=1.0 sent_count=1
+(JJ australian) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(JJ academic) ||| accepted ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 6
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN %) ||| indo ||| 0-0 ||| count=1.0 sent_count=1
+(CD 74) ||| spoke ||| 0-0 ||| count=1.0 sent_count=1
+(QP [IN] [CD]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN population) ||| aryan ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN about) ||| population ||| 0-0 ||| count=1.0 sent_count=1
+(NN indo) ||| about ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] (PP (IN of) (NP (DT the) [NN]))) ||| [1] - [2] ||| 0-0 3-2 ||| count=1.0 sent_count=1
+(S (NP [NN] (: -) (NN aryan)) (VP [VBZ] (VP (VBN spoken) [PP])) [.]) ||| [1] 74 % [2] [3] [4] ||| 0-0 1-1 2-1 2-2 3-3 4-2 5-4 6-5 ||| count=1.0 sent_count=1
+(NP [QP] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBZ is) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 7
+(POS 's) ||| 's ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] (NN prc)) ||| " [1] " ||| 0-1 1-0 1-2 ||| count=1.0 sent_count=1
+(NN island) ||| people ||| 0-0 ||| count=1.0 sent_count=1
+(VBN claimed) ||| china ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN taiwan) ||| republic ||| 0-0 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(NN china) ||| province ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(JJ ") ||| prc claim ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(S (NP [NP] (PP (IN of) (NP [NN]))) (VP (VBZ is) (VP [VBN] (PP [IN] (NP (NP [DT] [JJ] (NN province)) (PP (X (SYM ")) (IN by) (NP (NP (NP (DT the) (NNS people) [POS]) (NN republic)) (PP (IN of) [NP]))))))) [.]) ||| [1] [7] [2] of [3] [6] the island of taiwan [4] [5] [8] [9] ||| 0-0 1-3 2-2 3-3 4-4 5-10 6-11 7-5 8-7 9-7 9-9 10-6 10-8 11-6 13-1 16-12 17-13 ||| count=1.0 sent_count=1
+Sentence 8
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(NN interval) ||| interval ||| 0-0 ||| count=1.0 sent_count=1
+(NN vacuum) ||| vacuum ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(NN distance) ||| light travelled ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(JJ second) ||| second ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP (DT the) [NN]) (VP (VBZ is) [VP]) [.]) ||| [1] the [2] [3] ||| 0-1 1-0 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(NP [DT] [NN] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VP (VBN travelled) (PP (IN by) (NP (NP (NN light)) [PP]))) ||| distance [1] ||| 0-0 2-0 3-1 ||| count=1.0 sent_count=1
+(IN during) ||| during ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN time) ||| time ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 9
+(S (NP [DT] (NN prayer) (NN leader)) (VP (VBZ is) (VP (VBN appointed) (PP (IN by) (NP (DT the) [NN])))) [.]) ||| [1] ruler appointed the prayer [2] [3] ||| 0-0 1-1 2-1 2-2 3-2 4-2 4-4 5-3 6-3 7-5 8-6 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN ruler) ||| leader ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 10
+(VBZ is) ||| of the ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(NN jurisprudence) ||| opinion ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NP (DT the) [JJ] [NN]) ||| [1] [2] ||| 1-0 2-1 ||| count=1.0 sent_count=1
+(JJ maliki) ||| jurisprudence ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NP (NNS followers)) (PP [IN] [NP])) ||| school [1] islamic [2] ||| 0-0 0-2 1-1 2-3 ||| count=1.0 sent_count=1
+(NN islamic) ||| dissenting ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP (DT a) (JJ dissenting) (NN opinion)) (VP [VBZ] (VP (VBN presented) (PP (IN by) [NP]))) [.]) ||| followers [1] maliki [2] [3] ||| 0-0 1-0 2-2 3-1 4-2 6-3 7-4 ||| count=1.0 sent_count=1
+(NN school) ||| presented ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] (PP (IN of) [NP])) ||| [1] a [2] ||| 0-0 2-2 ||| count=1.0 sent_count=1
+Sentence 11
+(VP [VB] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VB be) ||| by ||| 0-0 ||| count=1.0 sent_count=1
+(VBN made) ||| using ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (S [ADJP])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(ADJP [RBR] [JJ]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN error) ||| make ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(MD can) ||| reliable ||| 0-0 ||| count=1.0 sent_count=1
+(VP [MD] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJ reliable) ||| checking ||| 0-0 ||| count=1.0 sent_count=1
+(RBR more) ||| error ||| 0-0 ||| count=1.0 sent_count=1
+(NN checking) ||| total ||| 0-0 ||| count=1.0 sent_count=1
+(VBG using) ||| we can ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(S (PP (IN by) (S (VP [VBG] (NP [NN] [NN])))) (NP [DT] (JJ total) (NN system)) [VP] [.]) ||| [1] [2] [4] [3] system more [5] [6] ||| 1-0 2-1 3-3 4-2 5-4 6-4 6-5 7-6 8-7 ||| count=1.0 sent_count=1
+Sentence 12
+(IN that) ||| that ||| 0-0 ||| count=1.0 sent_count=1
+(RB also) ||| also ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VB be) (VP (VBN said) [SBAR])) ||| say [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(ADJP (JJ divisible) (PP (IN by) (NP [CD]))) ||| divisible by [1] ||| 0-0 0-1 1-1 2-2 ||| count=1.0 sent_count=1
+(SBAR [IN] [S]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [MD] (ADVP [RB]) [VP]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(S (NP (CD 42)) (VP (VBZ is) [ADJP])) ||| 42 is [1] ||| 0-0 0-1 1-1 2-2 ||| count=1.0 sent_count=1
+(PRP it) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(MD can) ||| can ||| 0-0 ||| count=1.0 sent_count=1
+(CD 7) ||| 7 ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [PRP]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+Sentence 13
+(NP (NN harper) (NNS collins)) ||| 1989 ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [2] [1] ||| 0-1 1-0 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN book) ||| collins ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1989) ||| book ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBD was) (VP (VBN published) [PP] (PP [IN] [NP]))) ||| published [2] [1] [3] ||| 0-0 1-0 2-2 3-1 4-3 ||| count=1.0 sent_count=1
+(DT the) ||| harper ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+Sentence 14
+(NN family) ||| family ||| 0-0 ||| count=1.0 sent_count=1
+(RB as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(NP [RB] [DT] [JJ] [NN]) ||| [1] [2] [3] [4] ||| 0-0 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(JJ multiple) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(NP [JJ] [NNS]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJ tornado) ||| tornado ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBP are) (VP [VBN] (PP (TO to) [NP]))) ||| to [1] [2] ||| 0-0 1-1 2-0 3-2 ||| count=1.0 sent_count=1
+(NNS tornadoes) ||| referred ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VBN referred) ||| multiple tornadoes ||| 0-0 0-1 ||| count=1.0 sent_count=1
+Sentence 15
+(NN finley) ||| uniforms ||| 0-0 ||| count=1.0 sent_count=1
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(NN road) ||| kansas ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN changed) ||| home ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(CD 1963) ||| 1963 ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NNS charles) (NN o.)) ||| road ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(NN home) ||| changed ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [DT] [NNS] (NN city) (NNS athletics) [NN] [CC] [NN] (NNS uniforms)) (VP (VBD were) (VP [VBN] (PP (IN by) [NP]) [PP])) [.]) ||| [2] finley [3] [1] [5] city athletics [6] [4] [7] [8] [9] ||| 0-3 1-0 2-1 3-1 4-2 5-8 6-4 7-5 7-6 8-6 9-7 11-9 12-10 13-11 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(NNS kansas) ||| charles o. ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 16
+(DT some) ||| or ||| 0-0 ||| count=1.0 sent_count=1
+(ADJP (JJ objectionable) (CC or) [JJ]) ||| images [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(VBN considered) ||| considered ||| 0-0 ||| count=1.0 sent_count=1
+(NNS readers) ||| offensive ||| 0-0 ||| count=1.0 sent_count=1
+(DT some) ||| some ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NNS]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP (NP [DT]) (PP [IN] (NP (DT the) (NNS images)))) (VP (VBP are) (VP [VBN] (S [ADJP]) (PP (IN by) [NP]))) [.]) ||| [1] [2] [3] some of the [4] [5] [6] ||| 0-0 1-1 3-3 4-3 5-2 6-6 8-7 9-8 ||| count=1.0 sent_count=1
+(IN of) ||| readers ||| 0-0 ||| count=1.0 sent_count=1
+(JJ offensive) ||| objectionable ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 17
+(NN computer) ||| operating ||| 0-0 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(JJ single) ||| single ||| 0-0 ||| count=1.0 sent_count=1
+(NN array) ||| computer ||| 0-0 ||| count=1.0 sent_count=1
+(NN system) ||| system ||| 0-0 ||| count=1.0 sent_count=1
+(VBN seen) ||| user ||| 0-0 ||| count=1.0 sent_count=1
+(NN disk) ||| disk ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (DT the) [NN]) (VP (VBZ is) [VP]) [.]) ||| the [1] [2] [3] ||| 0-0 1-1 2-0 3-2 4-3 ||| count=1.0 sent_count=1
+(NN user) ||| see ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN operating) ||| array ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(CD one) ||| one ||| 0-0 ||| count=1.0 sent_count=1
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(NP [CD] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NP [DT] [NN] [NN] [CC] [NN] [NN]) ||| [4] [2] [6] [3] [1] [5] ||| 0-4 1-1 2-3 3-0 4-5 5-2 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) [NP]) [PP]) ||| [1] [2] [3] ||| 0-0 2-1 3-2 ||| count=1.0 sent_count=1
+Sentence 18
+(NP [NNS] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NNS thomas) ||| at ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(VBN wearmouth) ||| menville were ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(NN menville) ||| wearmouth ||| 0-0 ||| count=1.0 sent_count=1
+(VBD were) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (NNS ships)) (VP [VBD] (VP (VBG being) [VP])) [.]) ||| [1] merchant named [2] [3] ||| 0-1 1-0 2-1 2-2 3-3 4-4 ||| count=1.0 sent_count=1
+(VP (VBN built) (PP (IN at) (S [VP]))) ||| thomas [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(NP (NP (DT a) (NN merchant)) (VP (VBN named) (S [NP]))) ||| building ships [1] ||| 0-0 1-0 1-1 2-1 3-2 ||| count=1.0 sent_count=1
+Sentence 19
+(NN state) ||| see ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] (PP [IN] (NP [NN]))) ||| [2] [1] [3] ||| 0-1 1-0 2-2 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP [NP] (PP [IN] (NP [DT] (NN holy)))) (VP (VB see) (S (VP (VBP are) (VP (VBN directed) (PP (IN by) [NP]))))) [.]) ||| [1] [2] state directed [3] diplomatic activities [4] [5] ||| 0-0 1-1 2-4 3-2 3-3 4-5 5-5 6-3 6-6 8-7 9-8 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NN secretariat) ||| holy ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] (JJ diplomatic) (NNS activities)) ||| [1] secretariat ||| 0-0 1-1 2-1 ||| count=1.0 sent_count=1
+Sentence 20
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NN brett) (NN ratner)) ||| movie ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(S (NP (DT the) (NN movie)) (VP (VBZ is) [VP]) [.]) ||| brett ratner [1] [2] ||| 0-0 1-0 1-1 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(VBN directed) ||| directed ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 21
+(NN commune) ||| ages ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NNS]) ||| [2] [1] [3] ||| 0-1 1-0 2-2 ||| count=1.0 sent_count=1
+(NNS ages) ||| capital ||| 0-0 ||| count=1.0 sent_count=1
+(NN capital) ||| commune ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(JJ middle) ||| replaced ||| 0-0 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| hix ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN hix) ||| middle ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] (VP (VBD was) (VP (VBN replaced) [PP])) [.]) ||| [1] [2] [3] ||| 0-0 3-1 4-2 ||| count=1.0 sent_count=1
+(PP [IN] (NP [NP] (PP [IN] [NP]))) ||| [3] [1] [2] [4] ||| 0-1 1-2 2-0 3-3 ||| count=1.0 sent_count=1
+Sentence 22
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (NN elizabeth)) (VP (VBD was) [VP]) [.]) ||| we named [1] [2] ||| 0-0 0-1 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(NN mother) ||| mother ||| 0-0 ||| count=1.0 sent_count=1
+(NP [PRP$] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN named) ||| elizabeth ||| 0-0 ||| count=1.0 sent_count=1
+(IN after) ||| after ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PRP$ her) ||| her ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 23
+(VBZ is) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP (VBG being) (VP (VBN debated))) ||| crustaceans ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(NNS crustaceans) ||| debating ||| 0-0 ||| count=1.0 sent_count=1
+(RB currently) ||| classification ||| 0-0 ||| count=1.0 sent_count=1
+(NN classification) ||| are ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [NNS])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN of) ||| currently ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBZ] (ADVP [RB]) [VP]) ||| [1] [2] of [3] ||| 0-0 1-1 2-3 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 24
+(NP [NP] (PP (IN in) (NP [CD]))) ||| in [1] in [2] ||| 0-1 1-0 1-2 2-3 ||| count=1.0 sent_count=1
+(NP (NP (DT the) (JJ first) (NN boutique)) (PP (IN in) (NP (NN geneva)))) ||| vacheron constantin opened ||| 0-0 1-1 2-0 2-1 2-2 4-2 ||| count=1.0 sent_count=1
+(VP [VBD] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(NP (NN vacheron) (NN constantin)) ||| geneva ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(CD 1906) ||| 1906 ||| 0-0 ||| count=1.0 sent_count=1
+(VBD was) ||| the first ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VBN opened) ||| boutique ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 25
+(NP [DT] [NN] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBN enthroned) ||| khan ||| 0-0 ||| count=1.0 sent_count=1
+(NN mongol) ||| mongol ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN empire) ||| empire ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN khan) ||| khan ||| 0-0 ||| count=1.0 sent_count=1
+(VBZ is) ||| enthroned ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [JJ] [NN]) ||| [1] [2] [3] [4] ||| 0-0 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(NN khan) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VBZ] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP [NN]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(JJ 3rd) ||| 3rd ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJ great) ||| great ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 26
+(VP [VBN] (PP (IN by) (NP [PRP$] (ADJP [JJ] [:] (NN brother)) (NN khalid))) (PP [IN] (NP [NN]))) ||| [1] [4] [2] [3] [5] king succeeded [6] ||| 0-0 2-2 3-3 4-1 5-5 5-6 6-5 7-4 8-7 ||| count=1.0 sent_count=1
+(VBN succeeded) ||| half ||| 0-0 ||| count=1.0 sent_count=1
+(NN king) ||| faisal ||| 0-0 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (NN faisal)) (VP (VBD was) [VP]) [.]) ||| his [1] [2] ||| 0-0 1-0 2-1 3-2 ||| count=1.0 sent_count=1
+(JJ half) ||| khalid ||| 0-0 ||| count=1.0 sent_count=1
+(: -) ||| - ||| 0-0 ||| count=1.0 sent_count=1
+(PRP$ his) ||| brother ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 27
+(NP [NNS] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP (NN oahu)) (VP (VBD was) [VP]) [.]) ||| the [1] [2] ||| 0-0 1-0 2-1 3-2 ||| count=1.0 sent_count=1
+(NN resolution) ||| oahu ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NNS hms) ||| sighted ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| hms ||| 0-0 ||| count=1.0 sent_count=1
+(NN crew) ||| resolution ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN sighted) ||| crew ||| 0-0 ||| count=1.0 sent_count=1
+(IN by) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] (PP (IN of) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 28
+(NN river) ||| wisconsin ||| 0-0 ||| count=1.0 sent_count=1
+(NN wisconsin) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBZ is) (VP (VBN bordered) (PP (IN by) [NP]))) ||| montreal river [1] ||| 0-0 1-0 1-1 2-1 3-2 ||| count=1.0 sent_count=1
+(S (NP [NN]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NP (DT the) (JJ montreal) [NN]) ||| bordered [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 29
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(RB officially) ||| philip ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP (NN philip) (NN ii)) ||| abolished ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(NN league) ||| ii ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1568) ||| 1568 ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [NP] (PP (IN of) (NP [NN])) [PP])) ||| [2] [1] [3] [4] ||| 0-1 1-0 3-2 4-3 ||| count=1.0 sent_count=1
+(NN spain) ||| league ||| 0-0 ||| count=1.0 sent_count=1
+(S (ADVP [RB]) (NP (DT the) [NN]) (VP (VBD was) [VP]) [.]) ||| [1] [2] of [3] [4] ||| 0-0 1-2 2-1 3-2 4-3 5-4 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(VBN abolished) ||| spain officially ||| 0-0 0-1 ||| count=1.0 sent_count=1
+Sentence 30
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBD was) (VP (ADVP (RB first)) [VBN] [PP])) ||| first [1] the [2] ||| 0-0 1-0 2-1 3-3 ||| count=1.0 sent_count=1
+(NN film) ||| roosendaal ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(MD may) ||| film ||| 0-0 ||| count=1.0 sent_count=1
+(JJ roosendaal) ||| 2005 ||| 0-0 ||| count=1.0 sent_count=1
+(NN ton) ||| may ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [JJ]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| ton ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VBN announced) ||| announced ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (S (VP [MD] (VP (VB 2005) (PP (IN by) [NP]))))) ||| [2] [1] [3] ||| 0-1 1-0 4-2 ||| count=1.0 sent_count=1
+Sentence 31
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP (PRP he)) (VP (VBD was) [VP]) [.]) ||| his [1] [2] ||| 0-0 1-0 2-1 3-2 ||| count=1.0 sent_count=1
+(NN abdullah) ||| he ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBN succeeded) (PP (IN by) (NP [PRP$] (NN brother))) (S (VP (NN crown) [NP]))) ||| brother crown [1] abdullah [2] ||| 0-0 0-1 1-1 2-2 3-3 4-3 5-4 ||| count=1.0 sent_count=1
+(PRP$ his) ||| prince ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN prince) ||| succeeded ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 32
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN city) ||| brother ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBN destroyed) (PP [IN] (NP (PRP$ his) (NN brother))) (S (VP (VBN manfred) [PP]))) ||| manfred destroyed [1] city [2] ||| 0-0 0-1 1-2 2-1 3-3 4-3 5-4 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBD was) ||| his ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1259) ||| 1259 ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP (DT the) [NN]) (VP [VBD] [VP]) [.]) ||| [2] [1] [3] [4] ||| 1-1 2-0 3-2 4-3 ||| count=1.0 sent_count=1
+Sentence 33
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(CD 280) ||| spoke ||| 0-0 ||| count=1.0 sent_count=1
+(VBN spoken) ||| 280 ||| 0-0 ||| count=1.0 sent_count=1
+(PRP it) ||| more ||| 0-0 ||| count=1.0 sent_count=1
+(QP (JJR more) (IN than) [CD] [CD]) ||| million people [1] [2] ||| 0-0 1-0 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(NN language) ||| language ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [PRP]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) (NP [QP] (NNS people))) [PP]) ||| [1] [2] [3] ||| 0-0 2-1 4-2 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(VBZ is) ||| than ||| 0-0 ||| count=1.0 sent_count=1
+(JJ first) ||| first ||| 0-0 ||| count=1.0 sent_count=1
+(CD million) ||| it ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBZ] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 34
+(NP [DT] [JJS] [JJ] [JJ] [NN]) ||| [1] [2] [3] [4] [5] ||| 0-0 1-1 2-2 3-3 4-4 ||| count=1.0 sent_count=1
+(JJ astronomical) ||| astronomical ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (NN hipparchus)) (VP (VBZ is) [VP]) [.]) ||| we [1] [2] ||| 0-0 1-0 2-1 3-2 ||| count=1.0 sent_count=1
+(VBN considered) ||| considered hipparchus ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(VP [VBN] (S [NP])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJ ancient) ||| ancient ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(JJS greatest) ||| greatest ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN observer) ||| observer ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 35
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(NN george) ||| orchestral ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [DT] (JJ orchestral) (NN score)) (VP (VBD was) [VP]) [.]) ||| [1] martin composed [2] [3] ||| 0-0 1-1 2-1 2-2 3-2 4-3 5-4 ||| count=1.0 sent_count=1
+(DT an) ||| george ||| 0-0 ||| count=1.0 sent_count=1
+(NN martin) ||| score ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP (VP (VBN composed)) [CC] (VP (VBN arranged) (PP (IN by) [NP]))) ||| [1] arranged an [2] ||| 0-1 1-0 2-1 2-2 4-3 ||| count=1.0 sent_count=1
+Sentence 36
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP (CD four) (NNS sequels)) ||| film ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(S (NP (DT the) (NN film)) (VP (VBZ is) [VP]) [.]) ||| four sequels [1] [2] ||| 0-0 1-0 1-1 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(VBN followed) ||| followed ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 37
+(PP [IN] [NP]) ||| [1] the [2] ||| 0-0 1-2 ||| count=1.0 sent_count=1
+(NN father) ||| laurent ||| 0-0 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NNS generations) ||| father ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (NN laurent) (NN clerc)) (VP [VBD] [VP]) [.]) ||| generations [1] american [2] [3] ||| 0-0 1-0 1-2 2-1 3-3 4-4 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NN ") ||| " ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (S (ADJP (JJ "))) (NP (NP (DT the) [NN]) (PP [IN] (NP (DT the) (JJ deaf) [NN]))) [PP]) ||| deaf [3] [1] [2] clerc [4] [5] ||| 0-2 3-3 4-1 6-0 6-4 7-5 8-6 ||| count=1.0 sent_count=1
+(NP (NP [NNS]) [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN called) ||| called ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VBD was) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| people ||| 0-0 ||| count=1.0 sent_count=1
+(NP (JJ american) (JJ deaf) (NNS people)) ||| deaf " ||| 0-0 1-0 1-1 2-1 ||| count=1.0 sent_count=1
+Sentence 38
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VBD was) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VBN obtained) ||| degree ||| 0-0 ||| count=1.0 sent_count=1
+(NN court) ||| court ||| 0-0 ||| count=1.0 sent_count=1
+(JJ first) ||| first ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (DT the) [JJ] [NN]) (VP [VBD] [VP]) [.]) ||| [2] [3] [1] [4] [5] ||| 1-2 2-0 3-1 4-3 5-4 ||| count=1.0 sent_count=1
+(NN degree) ||| him obtained ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(JJ supreme) ||| supreme ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) (NP (PRP him))) (PP (IN before) [NP])) ||| [1] before [2] ||| 0-0 2-1 3-1 4-2 ||| count=1.0 sent_count=1
+Sentence 39
+(NN war) ||| war ||| 0-0 ||| count=1.0 sent_count=1
+(NN germany) ||| union ||| 0-0 ||| count=1.0 sent_count=1
+(NP (DT the) [JJ] [NN]) ||| [1] [2] ||| 1-0 2-1 ||| count=1.0 sent_count=1
+(NP [NN] [NN] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(RB later) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN union) ||| poland ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN ii) ||| ii ||| 0-0 ||| count=1.0 sent_count=1
+(JJ soviet) ||| occupied ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [NN]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN world) ||| world ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP (VBD was) (ADVP [RB]) [VP]) ||| [1] [2] ||| 1-0 2-1 ||| count=1.0 sent_count=1
+(NN poland) ||| nazi germany ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(CC and) ||| later ||| 0-0 ||| count=1.0 sent_count=1
+(NN nazi) ||| soviet ||| 0-0 ||| count=1.0 sent_count=1
+(IN during) ||| during ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [NP] [CC] [NP]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VP (VBN occupied) [PP] [PP]) ||| [1] [2] ||| 1-0 2-1 ||| count=1.0 sent_count=1
+Sentence 40
+(S (NP [NN]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NN jura) ||| french ||| 0-0 ||| count=1.0 sent_count=1
+(NP (JJ french) (NNS departments)) ||| jura ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBZ is) (VP (VBN surrounded) (PP (IN by) [NP]))) ||| departments surrounded [1] ||| 0-0 1-0 1-1 2-1 3-2 ||| count=1.0 sent_count=1
+Sentence 41
+(VP (VB rewrite) (NP (DT this) (NN book)) [PP]) ||| this book [1] ||| 0-0 1-0 1-1 2-1 3-2 ||| count=1.0 sent_count=1
+(NNS boys) ||| boys ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [NNS])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP (VBD was) (VP (VBN suggested) (PP (IN by) (NP [JJ])) (S (VP [TO] [VP])))) ||| suggested he [2] [1] [3] ||| 0-0 1-0 1-1 3-3 4-2 5-4 ||| count=1.0 sent_count=1
+(JJ several) ||| rewrite ||| 0-0 ||| count=1.0 sent_count=1
+(PRP he) ||| several ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [PRP]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN for) ||| for ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 42
+(NN delegate) ||| delegate ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(PP [TO] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP (VBD was) (VP (ADVP (RB first)) [VBN] [PP])) ||| first [1] [2] ||| 0-0 1-0 2-1 3-2 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN elected) ||| elected he ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(JJ constitutional) ||| constitutional ||| 0-0 ||| count=1.0 sent_count=1
+(PRP he) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(CD 1971) ||| 1971 ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [CD] [JJ] [NN]) ||| [1] [2] [3] [4] ||| 0-0 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(NN convention) ||| convention ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [PRP]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+Sentence 43
+(S (NP (NN neo)) (VP (VBZ is) [VP]) [.]) ||| agent [1] [2] ||| 0-0 1-0 2-1 3-2 ||| count=1.0 sent_count=1
+(NN smith) ||| neo ||| 0-0 ||| count=1.0 sent_count=1
+(PP (IN by) (NP (NN agent) [NN])) ||| ambushed [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(VBN ambushed) ||| smith ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 44
+(S (NP (PRP he)) (VP (VBD was) [VP]) [.]) ||| his [1] [2] ||| 0-0 1-0 2-1 3-2 ||| count=1.0 sent_count=1
+(NP (NP [PRP$] (NN wife)) (CC and) [NP]) ||| [1] later [2] ||| 0-0 1-1 2-1 3-2 ||| count=1.0 sent_count=1
+(VP (ADVP [RB]) [VBD] (PP (IN by) [NP])) ||| [1] [2] [3] ||| 0-0 1-1 3-2 ||| count=1.0 sent_count=1
+(CD two) ||| joined ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VBD joined) ||| two ||| 0-0 ||| count=1.0 sent_count=1
+(RB later) ||| wife and ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(NNS sons) ||| he ||| 0-0 ||| count=1.0 sent_count=1
+(NP [CD] [NNS]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PRP$ his) ||| sons ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 45
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(VB collect) ||| collect ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBN started) (PP (IN by) (NP (NN roosendaal))) [SBAR]) ||| funding campaign [1] ||| 0-0 0-1 2-1 3-2 ||| count=1.0 sent_count=1
+(NNS donations) ||| donations ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJR] [NN] [NN]) ||| [2] [3] [1] [4] ||| 0-2 1-0 2-1 3-3 ||| count=1.0 sent_count=1
+(NN funding) ||| started ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VB] (NP [NNS])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJR blender) ||| roosendaal ||| 0-0 ||| count=1.0 sent_count=1
+(VP [TO] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(SBAR [IN] [NN] (S [VP])) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(S [NP] (VP (VBD was) [VP]) [.]) ||| [1] [2] [3] ||| 0-0 2-1 3-2 ||| count=1.0 sent_count=1
+(NN order) ||| order ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(NN campaign) ||| blender ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 46
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(RB also) ||| also ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [DT] (NN belief)) (VP (VBD was) (ADVP [RB]) [VP]) [.]) ||| [1] battuta [2] [3] [4] ||| 0-0 1-1 2-1 3-2 4-3 5-4 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP (NN ibn) (NN battuta)) ||| belief ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(VBN held) ||| held ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| ibn ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 47
+(S (NP [DT] (NNS higgs) (NN boson)) (VP (VBZ is) [VP]) [.]) ||| [1] standard model [2] [3] ||| 0-0 1-1 2-1 2-2 3-2 4-3 5-4 ||| count=1.0 sent_count=1
+(NN model) ||| boson ||| 0-0 ||| count=1.0 sent_count=1
+(PP (IN by) (NP (DT the) [JJ] [NN])) ||| the [1] [2] ||| 0-0 1-0 2-1 3-2 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(JJ standard) ||| higgs ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VBN predicted) ||| predicted ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 48
+(VBN recognized) ||| powers ||| 0-0 ||| count=1.0 sent_count=1
+(DT an) ||| an ||| 0-0 ||| count=1.0 sent_count=1
+(S (PP [IN] (NP [NP] (PP [IN] (NP (NN berlin))))) [,] (NP (NN romania)) [VP] [.]) ||| [1] [2] [3] berlin [4] [5] [6] ||| 0-0 1-1 2-2 3-3 4-4 5-3 6-5 7-6 ||| count=1.0 sent_count=1
+(VP [VBD] [VP]) ||| [1] great [2] ||| 0-0 1-2 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NNS powers) ||| state ||| 0-0 ||| count=1.0 sent_count=1
+(JJ great) ||| independent ||| 0-0 ||| count=1.0 sent_count=1
+(NN treaty) ||| treaty ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [CD] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP (NP [DT] (JJ independent) (NN state)) (PP (IN by) [NP]))) ||| recognized romania [1] [2] [3] ||| 0-2 1-3 2-0 2-1 3-1 5-4 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1878) ||| 1878 ||| 0-0 ||| count=1.0 sent_count=1
+(NP (DT the) [JJ] [NNS]) ||| [1] [2] ||| 1-0 2-1 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(VBD was) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 49
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NN waldo) (NN salt)) ||| movie ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(S (NP (DT the) (NN movie)) (VP (VBD was) [VP]) [.]) ||| waldo salt [1] [2] ||| 0-0 1-0 1-1 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(VBN written) ||| wrote ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 50
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [PRP]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NN tongue) ||| tongue ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [NN])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN ra) ||| ra ||| 0-0 ||| count=1.0 sent_count=1
+(VBD was) ||| he ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBD] (VP [VBN] (S [NP]))) ||| [2] [1] [3] ||| 0-1 1-0 2-2 ||| count=1.0 sent_count=1
+(NN heart) ||| heart ||| 0-0 ||| count=1.0 sent_count=1
+(VBN considered) ||| considered ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NP [NN]) [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PRP he) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [CC] [NP]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+Sentence 51
+(VP [VBZ] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBZ is) ||| believed ||| 0-0 ||| count=1.0 sent_count=1
+(VP [TO] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJ adhamiya) ||| adhamiya ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(NN al-buredi) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [NN]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VP [VB] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN believed) ||| al-buredi ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VP [VBN] (S [VP])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN resident) ||| resident ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VB be) ||| be ||| 0-0 ||| count=1.0 sent_count=1
+(DT an) ||| an ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 52
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(IN at) ||| at ||| 0-0 ||| count=1.0 sent_count=1
+(VB sit) ||| sit ||| 0-0 ||| count=1.0 sent_count=1
+(IN at) ||| at ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(CD 0900hrs) ||| 0900hrs ||| 0-0 ||| count=1.0 sent_count=1
+(JJS closest) ||| closest ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [TO] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN instructed) ||| instructed ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN street) ||| street ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [NN]) (VP (VBD was) (VP [VBN] (S [VP]) (S [VP]))) [.]) ||| we [2] [1] [3] [4] [5] ||| 0-2 2-1 3-3 4-4 5-5 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VB] [PP] [ADVP]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN khrayesh) ||| khrayesh ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(NN table) ||| table ||| 0-0 ||| count=1.0 sent_count=1
+(VP [TO] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(ADVP [JJS] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VB] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VB arrive) ||| arrive ||| 0-0 ||| count=1.0 sent_count=1
+(VP [TO] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 53
+(VP [VBG] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBG fumbling) ||| fumbling ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(NN motor) ||| men ||| 0-0 ||| count=1.0 sent_count=1
+(NP [CD] [NNS]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN observed) ||| bike ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(CD two) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN bike) ||| motor ||| 0-0 ||| count=1.0 sent_count=1
+(IN with) ||| with ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (S [VP])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN on) ||| on ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN backpack) ||| backpack ||| 0-0 ||| count=1.0 sent_count=1
+(NNS men) ||| observed two ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(S (NP [NP] (PP [IN] (NP (DT a) [NN] [NN]))) (VP (VBD were) [VP]) [.]) ||| [1] [3] [2] a [4] [5] [6] ||| 0-0 1-2 2-3 3-1 4-4 5-3 6-5 7-6 ||| count=1.0 sent_count=1
+Sentence 54
+(PP [IN] (NP [NN])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(RP over) ||| over ||| 0-0 ||| count=1.0 sent_count=1
+(VBN turned) ||| turned ||| 0-0 ||| count=1.0 sent_count=1
+(NN repatriation) ||| repatriation ||| 0-0 ||| count=1.0 sent_count=1
+(PRP$ their) ||| their ||| 0-0 ||| count=1.0 sent_count=1
+(NNS detainees) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(NP [PRP$] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP [NNS] [JJ] (CC and) [NN]) (VP (VBP are) [ADJP]) [.]) ||| [1] [2] [3] and [4] [5] ||| 0-0 1-1 2-3 3-2 4-3 5-4 6-5 ||| count=1.0 sent_count=1
+(NN government) ||| government ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN that) ||| that ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(VP [MD] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(IN for) ||| for ||| 0-0 ||| count=1.0 sent_count=1
+(JJ due) ||| due ||| 0-0 ||| count=1.0 sent_count=1
+(NN mandari) ||| al-sabah ||| 0-0 ||| count=1.0 sent_count=1
+(MD will) ||| will ||| 0-0 ||| count=1.0 sent_count=1
+(NN lack) ||| lack ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(NN cooperation) ||| cooperation ||| 0-0 ||| count=1.0 sent_count=1
+(VBN informed) ||| mandari ||| 0-0 ||| count=1.0 sent_count=1
+(JJ al-sabah) ||| informed detainees ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(PRP$ their) ||| their ||| 0-0 ||| count=1.0 sent_count=1
+(VB be) ||| be ||| 0-0 ||| count=1.0 sent_count=1
+(ADJP [JJ] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP [PRP]) [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(ADJP [VBN] [SBAR]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PRP they) ||| they ||| 0-0 ||| count=1.0 sent_count=1
+(PP [TO] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VBN] (PRT [RP]) [PP] [PP]) ||| [1] [2] [3] [4] ||| 0-0 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(PP [TO] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [PRP$] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VB] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP (NP [NN]) [ADJP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(SBAR [IN] [S]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 55
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(FRAG [NP] (. ?) (PP [IN] (NP (NN antar) (NN internet) (NN caf))) (. ?) [VP] [.]) ||| [1] caf ? [2] antar [3] [4] ||| 0-0 1-2 2-3 3-1 4-2 5-1 6-2 7-5 8-6 ||| count=1.0 sent_count=1
+(VP [VBZ] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN identified) ||| ? ||| 0-0 ||| count=1.0 sent_count=1
+(VBZ has) ||| internet ||| 0-0 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN kaleed) ||| kaleed ||| 0-0 ||| count=1.0 sent_count=1
+(NN caf) ||| identified owner ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [DT] [NN])) ||| [3] [1] [2] ||| 0-1 1-2 2-0 ||| count=1.0 sent_count=1
+(NP (NP [NN]) [PP]) ||| [1] have [2] ||| 0-0 1-2 ||| count=1.0 sent_count=1
+(VBN been) ||| caf ||| 0-0 ||| count=1.0 sent_count=1
+(NP [VBN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VBN] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN owner) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN dahr) ||| dahr ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 56
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(NN square) ||| square ||| 0-0 ||| count=1.0 sent_count=1
+(NN address) ||| address ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VBN traced) ||| account ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBG] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(POS 's) ||| 's ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN e-mail) ||| traced ||| 0-0 ||| count=1.0 sent_count=1
+(VBG matching) ||| matching ||| 0-0 ||| count=1.0 sent_count=1
+(VBN sent) ||| e-mail ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [2] [1] ||| 0-1 1-0 ||| count=1.0 sent_count=1
+(RB near) ||| near ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [ADJP] [NN] [NN]) ||| [1] [2] [3] [4] [5] ||| 0-0 1-1 2-2 3-3 4-4 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN maidan) ||| maidan ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP (NP (NN hassan) (NN al-buredi) [POS]) (NN account))) ||| sent [1] hassan al-buredi [2] ||| 0-1 1-0 1-2 2-3 3-4 4-3 ||| count=1.0 sent_count=1
+(. ?) ||| ? ||| 0-0 ||| count=1.0 sent_count=1
+(ADJP [JJ] [.] [RB]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(JJ ip) ||| ip ||| 0-0 ||| count=1.0 sent_count=1
+(PP [TO] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT an) ||| an ||| 0-0 ||| count=1.0 sent_count=1
+(DT an) ||| an ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] (VP (VBD was) [VP]) [.]) ||| we [1] [2] [3] ||| 0-1 2-2 3-3 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(IN by) ||| by ||| 0-0 ||| count=1.0 sent_count=1
+(JJ caf) ||| caf ||| 0-0 ||| count=1.0 sent_count=1
+(JJ internet) ||| internet ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 57
+(VP [VBN] (VP [VBN])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP (DT the) (NN packing) (NNS boxes)) ||| opened all of ||| 0-1 1-0 1-1 2-1 2-2 ||| count=1.0 sent_count=1
+(NP (NP [DT]) [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN opened) ||| boxes ||| 0-0 ||| count=1.0 sent_count=1
+(VBP have) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(DT all) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VBN been) ||| packing ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| have ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBP] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 58
+(NP [NP] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN case) ||| with ||| 0-0 ||| count=1.0 sent_count=1
+(VBZ has) ||| opened ||| 0-0 ||| count=1.0 sent_count=1
+(IN with) ||| case ||| 0-0 ||| count=1.0 sent_count=1
+(VBN tampered) ||| computer 's ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN computer) ||| have ||| 0-0 ||| count=1.0 sent_count=1
+(DT each) ||| they ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [PRP$] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN had) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBZ] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN opened) ||| each ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VP [VBN] (CC and) [VBN] (PP [IN])) ||| [1] [2] [3] ||| 0-0 2-1 3-2 ||| count=1.0 sent_count=1
+(PRP$ its) ||| tampered ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 59
+(VP (VBZ says) (SBAR (S (NP (PRP they)) [VP]))) ||| worthless [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(SBAR (WHNP [WP]) (S [VP])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN dahr) ||| they ||| 0-0 ||| count=1.0 sent_count=1
+(DT an) ||| who ||| 0-0 ||| count=1.0 sent_count=1
+(WP who) ||| are ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VP (VBP are) (ADJP (JJ worthless))) ||| met he ||| 0-0 1-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (PRP he)) (VP (VBZ is) (VP (VBN met) (PP (IN by) [NP]))) [.]) ||| an irate dahr [1] [2] ||| 0-1 1-1 2-1 2-2 4-3 5-4 ||| count=1.0 sent_count=1
+(JJ irate) ||| says ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [SBAR]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 60
+(NN omar) ||| omar ||| 0-0 ||| count=1.0 sent_count=1
+(NN rendezvous) ||| rendezvous ||| 0-0 ||| count=1.0 sent_count=1
+(NN al-buredi) ||| al-buredi ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN bio) ||| bio ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [:] [NNS] [NN] [NN] [NN]) ||| [1] [2] [3] [4] [5] [6] ||| 0-0 1-1 2-2 3-3 4-4 5-5 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(VBN tasked) ||| assets ||| 0-0 ||| count=1.0 sent_count=1
+(JJ probable) ||| probable ||| 0-0 ||| count=1.0 sent_count=1
+(NNS locations) ||| locations ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBP are) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(NN khrayesh) ||| khrayesh ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [TO] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VB] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN hassan) ||| hassan ||| 0-0 ||| count=1.0 sent_count=1
+(NNS weapons) ||| weapons ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN for) ||| for ||| 0-0 ||| count=1.0 sent_count=1
+(: -) ||| - ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S [NP] (VP [VBP] [VP]) [.]) ||| [2] [1] [3] [4] ||| 0-1 1-0 2-2 3-3 ||| count=1.0 sent_count=1
+(NN expert) ||| expert ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (S [VP])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN between) ||| between ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [CC] [NP]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(VB monitor) ||| monitor ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NNS]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP (JJ bct) (NNS assets)) ||| tasked bct ||| 0-0 1-0 1-1 ||| count=1.0 sent_count=1
+Sentence 61
+(NP [DT] [JJ] [NN]) ||| [1] [3] [2] ||| 0-0 1-2 2-1 ||| count=1.0 sent_count=1
+(: -) ||| - ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(SBAR [IN] [NN] (S [VP])) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VBD directed) ||| directed ||| 0-0 ||| count=1.0 sent_count=1
+(VP [TO] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN if) ||| if ||| 0-0 ||| count=1.0 sent_count=1
+(VP [TO] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN wajeeh) ||| wajeeh ||| 0-0 ||| count=1.0 sent_count=1
+(VB determine) ||| determine ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN asset) ||| counter ||| 0-0 ||| count=1.0 sent_count=1
+(IN as) ||| as ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| intelligence asset to ||| 0-0 0-1 0-2 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(JJ present) ||| present ||| 0-0 ||| count=1.0 sent_count=1
+(NN caf) ||| antar ||| 0-0 ||| count=1.0 sent_count=1
+(SBAR [IN] [S]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN al-mutadee) ||| al-mutadee ||| 0-0 ||| count=1.0 sent_count=1
+(NN order) ||| order ||| 0-0 ||| count=1.0 sent_count=1
+(X (NP (NN mnc)) [:] (FW i) (S (NP (NN counter) (NN intelligence) [NN]) (VP [VBZ] (VP [VBD] (S [VP])))) (X (SYM <)) (X (SYM e)) (NP (CD 9) (JJ >) (S (VP (TO to) (VP (VB pose) [PP] [SBAR])))) [.]) ||| [3] [4] mnc [1] i [2] [5] < e 9 > to pose [6] customer [7] [8] ||| 0-2 1-3 2-2 2-4 3-4 4-4 5-5 6-0 7-1 8-6 10-11 11-11 12-11 13-8 13-9 13-10 13-11 13-12 14-11 15-13 16-15 17-16 ||| count=1.0 sent_count=1
+(VBZ is) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VB] [SBAR]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBZ is) ||| is ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VB proceed) (PP (TO to) [NP])) ||| proceed to [1] ||| 0-1 1-0 1-1 2-2 ||| count=1.0 sent_count=1
+(JJ antar) ||| caf ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [DT] (NN customer))) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBZ] (ADJP [JJ])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 62
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(CD 04/21/10) ||| i ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VB] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(: -) ||| - ||| 0-0 ||| count=1.0 sent_count=1
+(TO to) ||| to ||| 0-0 ||| count=1.0 sent_count=1
+(NNS suspect) ||| we ||| 0-0 ||| count=1.0 sent_count=1
+(VP [TO] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VB be) ||| be ||| 0-0 ||| count=1.0 sent_count=1
+(NN wajeeh) ||| wajeeh ||| 0-0 ||| count=1.0 sent_count=1
+(NN al-mutadee) ||| al-mutadee ||| 0-0 ||| count=1.0 sent_count=1
+(FW i) ||| mnc ||| 0-0 ||| count=1.0 sent_count=1
+(IN on) ||| on ||| 0-0 ||| count=1.0 sent_count=1
+(IN by) ||| by ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (NP [NNS]) (VP (VBN captured) (PP [IN] (NP (NP (NN mnc)) [:] [FW])) (PP [IN] (NP (NP [CD]) (PP [IN] (NP (NN adhamiya))))))) (VP (VBZ is) (VP (VBN confirmed) (S [VP]))) [.]) ||| [1] confirmed suspect captured [2] [4] [3] [6] [5] 04/21/10 [7] adhamiya [8] [9] ||| 0-0 1-3 2-4 3-2 3-3 4-6 5-5 6-8 7-7 8-10 9-9 9-11 11-11 12-12 13-13 ||| count=1.0 sent_count=1
+Sentence 63
+(NN war) ||| war ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VBN shattered) ||| years ' ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(JJ 17th) ||| 17th ||| 0-0 ||| count=1.0 sent_count=1
+(POS ') ||| empire ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] (CD thirty) (NNS years) [POS]) ||| shattered [1] [2] ||| 0-1 1-0 2-0 3-2 ||| count=1.0 sent_count=1
+(NN century) ||| century ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S [PP] (NP (DT the) [NN]) (VP (VBD was) [VP]) [.]) ||| [1] the [2] [3] [4] ||| 0-0 1-1 2-2 3-1 4-3 5-4 ||| count=1.0 sent_count=1
+(NN empire) ||| thirty ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [NN]) ||| [2] [1] ||| 0-1 1-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 64
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(JJ french) ||| system ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBD was) (VP [VBN] (PP (IN by) (NP [JJ] (NNS scientists))) (PP (IN during) [NP]))) ||| the [1] [2] during [3] ||| 0-0 1-1 2-0 3-2 4-3 5-3 6-4 ||| count=1.0 sent_count=1
+(JJ metric) ||| french scientists ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(JJ french) ||| french ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN system) ||| invented ||| 0-0 ||| count=1.0 sent_count=1
+(NN revolution) ||| revolution ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VBN invented) ||| metric ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP (DT the) [JJ] [NN]) ||| [1] [2] ||| 1-0 2-1 ||| count=1.0 sent_count=1
+Sentence 65
+(NN rest) ||| forces ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN city) ||| rest ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN operation) ||| operation ||| 0-0 ||| count=1.0 sent_count=1
+(NP (JJ canadian) (NNS forces)) ||| city ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(NN atlantic) ||| atlantic ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [NP] (PP (IN of) (NP (DT the) [NN]))) (VP (VBD was) (VP [VBN] [PP])) [.]) ||| [1] [3] the [2] [4] [5] ||| 0-0 2-2 3-3 4-2 5-1 6-4 7-5 ||| count=1.0 sent_count=1
+(DT the) ||| canadian ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN by) ||| of the ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN during) ||| during ||| 0-0 ||| count=1.0 sent_count=1
+(VBN captured) ||| captured ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 66
+(VP [VBN] (PP (IN by) [NP])) ||| [1] canal [2] ||| 0-0 2-2 ||| count=1.0 sent_count=1
+(JJ universal) ||| built ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN canal) ||| suez ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [JJ] [NN]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NP (DT the) [JJ] (NN suez) (NN ship) (NN canal) (NN company)) ||| company [1] the suez canal ||| 0-0 0-2 1-1 2-3 3-3 4-3 4-4 5-4 ||| count=1.0 sent_count=1
+(S [NP] (VP (VBD was) [VP]) [.]) ||| [1] [2] [3] ||| 0-0 2-1 3-2 ||| count=1.0 sent_count=1
+(VBN built) ||| ship ||| 0-0 ||| count=1.0 sent_count=1
+(JJ suez) ||| universal ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 67
+(NN sir) ||| discovered ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(NN scottish) ||| alexander ||| 0-0 ||| count=1.0 sent_count=1
+(VBN discovered) ||| sir ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NP [NN] [NN] [NN] (NN alexander)) (VP (VBG fleming) [PP])) ||| [1] [2] [3] penicillin [4] ||| 0-0 1-1 2-2 3-3 4-3 5-4 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VBD] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(VBD was) ||| scientist ||| 0-0 ||| count=1.0 sent_count=1
+(NN penicillin) ||| scottish ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN scientist) ||| fleming ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [NN]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(CD 1928) ||| 1928 ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 68
+(S (NP (JJ major) (NNS politicians)) (VP (VBD were) [VP]) [.]) ||| political machines [1] [2] ||| 0-0 1-0 1-1 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(VBN chosen) ||| chose ||| 0-0 ||| count=1.0 sent_count=1
+(NNS machines) ||| politicians ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP (IN by) (NP (JJ political) [NNS])) ||| major [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+Sentence 69
+(VB rosie) ||| riveter ||| 0-0 ||| count=1.0 sent_count=1
+(PP (IN by) (NP (NP (DT a) [NN]) (VP (VBN called) (SBAR (X (SYM ")) (S (VP [VB] (NP [DT] [NN]) (X (SYM ")))))))) ||| called " [1] [3] [2] " [4] ||| 0-0 2-2 3-0 4-1 4-5 5-4 6-3 7-6 8-5 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN riveter) ||| symbolized them ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(NN character) ||| rosie ||| 0-0 ||| count=1.0 sent_count=1
+(VBD were) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (PRP they)) (VP [VBD] (VP (VBN symbolized) [PP])) [.]) ||| [1] character [2] [3] ||| 0-1 1-0 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 70
+(S (NP [DT] (NN canoe)) (VP (VBZ is) [VP]) [.]) ||| [1] use of [2] [3] ||| 0-0 1-1 2-1 2-2 3-3 4-4 ||| count=1.0 sent_count=1
+(NN use) ||| propels ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] (PP (IN of) (NP [NNS]))) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBN propelled) ||| paddles ||| 0-0 ||| count=1.0 sent_count=1
+(NNS paddles) ||| canoe ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [2] [1] ||| 0-1 1-0 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+Sentence 71
+(S (NP [DT] (NN computer) (NN program)) (VP (VBZ is) (VP (VBN written) (PP (IN by) [NP]))) [.]) ||| [1] programmer writes [2] [3] ||| 0-0 1-1 2-1 2-2 3-2 4-2 6-3 7-4 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN programmer) ||| computer program ||| 0-0 0-1 ||| count=1.0 sent_count=1
+Sentence 72
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NP [NNS]) [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NNS hero) ||| examples ||| 0-0 ||| count=1.0 sent_count=1
+(VBD was) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(JJ first) ||| alexandria ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NP [CD]) [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VBD] (VP (VBN built) (PP (IN by) [NP]))) ||| [1] first [2] ||| 0-0 3-2 ||| count=1.0 sent_count=1
+(NN alexandria) ||| this ||| 0-0 ||| count=1.0 sent_count=1
+(CD one) ||| hero ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(PP [IN] (NP [NN])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NNS examples) ||| built one ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(PP (IN of) (NP (NP (DT the) [JJ] [NNS]) (PP [IN] (NP (DT this))))) ||| of [1] [2] [3] ||| 0-0 1-0 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+Sentence 73
+(NNS hercules) ||| non ||| 0-0 ||| count=1.0 sent_count=1
+(: -) ||| - ||| 0-0 ||| count=1.0 sent_count=1
+(NNS cards) ||| inc. ||| 0-0 ||| count=1.0 sent_count=1
+(VBN manufactured) ||| manufactured ||| 0-0 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN technology) ||| video ||| 0-0 ||| count=1.0 sent_count=1
+(JJ ibm) ||| computer ||| 0-0 ||| count=1.0 sent_count=1
+(NP (DT the) [JJ] (JJ popular) [NN]) ||| company [1] [2] ||| 0-0 1-1 2-0 3-2 ||| count=1.0 sent_count=1
+(NN computer) ||| ibm ||| 0-0 ||| count=1.0 sent_count=1
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(NN company) ||| popular ||| 0-0 ||| count=1.0 sent_count=1
+(NN video) ||| technology ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN non) ||| hercules ||| 0-0 ||| count=1.0 sent_count=1
+(NN inc) ||| cards ||| 0-0 ||| count=1.0 sent_count=1
+(JJ first) ||| called ||| 0-0 ||| count=1.0 sent_count=1
+(VBD were) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [NP] [:] (NP [JJ] [NN] [NNS])) (VP [VBD] (ADJP [VBN] (PP [IN] (NP (NP (DT a) [NN]) (VP (VBN called) (S (NP [NNS] [NN] [NN] [,] [NN]))))))) [.]) ||| [6] [1] [3] [4] [13] [5] [7] [8] first [9] [10] [2] [11] [12] [14] [15] ||| 0-1 1-11 2-2 3-3 4-5 5-0 6-6 7-7 9-9 11-10 12-12 13-13 14-4 15-14 16-15 ||| count=1.0 sent_count=1
+Sentence 74
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(VBG physicist) ||| democritus ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NN john) (NN dalton)) ||| right ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(VP (VBD was) (VP (VBN proved) (ADJP (JJ right)) (PP (IN by) (S [VP])))) ||| john dalton proved [1] ||| 0-0 1-0 2-1 2-2 3-2 4-3 ||| count=1.0 sent_count=1
+(CD 1804) ||| 1804 ||| 0-0 ||| count=1.0 sent_count=1
+(NN democritus) ||| physicist ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VBG] [NP] [PP]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(S (NP [NN]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+Sentence 75
+(NN barbara) ||| ellen ||| 0-0 ||| count=1.0 sent_count=1
+(NN bush) ||| burstyn ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN film) ||| film ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NP [NN] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBN portrayed) ||| portrayed barbara ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN w) ||| w ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(CD 2008) ||| 2008 ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [CD] [NN] [NN]) ||| [1] [2] [3] [4] ||| 0-0 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(S [NP] (VP (VBD was) [VP]) [.]) ||| [1] [2] [3] ||| 0-0 2-1 3-2 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(NP (JJ ellen) (NN burstyn)) ||| bush ||| 0-0 1-0 ||| count=1.0 sent_count=1
+Sentence 76
+(VP [VBN] (PP (IN by) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP (JJ south) [NN])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(NN lot) ||| swamp ||| 0-0 ||| count=1.0 sent_count=1
+(VBN used) ||| used ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN swamp) ||| lot ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(VP (TO to) (VP (VB be) [VP])) ||| to [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(VP (VBD called) (NP [DT] (NNS everglades))) ||| [1] south florida ||| 0-1 1-0 2-1 2-2 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN florida) ||| everglades ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VBN covered) ||| cover ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (S [VP])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP] [VP]) ||| [1] called [2] [3] ||| 0-0 1-2 2-3 ||| count=1.0 sent_count=1
+Sentence 77
+(NN britain) ||| australia ||| 0-0 ||| count=1.0 sent_count=1
+(NN australia) ||| people ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBD was) (VP (VBN colonised) (PP (IN by) [NP]))) ||| from britain [1] ||| 0-0 1-0 1-1 2-1 3-2 ||| count=1.0 sent_count=1
+(S (NP [NN]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NP (NP (NNS people)) (PP (IN from) (NP [NN]))) ||| colonised [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 78
+(NN sen) ||| china ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1911) ||| 1911 ||| 0-0 ||| count=1.0 sent_count=1
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN republic) ||| sun yat ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(: -) ||| - ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NN sun) (NN yat)) ||| republic ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(S [PP] [,] (NP (NP (DT the) [NN]) (PP [IN] (NP (NN china)))) (VP (VBD was) (VP [VBN] (PP [IN] (NP [NP] [:] [NN])))) [.]) ||| [1] [2] [3] [8] [5] [6] [7] [4] [9] [10] ||| 0-0 1-1 3-2 4-7 7-4 8-5 9-6 10-3 11-8 12-9 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBN founded) ||| sen founded ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 79
+(VP [VBN] (PP (IN by) [NP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(NNS netherlands) ||| city ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1624) ||| 1624 ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NP (DT the) [NNS]) [PP]) ||| [1] [2] ||| 1-0 2-1 ||| count=1.0 sent_count=1
+(NP (NP [NNS]) [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S (NP (JJ new) (NN york) (NN city)) (VP (VBD was) [VP]) [.]) ||| europeans from the [1] [2] ||| 0-0 1-0 1-1 2-1 3-1 3-2 4-3 5-4 ||| count=1.0 sent_count=1
+(IN from) ||| york ||| 0-0 ||| count=1.0 sent_count=1
+(VBN settled) ||| netherlands settled ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(NNS europeans) ||| new ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 80
+(NN york) ||| manhattan ||| 0-0 ||| count=1.0 sent_count=1
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBD] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(RB shortly) ||| shortly ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBD was) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN fire) ||| york greatly ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(S (ADVP [RB] (IN after)) [,] (NP (NN manhattan)) [VP] [.]) ||| [1] after [2] [3] [4] ||| 0-0 1-1 2-2 3-1 4-3 5-4 ||| count=1.0 sent_count=1
+(JJ great) ||| great ||| 0-0 ||| count=1.0 sent_count=1
+(NP [JJ] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(JJ new) ||| damaged ||| 0-0 ||| count=1.0 sent_count=1
+(VP (ADVP (RB greatly)) (VBN damaged) (PP (IN by) (NP (NP (DT the) [JJ] [NN]) (PP (IN of) [NP]) [PP]))) ||| [1] fire of new [2] [3] [4] ||| 0-1 1-1 2-2 3-2 4-0 5-4 7-5 8-6 ||| count=1.0 sent_count=1
+(CD 1776) ||| 1776 ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 81
+(JJ new) ||| new ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NN colossus) ||| bears ||| 0-0 ||| count=1.0 sent_count=1
+(VBD was) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBZ bears) ||| poet ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1903) ||| 1903 ||| 0-0 ||| count=1.0 sent_count=1
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NN bronze) ||| friends ||| 0-0 ||| count=1.0 sent_count=1
+(WDT that) ||| that ||| 0-0 ||| count=1.0 sent_count=1
+(SYM ") ||| bronze ||| 0-0 ||| count=1.0 sent_count=1
+(NNS friends) ||| commemorates ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN poet) ||| emma lazarus ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(PP [IN] (NP [CD])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(NN lazarus) ||| colossus ||| 0-0 ||| count=1.0 sent_count=1
+(S [PP] [,] (NP (NP [DT] [NN] (NN tablet)) (SBAR (WHNP [WDT]) (S (VP (VP [VBZ] (NP [DT] (NN text)) (PP [IN] (NP [SYM])) (NP (NP [DT] [JJ] [NN]) (X (SYM ")))) [CC] (VP (VBZ commemorates) (NP (NN emma) [NN])))))) (VP [VBD] (VP (VBN presented) (PP (IN by) (NP (NP [NNS]) (PP [IN] (NP (DT the) [NN])))))) [.]) ||| [1] [2] [4] [8] [7] [6] presented [3] [9] tablet [5] [12] [10] text [17] " [15] [11] [14] " [13] [16] [18] [19] ||| 0-0 1-1 2-7 3-2 5-10 6-5 7-4 9-3 10-8 11-12 12-17 13-11 14-15 14-19 15-20 18-18 19-16 22-21 23-14 25-22 26-23 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 82
+(PP [IN] (NP [DT] (JJ early) (JJ 20th) (NN century))) ||| cars [1] [2] ||| 0-1 1-2 2-0 3-0 ||| count=1.0 sent_count=1
+(VBD were) ||| early ||| 0-0 ||| count=1.0 sent_count=1
+(NN electricity) ||| century ||| 0-0 ||| count=1.0 sent_count=1
+(NP (DT some) [NNS]) ||| electricity [1] some ||| 0-0 0-2 1-1 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) (NP [NN]))) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(VBN powered) ||| 20th ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(NNS cars) ||| powered ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(VP [VBD] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 83
+(VP (VBN bombed) (NP (JJ many) [NNS]) (PP (IN by) (NP (DT the) [NN]))) ||| bombed the [1] [2] ||| 0-0 1-0 2-2 3-1 4-1 5-3 ||| count=1.0 sent_count=1
+(NNS times) ||| underground ||| 0-0 ||| count=1.0 sent_count=1
+(NN underground) ||| ira ||| 0-0 ||| count=1.0 sent_count=1
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(S [PP] [,] [NP] (NP (DT the) [NN]) (VP (VBD was) [VP]) [.]) ||| [1] [2] [3] the [4] [5] [6] ||| 0-0 1-1 2-2 3-3 4-4 5-3 6-5 7-6 ||| count=1.0 sent_count=1
+(NN ira) ||| many times ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(NNS 30s) ||| 30s ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NNS]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NNS 70s) ||| 70s ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NNS] [CC] [NNS]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NNS 90s) ||| 90s ||| 0-0 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 84
+(S (NP [JJ] (NNS issues)) (VP (VBP are) [VP]) [.]) ||| [1] federation [2] [3] ||| 0-0 1-1 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(NP (DT the) (NN federation) [NN]) ||| important [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBN decided) (PP (IN by) [NP])) ||| president decides [1] ||| 0-0 0-1 1-1 2-2 ||| count=1.0 sent_count=1
+(JJ important) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NN president) ||| issues ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 85
+(NNS fats) ||| 3 ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBP are) (VP (VBN needed) (PP (IN by) (NP (DT the) [NN])))) ||| omega 6 [1] ||| 0-0 1-0 1-1 4-2 ||| count=1.0 sent_count=1
+(CD 3) ||| body ||| 0-0 ||| count=1.0 sent_count=1
+(NP (ADJP [JJ] [CD] [CC] [JJ] [CD]) [NNS]) ||| [1] [2] [4] [5] [6] [3] ||| 0-0 1-1 2-5 3-2 4-3 5-4 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN body) ||| fats ||| 0-0 ||| count=1.0 sent_count=1
+(CC and) ||| and ||| 0-0 ||| count=1.0 sent_count=1
+(JJ omega) ||| needs ||| 0-0 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(JJ omega) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(CD 6) ||| omega ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 86
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBN considered) (S (ADJP (JJ scripture))) [PP]) ||| consider [1] ||| 0-0 1-0 2-1 ||| count=1.0 sent_count=1
+(S (NP [DT] (NNS vedas)) (VP (VBP are) [VP]) [.]) ||| [1] hindus [2] [3] ||| 0-0 1-1 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(DT the) ||| all ||| 0-0 ||| count=1.0 sent_count=1
+(DT all) ||| vedas ||| 0-0 ||| count=1.0 sent_count=1
+(NN hindus) ||| scripture ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 87
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] (JJ anglican) (NN church)) ||| [1] anglican ||| 0-0 1-1 2-1 ||| count=1.0 sent_count=1
+(VBP are) ||| archbishops ||| 0-0 ||| count=1.0 sent_count=1
+(NNS bishops) ||| church ||| 0-0 ||| count=1.0 sent_count=1
+(VBN governed) ||| govern ||| 0-0 ||| count=1.0 sent_count=1
+(NNS archbishops) ||| bishops ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) (NP [NNS]))) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(IN in) ||| in ||| 0-0 ||| count=1.0 sent_count=1
+(S [PP] [,] (NP [NNS]) [VP] [.]) ||| [1] [3] [2] [4] [5] ||| 0-0 1-2 2-1 3-3 4-4 ||| count=1.0 sent_count=1
+(VP [VBP] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 88
+(VP (VBD was) (VP [VBN] (PP (IN by) (NP (NP (DT the) [JJ] [NN]) (PP [IN] (NP [NN])))))) ||| the [2] [1] [4] [3] [5] ||| 0-0 1-2 3-0 4-1 5-4 6-3 7-5 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1943) ||| 1943 ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NP [NN]) (NP [CD]) [,] [CD]) ||| [1] [2] [3] [4] ||| 0-0 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(NN fascism) ||| mussolini ||| 0-0 ||| count=1.0 sent_count=1
+(S [PP] (, ,) (NP (NN mussolini)) [VP] [.]) ||| [1] , [2] [3] ||| 0-0 1-1 2-1 3-2 4-3 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NN council) ||| fascism removed ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(JJ great) ||| great ||| 0-0 ||| count=1.0 sent_count=1
+(VBN removed) ||| council ||| 0-0 ||| count=1.0 sent_count=1
+(CD 25) ||| 25 ||| 0-0 ||| count=1.0 sent_count=1
+(NN july) ||| july ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN on) ||| on ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 89
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(RB only) ||| percent ||| 0-0 ||| count=1.0 sent_count=1
+(NNS people) ||| parliament ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) (NP (NP [RB] [DT] (JJ few) [NN]) (PP [IN] (NP [DT] [NNS]))))) ||| [3] [1] [2] [5] [6] [4] chose [7] ||| 0-1 2-2 3-0 5-5 6-3 7-4 8-7 ||| count=1.0 sent_count=1
+(NN percent) ||| people ||| 0-0 ||| count=1.0 sent_count=1
+(NN parliament) ||| only ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [NN]) (VP (VBD was) [VP]) [.]) ||| [1] [2] [3] ||| 0-0 2-1 3-2 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBN chosen) ||| few ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 90
+(VP (VBP are) (VP (VBN produced) (PP (IN by) [NP]))) ||| process called [1] ||| 0-0 1-0 1-1 2-1 3-2 ||| count=1.0 sent_count=1
+(VP (VBN called) (S (ADJP (JJ meiosis)))) ||| them ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(PRP they) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| meiosis ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP [PRP]) [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(NN process) ||| produces ||| 0-0 ||| count=1.0 sent_count=1
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [VP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+Sentence 91
+(NP (DT the) (JJ british) (NN ministry)) ||| clayton 's ||| 1-0 2-0 2-1 ||| count=1.0 sent_count=1
+(: -) ||| british ||| 0-0 ||| count=1.0 sent_count=1
+(NN study) ||| health ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] (PP (IN of) (NP [NN]))) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(NP (NN clayton) (POS 's)) ||| ministry ||| 0-0 1-0 ||| count=1.0 sent_count=1
+(NN health) ||| study ||| 0-0 ||| count=1.0 sent_count=1
+(S (NP (NP [NN]) [:] (NP [NP] [NN])) (VP [VBD] [VP]) [.]) ||| [1] [2] [3] [5] [4] [6] [7] ||| 0-0 1-1 2-2 3-4 4-3 5-5 6-6 ||| count=1.0 sent_count=1
+(VBD was) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NN lane) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(VBN published) ||| published lane ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(VP [VBN] (PP (IN by) [NP])) ||| [1] - [2] ||| 0-0 2-2 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 92
+(S (NP (NNS mathematics)) (NP (PRP itself)) [VP] [.]) ||| many see [1] [2] ||| 0-0 1-0 1-1 2-2 3-3 ||| count=1.0 sent_count=1
+(NP (NP [DT] (NN language)) (PP (IN by) (NP (JJ many)))) ||| [1] language ||| 0-0 1-1 3-1 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VP (VBZ is) (VP (VBN seen) (PP (IN as) [NP]))) ||| mathematics itself as [1] ||| 0-0 1-0 1-1 2-1 2-2 3-3 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 93
+(VBN stolen) ||| small group ||| 0-0 0-1 ||| count=1.0 sent_count=1
+(NN march) ||| march ||| 0-0 ||| count=1.0 sent_count=1
+(S [PP] (, ,) (NP (PRP$ his) (NN body)) (VP (VBD was) [VP]) [.]) ||| [1] , [2] [3] ||| 0-0 1-1 2-1 5-2 6-3 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [,] [CD]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(CD 1) ||| 1 ||| 0-0 ||| count=1.0 sent_count=1
+(CD 1978) ||| 1978 ||| 0-0 ||| count=1.0 sent_count=1
+(IN by) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NN] [CD]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(, ,) ||| , ||| 0-0 ||| count=1.0 sent_count=1
+(JJ small) ||| swiss ||| 0-0 ||| count=1.0 sent_count=1
+(DT a) ||| a ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBN] (PP [IN] (NP (NP [DT] [JJ] (NN group)) (PP (IN of) (NP (JJ swiss) [NNS]))))) ||| [3] [1] [2] [4] [5] stole his body ||| 0-1 1-2 2-0 3-3 4-5 6-5 6-6 6-7 7-4 ||| count=1.0 sent_count=1
+(NNS people) ||| people ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN on) ||| on ||| 0-0 ||| count=1.0 sent_count=1
+Sentence 94
+(NP [DT] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN by) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(NNS oceans) ||| earth ||| 0-0 ||| count=1.0 sent_count=1
+(NN earth) ||| surface ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(VBZ is) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(NP (NP (DT the) [NN]) [PP]) ||| [1] [2] ||| 1-0 2-1 ||| count=1.0 sent_count=1
+(NN %) ||| about ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] [NP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(S [NP] [VP] [.]) ||| [1] [2] [3] ||| 0-0 1-1 2-2 ||| count=1.0 sent_count=1
+(IN of) ||| of ||| 0-0 ||| count=1.0 sent_count=1
+(DT the) ||| the ||| 0-0 ||| count=1.0 sent_count=1
+(. .) ||| . ||| 0-0 ||| count=1.0 sent_count=1
+(VP [VBZ] (VP (VBN covered) [PP])) ||| [1] [2] ||| 0-0 2-1 ||| count=1.0 sent_count=1
+(NN surface) ||| % ||| 0-0 ||| count=1.0 sent_count=1
+(NP [NP] [PP]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(IN of) ||| 71 ||| 0-0 ||| count=1.0 sent_count=1
+(PP [IN] (NP [NNS])) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1
+(QP (IN about) (CD 71)) ||| oceans cover ||| 0-0 1-0 1-1 ||| count=1.0 sent_count=1
+(NP [QP] [NN]) ||| [1] [2] ||| 0-0 1-1 ||| count=1.0 sent_count=1

@@ -1,0 +1,39 @@
+O: Al-Buredi, a former graduate assistant of Ja'afar Dhia Ja'afar, famed Saddam Hussein io-weapons expert, is believed to be an Adhamiya resident. 
+M: Al-Buredi is believed to be an Adhamiya resident. 
+S: We believe that Al-Buredi is an Adhamiya resident.
+
+O+M: Khrayesh was instructed to arrive at 0900hrs to sit at the table closest to the street.
+S: They instructed Khrayesh to arrive at 0900hrs to sit at the table closest to the street.
+
+O: Surveillance of the café revealed two men on a motor bike approached the café along Ali Taleb Street and were observed fumbling with a backpack. 
+M: Two men on a motor bike were observed fumbling with a backpack. 
+S: We observed two men on a motor bike fumbling with a backpack.
+
+O+M: Detainees Al-Sabah and Mandari are informed that they will be turned over to their government for repatriation due to their lack of cooperation.
+S: We informed detainees Al-Sabah and Mandari that they will be turned over to their government for repatriation due to their lack of cooperation.
+
+O+M: Owner of the café in Antar Internet Café has been identified as Kaleed Dahr. 
+S: We identified owner of the café in Antar Internet Café as Kaleed Dahr.
+
+O+M: The e-mail sent by Hassan Al-Buredi's account was traced to an IP address matching an Internet Café near Maidan Square.
+S: We traced the e-mail sent by Hassan Al-Buredi‘s account to an IP address matching an Internet Café near Maidan Square.
+
+O: They discover that all of the packing boxes have been opened and that each computer has had its case opened and tampered with.  
+M: All of the packing boxes have been opened.
+   Each computer has had its case opened and tampered with.  
+S: They have opened all of the packing boxes.
+   They have opened and tampered with each computer's case.
+
+O: He is met by an irate Dahr who says they are worthless, I’m losing money instead of making it.
+M: He is met by an irate Dahr who says they are worthless.
+S: An irate Dahr who says they are worthless meets him.
+
+O: BCT assets are tasked to monitor the probable locations for the rendezvous between Omar Khrayesh and bio-weapons expert Hassan Al-Buredi:  Iraqi Oil Ministry Building //MGRSCOORD: 38S MB 4420 9020// and the Shaikh Omar Tomb //MGRSCOORD: 38S MB 4450 8965//, from 04/15/10-04/18/10.
+M: BCT assets are tasked to monitor the probable locations for the rendezvous between Omar Khrayesh and bio-weapons expert Hassan Al-Buredi.
+S: We tasked BCT assets to monitor the probable locations for the rendezvous between Omar Khrayesh and bio-weapons expert Hassan Al-Buredi.
+
+O: MNC-I counter intelligence asset is directed to proceed to the Antar Café to pose as a customer in order to determine if Wajeeh Al-Mutadee is present.
+S: We directed MNC-I counter intelligence asset to proceed to the Antar Café to pose as a customer in order to determine if Wajeeh Al-Mutadee is present.
+
+O: Suspect captured by MNC-I on 04/21/10 in Adhamiya is confirmed to be Wajeeh Al-Mutadee.
+S: We confirm that suspect captured by MNC-I on 04/21/10 in Adhamiya is Wajeeh Al-Mutadee.

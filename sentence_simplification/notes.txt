@@ -1,0 +1,9 @@
+visdiff() seems to be the function in matlab that uses chawathe 1996's algorithm (the earlier one, for ordered tress) -- not yet implemented in octave, i don't think -- but, xmldiff implementation (in python!)
+
+canning and tate 1999; ennui and fujitsa, takahashi and eeda; workshop on paraphrasing; acl workshops on paraphrasing -- 2003
+
+depassivization, decoordination, derelativization
+
+1. the edits
+2. learn what's important and apply it
+3. see if can make modifications so that you get actual sentences out

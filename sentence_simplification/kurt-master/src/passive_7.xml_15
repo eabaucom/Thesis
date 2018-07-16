@@ -1,0 +1,63 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <word> Some </word>
+        </DT>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <NNS>
+            <word> images </word>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> are </word>
+      </VBP>
+      <VP>
+        <VBN>
+          <word> considered </word>
+        </VBN>
+        <S>
+          <ADJP>
+            <JJ>
+              <word> objectionable </word>
+            </JJ>
+            <CC>
+              <word> or </word>
+            </CC>
+            <JJ>
+              <word> offensive </word>
+            </JJ>
+          </ADJP>
+        </S>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> some </word>
+            </DT>
+            <NNS>
+              <word> readers </word>
+            </NNS>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

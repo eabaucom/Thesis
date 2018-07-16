@@ -1,0 +1,25 @@
+<top>
+  <S>
+    <NP>
+      <JJ>
+        <word> French </word>
+      </JJ>
+      <NNS>
+        <word> departments </word>
+      </NNS>
+    </NP>
+    <VP>
+      <VBP>
+        <word> surrounded </word>
+      </VBP>
+      <NP>
+        <NNP>
+          <word> Jura </word>
+        </NNP>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

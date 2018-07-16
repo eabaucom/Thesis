@@ -1,0 +1,73 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> He </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> met </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <NP>
+              <DT>
+                <word> an </word>
+              </DT>
+              <JJ>
+                <word> irate </word>
+              </JJ>
+              <NN>
+                <word> Dahr </word>
+              </NN>
+            </NP>
+            <SBAR>
+              <WHNP>
+                <WP>
+                  <word> who </word>
+                </WP>
+              </WHNP>
+              <S>
+                <VP>
+                  <VBZ>
+                    <word> says </word>
+                  </VBZ>
+                  <SBAR>
+                    <S>
+                      <NP>
+                        <PRP>
+                          <word> they </word>
+                        </PRP>
+                      </NP>
+                      <VP>
+                        <VBP>
+                          <word> are </word>
+                        </VBP>
+                        <ADJP>
+                          <JJ>
+                            <word> worthless </word>
+                          </JJ>
+                        </ADJP>
+                      </VP>
+                    </S>
+                  </SBAR>
+                </VP>
+              </S>
+            </SBAR>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

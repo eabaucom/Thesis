@@ -1,0 +1,45 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <QP>
+          <RB>
+            <word> About </word>
+          </RB>
+          <CD>
+            <word> 74 </word>
+          </CD>
+        </QP>
+        <NN>
+          <word> % </word>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <NN>
+            <word> population </word>
+          </NN>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> spoke </word>
+      </VBZ>
+      <ADVP>
+        <JJ>
+          <word> Indo-Aryan </word>
+        </JJ>
+      </ADVP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

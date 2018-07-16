@@ -1,0 +1,65 @@
+<top>
+  <S>
+    <NP>
+      <NNS>
+        <word> Ships </word>
+      </NNS>
+    </NP>
+    <VP>
+      <VBD>
+        <word> were </word>
+      </VBD>
+      <VP>
+        <VBG>
+          <word> being </word>
+        </VBG>
+        <VP>
+          <VBN>
+            <word> built </word>
+          </VBN>
+          <PP>
+            <IN>
+              <word> at </word>
+            </IN>
+            <NP>
+              <NNP>
+                <word> Wearmouth </word>
+              </NNP>
+            </NP>
+          </PP>
+          <PP>
+            <IN>
+              <word> by </word>
+            </IN>
+            <NP>
+              <NP>
+                <DT>
+                  <word> a </word>
+                </DT>
+                <NN>
+                  <word> merchant </word>
+                </NN>
+              </NP>
+              <VP>
+                <VBN>
+                  <word> named </word>
+                </VBN>
+                <NP>
+                  <NNP>
+                    <word> Thomas </word>
+                  </NNP>
+                  <NNP>
+                    <word> Menville </word>
+                  </NNP>
+                </NP>
+              </VP>
+            </NP>
+          </PP>
+        </VP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

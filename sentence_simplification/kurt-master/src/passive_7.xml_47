@@ -1,0 +1,87 @@
+<top>
+  <S>
+    <PP>
+      <IN>
+        <word> In </word>
+      </IN>
+      <NP>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <CD>
+            <word> 1878 </word>
+          </CD>
+          <NNP>
+            <word> Treaty </word>
+          </NNP>
+        </NP>
+        <PP>
+          <IN>
+            <word> of </word>
+          </IN>
+          <NP>
+            <NNP>
+              <word> Berlin </word>
+            </NNP>
+          </NP>
+        </PP>
+      </NP>
+    </PP>
+    <comma>
+      <word> , </word>
+    </comma>
+    <NP>
+      <NNP>
+        <word> Romania </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> recognized </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> as </word>
+          </IN>
+          <NP>
+            <NP>
+              <DT>
+                <word> an </word>
+              </DT>
+              <JJ>
+                <word> independent </word>
+              </JJ>
+              <NN>
+                <word> state </word>
+              </NN>
+            </NP>
+            <PP>
+              <IN>
+                <word> by </word>
+              </IN>
+              <NP>
+                <DT>
+                  <word> the </word>
+                </DT>
+                <NNP>
+                  <word> Great </word>
+                </NNP>
+                <NNP>
+                  <word> Powers </word>
+                </NNP>
+              </NP>
+            </PP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

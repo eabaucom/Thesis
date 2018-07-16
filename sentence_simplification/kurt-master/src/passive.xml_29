@@ -1,0 +1,46 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Ton </word>
+      </NNP>
+      <NNP>
+        <word> Roosendaal </word>
+      </NNP>
+    </NP>
+    <ADVP>
+      <RB>
+        <word> first </word>
+      </RB>
+    </ADVP>
+    <VP>
+      <VBD>
+        <word> announced </word>
+      </VBD>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NN>
+          <word> film </word>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <word> in </word>
+        </IN>
+        <NP>
+          <NNP>
+            <word> May </word>
+          </NNP>
+          <CD>
+            <word> 2005 </word>
+          </CD>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

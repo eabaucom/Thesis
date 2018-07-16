@@ -1,0 +1,62 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> It </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> spoken </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <QP>
+              <JJR>
+                <word> more </word>
+              </JJR>
+              <IN>
+                <word> than </word>
+              </IN>
+              <CD>
+                <word> 280 </word>
+              </CD>
+              <CD>
+                <word> million </word>
+              </CD>
+            </QP>
+            <NNS>
+              <word> people </word>
+            </NNS>
+          </NP>
+        </PP>
+        <PP>
+          <IN>
+            <word> as </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> a </word>
+            </DT>
+            <JJ>
+              <word> first </word>
+            </JJ>
+            <NN>
+              <word> language </word>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

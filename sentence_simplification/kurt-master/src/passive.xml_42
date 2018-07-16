@@ -1,0 +1,25 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Agent </word>
+      </NNP>
+      <NNP>
+        <word> Smith </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> ambushed </word>
+      </VBZ>
+      <NP>
+        <NNP>
+          <word> Neo </word>
+        </NNP>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

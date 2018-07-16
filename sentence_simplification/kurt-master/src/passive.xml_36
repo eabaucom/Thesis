@@ -1,0 +1,78 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <NNS>
+          <word> Generations </word>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NP>
+            <JJ>
+              <word> American </word>
+            </JJ>
+            <JJ>
+              <word> deaf </word>
+            </JJ>
+            <NNS>
+              <word> people </word>
+            </NNS>
+          </NP>
+          <VP>
+            <VBN>
+              <word> called </word>
+            </VBN>
+            <S>
+              <NP>
+                <NNP>
+                  <word> Laurent </word>
+                </NNP>
+                <NNP>
+                  <word> Clerc </word>
+                </NNP>
+              </NP>
+            </S>
+          </VP>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <SYM>
+        <word> \" </word>
+      </SYM>
+      <NP>
+        <NP>
+          <DT>
+            <word> The </word>
+          </DT>
+          <NNP>
+            <word> Father </word>
+          </NNP>
+        </NP>
+        <PP>
+          <IN>
+            <word> of </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NNP>
+              <word> Deaf </word>
+            </NNP>
+            <NNP>
+              <word> \" </word>
+            </NNP>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

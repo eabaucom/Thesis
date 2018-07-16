@@ -1,0 +1,41 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Hipparchus </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> considered </word>
+        </VBN>
+        <S>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <JJS>
+              <word> greatest </word>
+            </JJS>
+            <JJ>
+              <word> ancient </word>
+            </JJ>
+            <JJ>
+              <word> astronomical </word>
+            </JJ>
+            <NN>
+              <word> observer </word>
+            </NN>
+          </NP>
+        </S>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

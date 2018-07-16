@@ -1,0 +1,48 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> referred </word>
+      </VBP>
+      <PP>
+        <TO>
+          <word> to </word>
+        </TO>
+        <NP>
+          <NP>
+            <JJ>
+              <word> multiple </word>
+            </JJ>
+            <NNS>
+              <word> tornadoes </word>
+            </NNS>
+          </NP>
+          <PP>
+            <IN>
+              <word> as </word>
+            </IN>
+            <NP>
+              <DT>
+                <word> a </word>
+              </DT>
+              <JJ>
+                <word> tornado </word>
+              </JJ>
+              <NN>
+                <word> family </word>
+              </NN>
+            </NP>
+          </PP>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

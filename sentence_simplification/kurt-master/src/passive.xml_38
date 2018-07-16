@@ -1,0 +1,62 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <NNP>
+          <word> Nazi </word>
+        </NNP>
+        <NNP>
+          <word> Germany </word>
+        </NNP>
+      </NP>
+      <CC>
+        <word> and </word>
+      </CC>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NNP>
+          <word> Soviet </word>
+        </NNP>
+        <NNP>
+          <word> Union </word>
+        </NNP>
+      </NP>
+    </NP>
+    <ADVP>
+      <RB>
+        <word> later </word>
+      </RB>
+    </ADVP>
+    <VP>
+      <VBD>
+        <word> occupied </word>
+      </VBD>
+      <NP>
+        <NNP>
+          <word> Poland </word>
+        </NNP>
+      </NP>
+      <PP>
+        <IN>
+          <word> during </word>
+        </IN>
+        <NP>
+          <NNP>
+            <word> World </word>
+          </NNP>
+          <NNP>
+            <word> War </word>
+          </NNP>
+          <NNP>
+            <word> II </word>
+          </NNP>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

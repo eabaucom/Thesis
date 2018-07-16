@@ -1,0 +1,71 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> have </word>
+      </VBP>
+      <VBD>
+        <word> identified </word>
+      </VBD>
+      <NP>
+        <NP>
+          <NN>
+            <word> owner </word>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <word> of </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NN>
+              <word> caf? </word>
+            </NN>
+          </NP>
+        </PP>
+        <PP>
+          <IN>
+            <word> in </word>
+          </IN>
+          <NP>
+            <NP>
+              <NNP>
+                <word> Antar </word>
+              </NNP>
+              <NNP>
+                <word> Internet </word>
+              </NNP>
+              <NNP>
+                <word> Caf? </word>
+              </NNP>
+            </NP>
+            <PP>
+              <IN>
+                <word> as </word>
+              </IN>
+              <NP>
+                <NNP>
+                  <word> Kaleed </word>
+                </NNP>
+                <NNP>
+                  <word> Dahr </word>
+                </NNP>
+              </NP>
+            </PP>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

@@ -1,0 +1,83 @@
+<top>
+  <S>
+    <NP>
+      <DT>
+        <word> The </word>
+      </DT>
+      <NN>
+        <word> distance </word>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> travelled </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <NP>
+              <NN>
+                <word> light </word>
+              </NN>
+            </NP>
+            <PP>
+              <IN>
+                <word> in </word>
+              </IN>
+              <NP>
+                <NP>
+                  <DT>
+                    <word> a </word>
+                  </DT>
+                  <NN>
+                    <word> vacuum </word>
+                  </NN>
+                </NP>
+                <PP>
+                  <IN>
+                    <word> during </word>
+                  </IN>
+                  <NP>
+                    <NP>
+                      <DT>
+                        <word> a </word>
+                      </DT>
+                      <NN>
+                        <word> time </word>
+                      </NN>
+                      <NN>
+                        <word> interval </word>
+                      </NN>
+                    </NP>
+                    <PP>
+                      <IN>
+                        <word> of </word>
+                      </IN>
+                      <NP>
+                        <DT>
+                          <word> a </word>
+                        </DT>
+                        <JJ>
+                          <word> second </word>
+                        </JJ>
+                      </NP>
+                    </PP>
+                  </NP>
+                </PP>
+              </NP>
+            </PP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

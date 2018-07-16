@@ -1,0 +1,227 @@
+##NOTES
+# writing special rule for badly parsed sent 8 matches an LHS description for sent 10, but performs the wrong transforms; nothing about their structures as parsed gives a clue how to distinguish -- example of difficulty adding more and more sents -- interactions; special cases match other, more regular LHS structures
+
+#sents with only minor lexical additions: 5,6,9,10,13,15,16,17,19,20,22,24,25,28
+#sents with bad parses, but match existing rule, producing marginally acceptable output: 21,26,27
+#sents with very bad parses, string rewrite: 7,8
+
+
+#rewrite sent 7
+- state: q
+  lhs: ( (S (NP (NP (DT The) (NN island)) (PP (IN of) (NP (NNP Taiwan)))) (VP (VBZ is) (VP (VBN claimed) (PP (IN as) (NP (NP (DT a) (JJ ") (NN province)) (VP (VBN ") (PP (IN by) (NP (NP (NP (DT the) (NNPS People) (POS 's)) (NNP Republic)) (PP (IN of) (NP (NNP China) (NNP PRC)))))))))) (. .)) )
+  rhs: ( (S (NP (NP (NP (DT The) (NNS People) (POS 's)) (NNP Republic)) (PP (IN of) (NP (NNP China) (NNP PRC)))) (VP (VBP claim) (NP (NP (DT the) (NN island)) (PP (IN of) (NP (NNP Taiwan)))) (PP (IN as) (NP (NP (DT a) (JJ ") (NN province)) (X (SYM "))))) (. .)) )
+# rewrite sent 8
+- state: q
+  lhs: ( (S (NP (DT The) (NN distance)) (VP (VBZ is) (VP (VBN travelled) (PP (IN by) (NP (NP (NN light)) (PP (IN in) (NP (NP (DT a) (NN vacuum)) (PP (IN during) (NP (NP (DT a) (NN time) (NN interval)) (PP (IN of) (NP (DT a) (JJ second))))))))))) (. .)) )
+  rhs: ( (S (NP (NNS Light)) (VP (VBZ travelled) (NP (NP (DT the) (NN distance)) (PP (IN in) (NP (DT a) (NN vacuum))) ) (PP (IN during) (NP (NP (DT a) (NN time) (NN interval)) (PP (IN of) (NP (DT a) (JJ second)))))) (. .)) )
+  
+  
+# passive with 'by'
+# e.g. ( (S (NP (NP (NP (NNP Gaul) (POS 's)) (JJ eastern) (NN frontier)) (PP (IN along) (NP (DT the) (NNP Rhine)))) (VP (VBD was) (VP (VBN overrun) (PP (IN by) (NP (NNP Germanic) (NNS tribes))))) (. .)) )
+- state: q
+  lhs: ( (S ?x0 (VP ?x1 (VP ?x2 (PP (IN by) ?x3))) (. .)) )
+  rhs: ( (S ?x3 (VP ?x2 ?x0) (. .)) )
+  newstates:
+  - [[0, 1, 0], vbntovbd]
+
+# passive with 'by' with extra modifier (e.g., PP), attached at VP
+# e.g. ( (S (NP (JJ Major) (JJ scientific) (NNS breakthroughs)) (VP (VBD were) (VP (VBN achieved) (PP (IN by) (NP (JJ French) (NNS scientists))) (PP (IN in) (NP (DT the) (JJ 18th) (NN century))))) (. .)) )
+- state: q
+  lhs: ( (S ?x0 (VP ?x1 (VP ?x2 (PP (IN by) ?x3) ?x4)) (. .)) )
+  rhs: ( (S (NP ?x3) (VP ?x2 ?x0 ?x4) (. .)) )
+  newstates:
+  - [[0, 1, 0], vbntovbd]
+
+# passive with 'by' with extra modifier (e.g., PP), attached at VP, with fronted modifier
+# e.g. ( (S (ADVP (RB Officially)) (NP (DT the) (NN league)) (VP (VBD was) (VP (VBN abolished) (PP (IN by) (NP (NP (NNP Philip) (NNP II)) (PP (IN of) (NP (NNP Spain))))) (PP (IN in) (NP (CD 1568))))) (. .)) )
+- state: q
+  lhs: ( (S ?frontmod ?patient (VP ?aux (VP ?vbn (PP (IN by) ?agent) ?mod)) (. .)) )
+  rhs: ( (S ?agent ?frontmod (VP (VP ?vbn ?patient) ?mod) (. .)) )
+  newstates:
+  - [[0, 2, 0, 0], vbntovbd]
+
+  
+# passive with 'by' with extra modifier (e.g., PP), attached at VP -- switched order
+# e.g. ( (S (NP (DT The) (NN book)) (VP (VBD was) (VP (VBN published) (PP (IN in) (NP (CD 1989))) (PP (IN by) (NP (NNP Harper) (NNP Collins))))) (. .)) )
+- state: q
+  lhs: ( (S ?x0 (VP ?x1 (VP ?x2 ?ppmod (PP (IN by) ?x3))) (. .)) )
+  rhs: ( (S ?x3 (VP (VP ?x2 ?x0) ?ppmod) (. .)) )
+  newstates:
+  - [[0, 1, 0, 0], vbntovbd]
+
+# passive with 'by', allowing e.g. ADVP to modify main verb
+# e.g. ( (S (NP (DT The) (NN word)) (VP (VBD was) (ADVP (RB first)) (VP (VBN used) (PP (IN by) (NP (NP (DT a) (NN scientist)) (VP (VBN called) (S (NP (NNP Eratosthenes)))))))) (. .)) )
+- state: q
+  lhs: ( (S ?x0 (VP ?x1 ?advp (VP ?x2 (PP (IN by) ?x3))) (. .)) )
+  rhs: ( (S ?x3 (VP ?advp ?x2 ?x0) (. .)) )
+  newstates:
+  - [[0, 1, 1], vbntovbd]
+  
+# passive with 'by', allowing e.g. ADVP to modify main verb, with extra modifier attached to VP
+# e.g. ( (S (NP (DT The) (NN film)) (VP (VBD was) (VP (ADVP (RB first)) (VBN announced) (PP (IN in) (NP (NNP May) (CD 2005))) (PP (IN by) (NP (NNP Ton) (NNP Roosendaal))))) (. .)) )
+- state: q
+  lhs: ( (S ?patient (VP ?aux (VP ?advp ?vbn ?ppmod (PP (IN by) ?agent))) (. .)) )
+  rhs: ( (S ?agent (VP (VP ?advp ?vbn ?patient) ?ppmod) (. .)) )
+  newstates:
+  - [[0, 1, 0, 1], vbntovbd]
+  
+# passive with 'by', progressive, with adjunct
+# e.g. ( (S (NP (NNS Ships)) (VP (VBD were) (VP (VBG being) (VP (VBN built) (PP (IN at) (NP (NNP Wearmouth))) (PP (IN by) (NP (NP (DT a) (NN merchant)) (VP (VBN named) (NP (NNP Thomas) (NNP Menville)))))))) (. .)) )
+- state: q
+  lhs: ( (S ?patient (VP ?aux (VP (VBG being) (VP ?vbn ?adjunct (PP (IN by) ?agent)))) (. .)) )
+  rhs: ( (S ?agent (VP ?aux (VP ?vbn ?patient ?adjunct)) (. .)) )
+  newstates:
+  - [[0, 1, 1, 0], vbntoprog]
+  
+# basic passive (without 'by') "was/is x'ed", with PP argument
+# e.g. ( (S (NP (DT The) (NN paper)) (VP (VBZ is) (VP (VBN regarded) (PP (IN as) (NP (NP (DT the) (JJ first) (NN paper)) (PP (IN in) (NP (NP (DT the) (NN history)) (PP (IN of) (NP (JJ graph) (NN theory))))))))) (. .)) )
+- state: q
+  lhs: ( (S ?x0 (VP ?x1 (VP (VBN ?x2) ?x3)) ?x4) )
+  rhs: ( (S (NP (PRP We)) (VP (VBD ?x2) ?x0 ?x3) ?x4) )
+#  newstates:
+#  - [[0, 1, 1], subjtoobj]
+  newstates:
+  - [[0, 1, 0], vbntovbd]
+  
+# basic passive (without 'by') "was/is x'ed to", with PP argument
+# e.g. ( (S (NP (NN Multiple) (NNS tornadoes)) (VP (VBP are) (VP (VBN referred) (PP (TO to) (NP (RB as) (DT a) (JJ tornado) (NN family))))) (. .)) )
+- state: q
+  lhs: ( (S ?x0 (VP ?x1 (VP (VBN ?x2) (PP (TO to) ?x3))) (. .)) )
+  rhs: ( (S (NP (PRP We)) (VP (VBN ?x2) (PP (TO to) ?x0 ?x3)) (. .)) )
+  newstates:
+  - [[0, 1, 1, 1], subjtoobj]
+  - [[0, 1, 0], vbntovbd]
+  
+# basic passive (without 'by') "was/is being x'ed ", with interposed mod
+# e.g. ( (S (NP (NP (DT The) (NN classification)) (PP (IN of) (NP (NNS crustaceans)))) (VP (VBZ is) (ADVP (RB currently)) (VP (VBG being) (VP (VBN debated)))) (. .)) )
+- state: q
+  lhs: ( (S ?patient (VP ?aux ?mod (VP (VBG being) (VP ?vbn))) (. .)) )
+  rhs: ( (S (NP (PRP We)) (VP (VBP are) ?mod (VP ?vbn ?patient)) (. .)) )
+  newstates:
+  - [[0, 1, 2, 0], vbntoprog]
+  
+# passive, with 'MD be VBN', weaselspeak, with ADVP
+# e.g. ( (S (NP (PRP It)) (VP (MD can) (ADVP (RB also)) (VP (VB be) (VP (VBN said) (SBAR (IN that) (S (NP (CD 42)) (VP (VBZ is) (ADJP (JJ divisible) (PP (IN by) (NP (CD 7)))))))))) (. .)) )
+- state: q
+  lhs: ( (S (NP (PRP It)) (VP (MD ?modal) ?advp (VP (VB be) (VP ?vbn (SBAR (IN that) ?whatissaid )))) (. .)) )
+  rhs: ( (S (NP (PRP We)) (VP (MD ?modal) ?advp (VP ?vbn (SBAR (IN that) ?whatissaid))) (. .)) )
+  newstates:
+  - [[0, 1, 2, 0], vbntobare] 
+  
+# passive with fronted instrumental PP, with 'MD be VBN'
+# e.g. ( (S (PP (IN By) (S (VP (VBG using) (NP (NN error) (NN checking))))) (NP (DT the) (JJ total) (NN system)) (VP (MD can) (VP (VB be) (VP (VBN made) (S (ADJP (RBR more) (JJ reliable)))))) (. .)) )
+- state: q
+  lhs: ( (S ?instr ?patient (VP (MD ?modal) (VP (VB be) (VP ?vbn ?mod))) (. .)) )
+  rhs: ( (S (NP (PRP We)) (VP (MD ?modal) (VP (VP ?vbn ?patient ?mod) ?instr)) (. .)) )
+  newstates:
+  - [[0, 1, 1, 0, 0], vbntobare] 
+  
+#participle to past tense
+- state: vbntovbd
+  lhs: (VBN overrun)
+  rhs: (VBD overran)
+- state: vbntovbd
+  lhs: (VBN achieved)
+  rhs: (VBD achieved)
+- state: vbntovbd
+  lhs: (VBN used)
+  rhs: (VBD used)
+- state: vbntovbd
+  lhs: (VBD regarded)
+  rhs: (VBD regarded)
+- state: vbntovbd
+  lhs: (VBN accepted)
+  rhs: (VBD accepted)
+- state: vbntovbd
+  lhs: (VBN spoken)
+  rhs: (VBD spoke)
+- state: vbntovbd
+  lhs: (VBN claimed)
+  rhs: (VBD claimed)
+- state: vbntovbd
+  lhs: (VBN travelled)
+  rhs: (VBD travelled)
+- state: vbntovbd
+  lhs: (VBN appointed)
+  rhs: (VBD appointed)
+- state: vbntovbd
+  lhs: (VBN presented)
+  rhs: (VBD presented)
+- state: vbntovbd
+  lhs: (VBN published)
+  rhs: (VBD published)
+- state: vbntovbd
+  lhs: (VBN referred)
+  rhs: (VBD referred)
+- state: vbntovbd
+  lhs: (VBN changed)
+  rhs: (VBD changed)
+- state: vbntovbd
+  lhs: (VBN considered)
+  rhs: (VBD considered)
+- state: vbntovbd
+  lhs: (VBN seen)
+  rhs: (VBP see)
+- state: vbntovbd
+  lhs: (VBN directed)
+  rhs: (VBD directed)
+- state: vbntovbd
+  lhs: (VBN replaced)
+  rhs: (VBD replaced)
+- state: vbntovbd
+  lhs: (VBD named)
+  rhs: (VBD named)
+- state: vbntovbd
+  lhs: (VBN opened)
+  rhs: (VBD opened)
+- state: vbntovbd
+  lhs: (VBD enthroned)
+  rhs: (VBD enthroned)
+- state: vbntovbd
+  lhs: (VBN succeeded)
+  rhs: (VBD succeeded)
+- state: vbntovbd
+  lhs: (VBN sighted)
+  rhs: (VBD sighted)
+- state: vbntovbd
+  lhs: (VBN bordered)
+  rhs: (VBD bordered)
+- state: vbntovbd
+  lhs: (VBN abolished)
+  rhs: (VBD abolished)
+- state: vbntovbd
+  lhs: (VBN announced)
+  rhs: (VBD announced)
+
+
+  
+#change past participle to bare VB form
+- state: vbntobare
+  lhs: (VBN made)
+  rhs: (VB make)
+- state: vbntobare
+  lhs: (VBN said)
+  rhs: (VB say)
+  
+#change pastparticiple to progressive form
+- state: vbntoprog
+  lhs: (VBN built)
+  rhs: (VBG building)
+- state: vbntoprog
+  lhs: (VBN debated)
+  rhs: (VBG debating)
+  
+##change case
+#subj to obj
+- state: subjtoobj
+  lhs: (NP (PRP I))
+  rhs: (NP (PRP me))
+- state: subjtoobj
+  lhs: (NP (DT The) (NN paper))
+  rhs: (NP (DT the) (NN paper))
+- state: subjtoobj
+  lhs: (NP (NN Multiple) (NNS tornadoes))
+  rhs: (NP (NN Multiple) (NNS tornadoes))
+- state: subjtoobj
+  lhs: (NP (NNP Elizabeth))
+  rhs: (NP (NNP Elizabeth))

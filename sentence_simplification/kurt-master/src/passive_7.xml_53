@@ -1,0 +1,116 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Detainees </word>
+      </NNP>
+      <NNP>
+        <word> Al-Sabah </word>
+      </NNP>
+      <CC>
+        <word> and </word>
+      </CC>
+      <NNP>
+        <word> Mandari </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> are </word>
+      </VBP>
+      <ADJP>
+        <VBN>
+          <word> informed </word>
+        </VBN>
+        <SBAR>
+          <IN>
+            <word> that </word>
+          </IN>
+          <S>
+            <NP>
+              <PRP>
+                <word> they </word>
+              </PRP>
+            </NP>
+            <VP>
+              <MD>
+                <word> will </word>
+              </MD>
+              <VP>
+                <VB>
+                  <word> be </word>
+                </VB>
+                <VP>
+                  <VBN>
+                    <word> turned </word>
+                  </VBN>
+                  <PRT>
+                    <RP>
+                      <word> over </word>
+                    </RP>
+                  </PRT>
+                  <PP>
+                    <TO>
+                      <word> to </word>
+                    </TO>
+                    <NP>
+                      <NP>
+                        <PRP$>
+                          <word> their </word>
+                        </PRP$>
+                        <NN>
+                          <word> government </word>
+                        </NN>
+                      </NP>
+                      <PP>
+                        <IN>
+                          <word> for </word>
+                        </IN>
+                        <NP>
+                          <NN>
+                            <word> repatriation </word>
+                          </NN>
+                        </NP>
+                      </PP>
+                    </NP>
+                  </PP>
+                </VP>
+              </VP>
+            </VP>
+          </S>
+        </SBAR>
+      </ADJP>
+      <PP>
+        <JJ>
+          <word> due </word>
+        </JJ>
+        <TO>
+          <word> to </word>
+        </TO>
+        <NP>
+          <NP>
+            <PRP$>
+              <word> their </word>
+            </PRP$>
+            <NN>
+              <word> lack </word>
+            </NN>
+          </NP>
+          <PP>
+            <IN>
+              <word> of </word>
+            </IN>
+            <NP>
+              <NN>
+                <word> cooperation </word>
+              </NN>
+            </NP>
+          </PP>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

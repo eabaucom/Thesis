@@ -1,0 +1,54 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> considered </word>
+      </VBD>
+      <S>
+        <NP>
+          <PRP>
+            <word> he </word>
+          </PRP>
+        </NP>
+        <NP>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NN>
+              <word> heart </word>
+            </NN>
+          </NP>
+          <CC>
+            <word> and </word>
+          </CC>
+          <NP>
+            <NP>
+              <NN>
+                <word> tongue </word>
+              </NN>
+            </NP>
+            <PP>
+              <IN>
+                <word> of </word>
+              </IN>
+              <NP>
+                <NNP>
+                  <word> Ra </word>
+                </NNP>
+              </NP>
+            </PP>
+          </NP>
+        </NP>
+      </S>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

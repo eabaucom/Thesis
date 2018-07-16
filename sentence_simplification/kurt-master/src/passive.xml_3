@@ -1,0 +1,71 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> regarded </word>
+      </VBP>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NN>
+          <word> paper </word>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <word> as </word>
+        </IN>
+        <NP>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <JJ>
+              <word> first </word>
+            </JJ>
+            <NN>
+              <word> paper </word>
+            </NN>
+          </NP>
+          <PP>
+            <IN>
+              <word> in </word>
+            </IN>
+            <NP>
+              <NP>
+                <DT>
+                  <word> the </word>
+                </DT>
+                <NN>
+                  <word> history </word>
+                </NN>
+              </NP>
+              <PP>
+                <IN>
+                  <word> of </word>
+                </IN>
+                <NP>
+                  <JJ>
+                    <word> graph </word>
+                  </JJ>
+                  <NN>
+                    <word> theory </word>
+                  </NN>
+                </NP>
+              </PP>
+            </NP>
+          </PP>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

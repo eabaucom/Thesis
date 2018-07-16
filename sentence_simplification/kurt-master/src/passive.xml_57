@@ -1,0 +1,49 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> They </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> have </word>
+      </VBP>
+      <VP>
+        <VBN>
+          <word> opened </word>
+        </VBN>
+        <CC>
+          <word> and </word>
+        </CC>
+        <VBN>
+          <word> tampered </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> with </word>
+          </IN>
+          <NP>
+            <NP>
+              <DT>
+                <word> each </word>
+              </DT>
+              <NN>
+                <word> computer </word>
+              </NN>
+              <POS>
+                <word> 's </word>
+              </POS>
+            </NP>
+            <NN>
+              <word> case </word>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

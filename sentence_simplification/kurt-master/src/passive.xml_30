@@ -1,0 +1,42 @@
+<top>
+  <S>
+    <NP>
+      <PRP$>
+        <word> His </word>
+      </PRP$>
+      <NN>
+        <word> brother </word>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> Crown </word>
+      </VBZ>
+      <SBAR>
+        <S>
+          <NP>
+            <NNP>
+              <word> Prince </word>
+            </NNP>
+            <NNP>
+              <word> Abdullah </word>
+            </NNP>
+          </NP>
+          <VP>
+            <VBD>
+              <word> succeeded </word>
+            </VBD>
+            <NP>
+              <PRP>
+                <word> he </word>
+              </PRP>
+            </NP>
+          </VP>
+        </S>
+      </SBAR>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

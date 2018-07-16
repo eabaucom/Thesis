@@ -1,0 +1,38 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Wisconsin </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> bordered </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NNP>
+              <word> Montreal </word>
+            </NNP>
+            <NNP>
+              <word> River </word>
+            </NNP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

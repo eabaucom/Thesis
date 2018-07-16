@@ -1,0 +1,4 @@
+(TOP (S (S (NP (DT The) (NN name)) (NP (NNP April)) (VP (VBZ comes) (PP (IN from) (NP (NP (DT that) (JJ Latin) (NN word) (NN aperire)) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (X (SYM ")) (S (VP (TO to) (VP (VB open) (X (SYM ")))))))))))) (. .)) (S (NP (DT This)) (ADVP (RB probably)) (VP (VBZ refers) (PP (TO to) (NP (VBG growing) (NNS plants))) (PP (IN in) (NP (NN spring))))) (. .)) )
+(TOP (S (NP (NNP April)) (VP (VBZ is) (NP (NP (DT the) (JJ fourth) (NN month)) (PP (IN of) (NP (DT the) (NN year))) (PP (IN with) (NP (CD 30) (NNS days))))) (. .)) )
+(TOP (S (S (NP (NP (NNP April) (POS 's)) (NN flower)) (VP (VBZ is) (NP (DT the) (NNP Sweet) (NNP Pea)))) (CC and) (S (NP (PRP$ its) (NN birthstone)) (VP (VBZ is) (NP (DT the) (NNP Diamond)))) (. .)) )
+(TOP (S (NP (NNP August)) (VP (VBZ is) (NP (NP (DT the) (JJ eighth) (NN month)) (PP (IN of) (NP (DT the) (NN year))))) (. .) (NP (PRP It)) (VP (VBZ has) (NP (CD 31) (NNS days))) (. .)) )

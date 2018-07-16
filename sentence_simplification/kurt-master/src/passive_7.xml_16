@@ -1,0 +1,66 @@
+<top>
+  <S>
+    <NP>
+      <DT>
+        <word> The </word>
+      </DT>
+      <NN>
+        <word> array </word>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> seen </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NN>
+              <word> computer </word>
+            </NN>
+            <NN>
+              <word> user </word>
+            </NN>
+            <CC>
+              <word> and </word>
+            </CC>
+            <NN>
+              <word> operating </word>
+            </NN>
+            <NN>
+              <word> system </word>
+            </NN>
+          </NP>
+        </PP>
+        <PP>
+          <IN>
+            <word> as </word>
+          </IN>
+          <NP>
+            <CD>
+              <word> one </word>
+            </CD>
+            <JJ>
+              <word> single </word>
+            </JJ>
+            <NN>
+              <word> disk </word>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

@@ -1,0 +1,61 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> He </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <ADVP>
+          <RB>
+            <word> first </word>
+          </RB>
+        </ADVP>
+        <VBN>
+          <word> elected </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> as </word>
+          </IN>
+          <NP>
+            <NP>
+              <DT>
+                <word> a </word>
+              </DT>
+              <NN>
+                <word> delegate </word>
+              </NN>
+            </NP>
+            <PP>
+              <TO>
+                <word> to </word>
+              </TO>
+              <NP>
+                <DT>
+                  <word> the </word>
+                </DT>
+                <CD>
+                  <word> 1971 </word>
+                </CD>
+                <NNP>
+                  <word> Constitutional </word>
+                </NNP>
+                <NNP>
+                  <word> Convention </word>
+                </NNP>
+              </NP>
+            </PP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

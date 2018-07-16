@@ -1,0 +1,57 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <NNP>
+          <word> Philip </word>
+        </NNP>
+        <NNP>
+          <word> II </word>
+        </NNP>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NNP>
+            <word> Spain </word>
+          </NNP>
+        </NP>
+      </PP>
+    </NP>
+    <ADVP>
+      <RB>
+        <word> officially </word>
+      </RB>
+    </ADVP>
+    <VP>
+      <VBD>
+        <word> abolished </word>
+      </VBD>
+      <S>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <NN>
+            <word> league </word>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <word> in </word>
+          </IN>
+          <NP>
+            <CD>
+              <word> 1568 </word>
+            </CD>
+          </NP>
+        </PP>
+      </S>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

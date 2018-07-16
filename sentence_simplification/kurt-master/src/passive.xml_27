@@ -1,0 +1,26 @@
+<top>
+  <NP>
+    <NP>
+      <DT>
+        <word> The </word>
+      </DT>
+      <NNP>
+        <word> Montreal </word>
+      </NNP>
+      <NNP>
+        <word> River </word>
+      </NNP>
+      <NNS>
+        <word> bordered </word>
+      </NNS>
+    </NP>
+    <NP>
+      <NNP>
+        <word> Wisconsin </word>
+      </NNP>
+    </NP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </NP>
+</top>

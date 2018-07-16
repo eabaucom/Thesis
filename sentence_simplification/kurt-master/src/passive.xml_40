@@ -1,0 +1,52 @@
+<top>
+  <S>
+    <NP>
+      <JJ>
+        <word> Several </word>
+      </JJ>
+    </NP>
+    <VP>
+      <VBD>
+        <word> suggested </word>
+      </VBD>
+      <S>
+        <NP>
+          <PRP>
+            <word> he </word>
+          </PRP>
+        </NP>
+        <VP>
+          <TO>
+            <word> to </word>
+          </TO>
+          <VP>
+            <VB>
+              <word> rewrite </word>
+            </VB>
+            <NP>
+              <DT>
+                <word> this </word>
+              </DT>
+              <NN>
+                <word> book </word>
+              </NN>
+            </NP>
+            <PP>
+              <IN>
+                <word> for </word>
+              </IN>
+              <NP>
+                <NNS>
+                  <word> boys </word>
+                </NNS>
+              </NP>
+            </PP>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

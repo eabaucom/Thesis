@@ -1,0 +1,38 @@
+<top>
+  <S>
+    <NP>
+      <PRP$>
+        <word> His </word>
+      </PRP$>
+      <NN>
+        <word> half-brother </word>
+      </NN>
+      <NNP>
+        <word> Khalid </word>
+      </NNP>
+      <PP>
+        <IN>
+          <word> as </word>
+        </IN>
+        <NP>
+          <NNP>
+            <word> King </word>
+          </NNP>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> succeeded </word>
+      </VBD>
+      <NP>
+        <NNP>
+          <word> Faisal </word>
+        </NNP>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

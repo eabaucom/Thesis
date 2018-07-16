@@ -1,0 +1,45 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Al-Buredi </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> believed </word>
+        </VBN>
+        <S>
+          <VP>
+            <TO>
+              <word> to </word>
+            </TO>
+            <VP>
+              <VB>
+                <word> be </word>
+              </VB>
+              <NP>
+                <DT>
+                  <word> an </word>
+                </DT>
+                <JJ>
+                  <word> Adhamiya </word>
+                </JJ>
+                <NN>
+                  <word> resident </word>
+                </NN>
+              </NP>
+            </VP>
+          </VP>
+        </S>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

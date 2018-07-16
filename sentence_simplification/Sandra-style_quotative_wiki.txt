@@ -1,0 +1,134 @@
+O: They are often popularly described as " dirty snowballs " , though recent observations have revealed dry dusty or rocky surfaces , suggesting that the ices are hidden beneath the crust see Debate over comet composition .
+M: Dry , dusty , or rocky surfaces suggest that the ices are hidden beneath the crust .
+S: Dry , dusty , or rocky surfaces suggest X .
+X is `` the ices are hidden beneath the crust . ''
+
+O: The Giotto probe found that Comet Halley 's nucleus reflects approximately 4 % of the light that falls on it , and Deep Space 1 discovered that Comet Borrelly 's surface reflects 2.4 � � � 3.0 % of the light that falls on it .
+M: The Giotto probe found that Comet Halley 's nucleus reflects approximately 4 % of the light that falls on it .
+S: The Giotto probe found X .
+X is `` Comet Halley 's nucleus reflects approximately 4 % of the light that falls on it . ''
+
+O: From 2006 to 2008 , surveys ranked Denmark as " the happiest place in the world , " based on standards of health , welfare , and education .
+M: Surveys ranked Denmark as " the happiest place in the world " .
+S: Surveys ranked X .
+X is `` Denmark is " the happiest place in the world " . ''
+
+O: Christianity first appeared in the 2nd and 3rd centuries AD , and became so firmly established by the fourth and fifth centuries that St. Jerome wrote that Gaul was the only region � � � free from heresy � � � .
+M: St. Jerome wrote that Gaul was the only region " free from heresy " .
+S: St. Jerome wrote X .
+X is `` Gaul was the only region " free from heresy " . ''
+
+O: During the last ten days of Ramadan , larger mosques will host all-night programs to observe Laylat al-Qadr , the night Muslims believe that Muhammad first received Qur'anic revelations .
+M: Muslims believe that Muhammad first received Qur'anic revelations on the night .
+S: Muslimes believe X .
+X is `` Muhammad first received Qur'anic revelations on the night . ''
+
+O: Charity The third of the Five Pillars of Islam states that Muslims are required to give approximately one-fortieth of their wealth to charity as zakat .
+M: The third of the Five Pillars of Islam states that Muslims are required to give approximately one-fortieth of their wealth to charity as zakat .
+S: The third of the Five Pillars of Islam states X .
+X is `` Muslims are required to give approximately one-fortieth of their wealth to charity as zakat . ''
+
+O: Before a mutual solution could be devised , the mosque was destroyed by approximately 200,000 Hindus on December 6 , 1992 as the mosque was built by Babur allegedly on the site of a previous Hindu temple marking the birthplace of Ram .
+M: The mosque was built by Babur allegedly on the site of a previous Hindu temple marking the birthplace of Ram .
+S: Allegedly X .
+X is `` the mosque was built by Babur on the site of a previous Hindu temple marking the birthplace of Ram . ''
+
+O+M: According to the Hanafi and Maliki school of Islamic jurisprudence , appointment of a prayer leader for Friday service is mandatory because otherwise the prayer is invalid .
+S: According to the Hanafi and Maliki school of Islamic jurisprudence , X .
+X is `` appointment of a prayer leader for Friday service is mandatory because otherwise the prayer is invalid . ''
+
+O+M: The Shafi'i and Hanbali schools , however , argue that the appointment is not necessary and the prayer is valid as long as it is performed in a congregation .
+S: The Shafi'i and Hanbali schools argue X .
+X is `` the appointment is not necessary and the prayer is valid as long as it is performed in a congregation . ''
+
+O: A slave may lead a Friday prayer , but Muslim authorities disagree over whether the job can be done by a minor .
+M: Muslim authorities disagree over whether the job can be done by a minor .
+S: Muslim authorities disagree over X .
+X is `` whether the job can be done by a minor . ''
+
+O: A dissenting opinion is presented by followers of the Maliki school of Islamic jurisprudence , who argue that non-Muslims may not be allowed into mosques under any circumstances .
+M: Followers of the Maliki school of Islamic jurisprudence argue that non-Muslims may not be allowed into mosques under any circumstances .
+S: Followers of the Maliki school of Islamic jurisprudence argue X .
+X is `` non-Muslims may not be allowed into mosques under any circumstances . ''
+
+O: However , this species breeds well in captivity , and has been successfully re-introduced ; in 2004 it was estimated that there were 800 birds in the wild , as well as 1000 in wildfowl collections and zoos .
+M: In 2004 it was estimated that there were 800 birds in the wild , as well as 1000 in wildfowl collections and zoos .
+S: Estimated X .
+X is `` in 2004 there were 800 birds in the wild , as well as 1000 in wildfowl collections and zoos . ''
+
+O: Another boatload of asylum seekers was taken from Christmas Island to Papua New Guinea for processing , after it was claimed that many of the adult asylum seekers threw their children into the water , apparently in protest at being turned away .
+M: It was claimed that many of the adult asylum seekers threw their children into the water , apparently in protest at being turned away .
+S: They claimed X .
+X is `` many of the adult asylum seekers threw their children into the water , apparently in protest at being turned away . ''
+
+O: Whedon , Firefly Companion , Vol 1 , 114 Sean Maher recalls reading for the part and liking the character of Simon Tam , but that it was Whedon 's personality and vision that " sealed the deal " for him .
+M: Sean Maher recalls reading for the part and liking the character of Simon Tam , but that it was Whedon 's personality and vision that " sealed the deal " for him .
+S: Sean Maher recalls X .
+X is `` Sean Maher was reading for the part and liking the character of Simon Tam , but that it was Whedon 's personality and vision that " sealed the deal " for him . ''
+
+O+M: On 15 May 2006 , it was announced that the station is to be redeveloped as part of a $ 36 million dollar project .
+S: On 15 May 2006 , they announced X .
+X is `` the station is to be redeveloped as part of a $ 36 million dollar project . ''
+
+O: He cast Kelsey Grammer as Beast and Vinnie Jones as Juggernaut , but family issues reportedly led Vaughn to withdraw before shooting began .
+M: Family issues reportedly led Vaughn to withdraw before shooting began .
+S: Reportedly X .
+X is `` family issues led Vaughn to withdraw before shooting began . ''
+
+O: Hoover deeply believed in the Efficiency Movement a major component of the Progressive Era , arguing that a technical solution existed for every social and economic problem .
+M: Hoover argued that a technical solution existed for every social and economic problem .
+S: Hoover argued X .
+X is `` a technical solution existed for every social and economic problem . ''
+
+O+M: In June 2009 it was announced that a new single , " One More Chance " , would be released on 10 August 2009 .
+S: In June 2009 they announced X .
+X is `` a new single , " One More Chance " , would be released on 10 August 2009 . ''
+
+O: Many consider the flavor to be very agreeable , but it is generally bitter if steeped in boiling water , so it is made using hot but not boiling water .
+M: Many consider the flavor to be very agreeable .
+S: Many consider X .
+X is `` the flavor is very agreeable . ''
+
+O: It can also be said that 42 is divisible by 7 , 42 is a multiple of 7 , 7 divides 42 , or 7 is a factor of 42 .
+M: It can also be said that 42 is divisible by 7 .
+S: They can say X .
+X is `` 42 is divisible by 7 . ''
+
+O: On his eleventh birthday , Harry learns he is a wizard when Rubeus Hagrid arrives to tell him that he is to attend Hogwarts School of Witchcraft and Wizardry .
+M: On his eleventh birthday , Harry learns he is a wizard .
+S: On his eleventh birthday , Harry learns X .
+X is he is a wizard.
+
+O: When Soviet People 's Commissar for Foreign Affairs Vyacheslav Molotov claimed in radio broadcasts that the Soviet Union were not dropping bombs but rather delivering food to the starving Finns , the Finns started to call the air bombs Molotov bread baskets .
+M: Soviet People 's Commissar for Foreign Affairs Vyacheslav Molotov claimed in radio broadcasts that the Soviet Union were not dropping bombs but rather delivering food to the starving Finns .
+S: Soviet People 's Commissar for Foreign Affairs Vyacheslav Molotov claimed X .
+X is `` the Soviet Union were not dropping bombs but rather delivering food to the starving Finns . ''
+
+O: Yunus 's marriage with Vera ended within months of the birth of their baby girl , Monica Yunus b. 1979 Chittagong , as Vera returned to New Jersey claiming that Bangladesh was not a good place to raise a baby .
+M: Vera returned to New Jersey claiming that Bangladesh was not a good place to raise a baby .
+S: Vera returned to New Jersey claiming X .
+X is `` Bangladesh was not a good place to raise a baby . ''
+
+O: Swampy habitats like shallow wetlands , coastal lagoons and large brackish river deltas also existed at this time , and there is much to suggest that this is the kind of environment in which the tetrapods evolved .
+M: There is much to suggest that this is the kind of environment in which the tetrapods evolved .
+S: Much suggests X .
+X is `` this is the kind of environment in which the tetrapods evolved . ''
+
+O: According to the 2000 U.S. Census , 2,649 people speak Welsh at home Some place names , such as Bryn Mawr in Chicago and Bryn Mawr , Pennsylvania are Welsh .
+M: According to the 2000 U.S. Census , 2,649 people speak Welsh at home .
+S: According to the 2000 U.S. Census , X .
+X is `` 2,649 people speak Welsh at home . ''
+
+O: Still others believe that the Sabbath remains as a day of rest on Saturday , reserving Sunday as a day of worship .
+M: Still others believe that the Sabbath remains as a day of rest on Saturday .
+S: Others believe X .
+X is `` the Sabbath remains as a day of rest on Saturday . ''
+
+O+M: Findings also indicate that the region was occupied only seasonally , likely only in the summer when the local lake filled with water for grazing cattle .
+S: Findings also indicate X .
+X is `` the region was occupied only seasonally , likely only in the summer when the local lake filled with water for grazing cattle . ''
+
+O: Kannada has 38 million and was awarded the status of classical language in 2008 [ ] , while Malayalam is considered to have begun as a dialect of old Tamil , had 33 million native speakers .
+M: Malayalam is considered to have begun as a dialect of old Tamil .
+S: They consider X .
+X is `` Malayalam began as a dialect of old Tamil . ''

@@ -1,0 +1,134 @@
+passive:
+
+Thread 2:
+
+O: The Christian market in Abu Dasheer was attacked today as a local Christian congregation gathered for church services nearby.
+M+S: Someone/people attacked the Christian market in Abu Dasheer today as a local Christian congregation gathered for church services nearby.
+
+O: Several of the market stalls were damaged by fire and a stall owner and his wife were attacked as they attempted to sell their wares. 
+M: Several of the market stalls were damaged by fire. A stall owner and his wife were attacked as they attempted to sell their wares. 
+S: Fire damaged several of the market stalls. Someone/people attacked a stall owner and his wife as they attempted to sell their wares.
+
+O: A Sunni criminal, suspected of torching a Christian market //MGRSCOORD: 38S MB 43134 75611// in Abu Dasheer on 12/25/06, was apprehended by BCT forces and subsequently turned over to the INP.
+M+S: BCT forces arrested a Sunni criminal suspected of torching a Christian market //MGRSCOORD: 38S MB 43134 75611// in Abu Dasheer on 12/25/06 and subsequently turned him over to the INP.
+
+O: The Sunni man, Lateef, accused of torching a Christian market was released by the INP today due to a lack of evidence.
+M+S: Today the INP released the Sunni man, Lateef, accused of torching a Christian market, due to a lack of evidence. 
+
+O: BCT forces reports that the Sunni man arrested for torching a Christian market and subsequently released on by the INP on 01/04/10, was found dead in Dora on 01/05/10.
+M: The Sunni man arrested for torching a Christian market and subsequently released on by the INP on 01/04/10, was found dead in Dora on 01/05/10.
+S: Someone found the Sunni man, arrested for torching a Christian market and subsequently released by the INP on 01/04/10, dead in Dora on 01/05/10.
+
+O: The wrongly accused man, Lateef, was arrested and is thought to have died in the hands of infiltrators of the INP sometime between 01/04/10 and 01/05/10.
+M: The wrongly accused man, Lateef, was arrested. He is thought to have died in the hands of infiltrators of the INP sometime between 01/04/10 and 01/05/10.
+S: They arrested the wrongly accused man, Lateef. We think he died in the hands of infiltrators of the INP sometime between 01/04/10 and 01/05/10.
+
+O: The INP, however, claim Lateef was released and deny their involvement in his death.
+M+S: The INP, however, claim they released Lateef and deny their involvement in his death.
+
+O: Lateef’s family claims he was tortured.
+M+S: Lateef’s family claims someone tortured him.
+
+
+Thread 3: 
+
+O: Soldier patrolling Qahira neighborhood is approached by a man offering information for money; he is told the soldier has no money to give, but perhaps tomorrow they can talk.
+M+S: A man offering information for money approaches soldier patrolling Qahira neighborhood; someone/the soldier tells him the soldier has no money to give, but perhaps tomorrow they can talk.
+
+O: HTT in Qahira are approached by an old Iraqi man who claims to have information on the Bath’ests;
+M+S: An old Iraqi man who claims to have information on the Bath’ests approaches HTT in Qahira.
+
+O: BCT is approached by an unidentified man in Adhamiya who claims to have important information for sale.
+M+S: An unidentified man in Adhamiya who claims to have important information for sale approaches BCT.
+
+
+Thread 5:
+
+O: BCT patrol was directed to 3 separate weapons caches in the village of Dour’a //MGRSCOORD: 38S MB 44202 79352, 38S MB 44227 79081 and 38S MB 44207 79214// by Iraqi National Police (INP) operating in the area. 
+M+S: Iraqi National Police (INP) operating in the area directed BCT patrol to 3 separate weapons caches in the village of Dour’a //MGRSCOORD: 38S MB 44202 79352, 38S MB 44227 79081 and 38S MB 44207 79214//.
+
+O: BCT patrol approached by man promising to reveal 2 additional weapons cache in Dour’a.
+M+S: Man promising to reveal 2 additional weapons cache in Dour’a approaches BCT patrol.
+
+O: BCT forces responding to the site are met by a man wishing to point out the weapons cache in exchange for payment. 
+M+S: A man wishing to point out the weapons cache in exchange for payment meets BCT forces responding to the site.
+
+————————————————————
+reported speech:
+
+Thread 2:
+
+O: however, the Iraqi National Police (INP) liaison indicated the detainee is a person of interest, identified as Awman Abu Lateef, a 33 year-old Iraqi Sunni who has been implicated in several other criminal activities in the area. 
+M: The Iraqi National Police (INP) liaison indicated the detainee is a person of interest, identified as Awman Abu Lateef, a 33 year-old Iraqi Sunni who has been implicated in several other criminal activities in the area.
+S: indicated(the Iraqi National Police (INP) liaison): the detainee is a person of interest, identified as Awman Abu Lateef, a 33 year-old Iraqi Sunni who has been implicated in several other criminal activities in the area.
+
+O: BCT forces reports that the Sunni man arrested for torching a Christian market, and subsequently released by the INP on 01/04/10, was found dead in Dora on 01/05/10.
+M+S: reports(BCT forces): the Sunni man arrested for torching a Christian market, and subsequently released by the INP on 01/04/10, was found dead in Dora on 01/05/10.
+
+O: The family of the Sunni man, Lateef, accused of torching a Christian market, claims he died after being tortured by INP.
+M+S: claims(the family of the Sunni man, Lateef, accused of torching a Christian market): Lateef died after being tortured by INP.
+
+O: The family disputes the police report of his release, saying they never saw him again after his arrest on 01/02/10.
+M: The family say they never saw him again after his arrest on 01/02/10.
+S: say(the family): they never saw him again after his arrest on 01/02/10.
+
+O: RT: 1945hrs — HTT was tipped off that the man accused of torching a Christian market was wrongly accused and the man actually responsible is still terrorizing Christians in Dora. 
+M: HTT was tipped off that the man accused of torching a Christian market was wrongly accused and the man actually responsible is still terrorizing Christians in Dora.
+S: tipped_off(HTT): the man accused of torching a Christian market was wrongly accused and the man actually responsible is still terrorizing Christians in Dora.
+
+O: The wrongly accused man, Lateef, was arrested and is thought to have died in the hands of infiltrators of the INP sometime between 01/04/10 and 01/05/10.
+M: The wrongly accused man is thought to have died in the hands of infiltrators of the INP sometime between 01/04/10 and 01/05/10.
+S: Think(?): The wrongly accused man died in the hands of infiltrators of the INP sometime between 01/04/10 and 01/05/10.
+
+O: The INP, however, claim Lateef was released and deny their involvement in his death.
+M: The INP claim Lateef was released and deny their involvement in his death.
+S: claim(the INP): Lateef was released.
+   deny(the INP): INP involvement in Lateef’s death.
+
+O: Lateef’s family claims he was tortured. 
+M+S: claims(Lateef’s family): Lateef was tortured. 
+
+
+Thread 3:
+
+O: Soldier patrolling Qahira neighborhood is approached by a man offering information for money; he is told the soldier has no money to give, but perhaps tomorrow they can talk.
+M: he is told the soldier has no money to give, but perhaps tomorrow they can talk.
+S: tells(?): the soldier has no money to give, but perhaps tomorrow they can talk.
+
+O: A young boy said the old man is not around, but that he has nothing useful to sell anyway…
+M+S: said(a young boy): the old man is not around, but he has nothing useful to sell anyway…
+
+O: HTT in Qahira are approached by an old Iraqi man who claims to have information on the Bath’ests;
+M: an old Iraqi man who claims to have information on the Bath’ests;
+S: claims(an old Iraqi man): to have information on the Bath’ests;
+
+O: he said he tried to tell someone the other day, but they would not listen to him.
+M+S: said(he): he tried to tell someone the other day, but they would not listen to him. 
+
+O: BCT is approached by an unidentified man in Adhamiya who claims to have important information for sale.
+M: an unidentified man in Adhamiya who claims to have important information for sale.
+S: claims(an unidentified man in Adhamiya): to have important information for sale.
+
+O: Soldier put the man in contact with his NC who said he was not authorized to pay him without understanding the nature of his information.
+M: his NC who said he was not authorized to pay him without understanding the nature of his information.
+S: said(his NC): he was not authorized to pay him without understanding the nature of his information.
+
+O: The man said he had information about former Bath’ists, but that is all he would say without an agreement.
+M: the man said he had information about former Bath’ists,
+S: said(the man): he had information about former Bath’ists,
+
+O: The soldier told him to come back tomorrow.
+M+S: told(the soldier): to come back tomorrow.
+
+
+Thread 5:
+
+O: Weapons caches may be the source of munitions for the Dour’a bomb making facility discovered on 01/04/10.
+M+S: may_be: Weapons caches are the source of munitions for the Dour’a bomb making facility discovered on 01/04/10.
+
+O: BCT reports little value in sites but pays man a small amount of cash.
+M: BCT reports little value in sites
+S: reports(BCT): little value in sites
+
+O: BCT receives an anonymous tip that there is a weapons cache in a house off of Antar Square.
+M+S: receives_an_anonymous_tip(BCT): there is a weapons cache in a house off of Antar Square.

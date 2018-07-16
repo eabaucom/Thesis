@@ -1,0 +1,51 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Germanic </word>
+      </NNP>
+      <NNS>
+        <word> tribes </word>
+      </NNS>
+    </NP>
+    <VP>
+      <VBP>
+        <word> overran </word>
+      </VBP>
+      <NP>
+        <NP>
+          <NP>
+            <NNP>
+              <word> Gaul </word>
+            </NNP>
+            <POS>
+              <word> 's </word>
+            </POS>
+          </NP>
+          <JJ>
+            <word> eastern </word>
+          </JJ>
+          <NN>
+            <word> frontier </word>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <word> along </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NNP>
+              <word> Rhine </word>
+            </NNP>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

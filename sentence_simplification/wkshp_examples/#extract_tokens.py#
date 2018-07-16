@@ -1,0 +1,5 @@
+B77;10001;0cimport sys
+from nltk.tree import Tree
+
+for line in open(sys.argv[1]).readlines():
+    print ' '.join(Tree(line).leaves()).

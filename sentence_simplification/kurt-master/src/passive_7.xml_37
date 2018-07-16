@@ -1,0 +1,54 @@
+<top>
+  <S>
+    <NP>
+      <DT>
+        <word> The </word>
+      </DT>
+      <JJ>
+        <word> first </word>
+      </JJ>
+      <NN>
+        <word> degree </word>
+      </NN>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> obtained </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <PRP>
+              <word> him </word>
+            </PRP>
+          </NP>
+        </PP>
+        <PP>
+          <IN>
+            <word> before </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NNP>
+              <word> Supreme </word>
+            </NNP>
+            <NNP>
+              <word> Court </word>
+            </NNP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

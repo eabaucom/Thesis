@@ -1,0 +1,59 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> enthroned </word>
+      </VBP>
+      <NP>
+        <NNP>
+          <word> Khan </word>
+        </NNP>
+      </NP>
+      <PP>
+        <IN>
+          <word> as </word>
+        </IN>
+        <NP>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <JJ>
+              <word> 3rd </word>
+            </JJ>
+            <NNP>
+              <word> Great </word>
+            </NNP>
+            <NNP>
+              <word> Khan </word>
+            </NNP>
+          </NP>
+          <PP>
+            <IN>
+              <word> of </word>
+            </IN>
+            <NP>
+              <DT>
+                <word> the </word>
+              </DT>
+              <NNP>
+                <word> Mongol </word>
+              </NNP>
+              <NNP>
+                <word> Empire </word>
+              </NNP>
+            </NP>
+          </PP>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

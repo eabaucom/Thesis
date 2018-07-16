@@ -1,0 +1,63 @@
+<top>
+  <S>
+    <PP>
+      <IN>
+        <word> By </word>
+      </IN>
+      <S>
+        <VP>
+          <VBG>
+            <word> using </word>
+          </VBG>
+          <NP>
+            <NN>
+              <word> error </word>
+            </NN>
+            <NN>
+              <word> checking </word>
+            </NN>
+          </NP>
+        </VP>
+      </S>
+    </PP>
+    <NP>
+      <DT>
+        <word> the </word>
+      </DT>
+      <JJ>
+        <word> total </word>
+      </JJ>
+      <NN>
+        <word> system </word>
+      </NN>
+    </NP>
+    <VP>
+      <MD>
+        <word> can </word>
+      </MD>
+      <VP>
+        <VB>
+          <word> be </word>
+        </VB>
+        <VP>
+          <VBN>
+            <word> made </word>
+          </VBN>
+          <S>
+            <ADJP>
+              <RBR>
+                <word> more </word>
+              </RBR>
+              <JJ>
+                <word> reliable </word>
+              </JJ>
+            </ADJP>
+          </S>
+        </VP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

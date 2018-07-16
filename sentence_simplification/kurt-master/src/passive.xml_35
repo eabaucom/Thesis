@@ -1,0 +1,28 @@
+<top>
+  <S>
+    <NP>
+      <CD>
+        <word> Four </word>
+      </CD>
+      <NNS>
+        <word> sequels </word>
+      </NNS>
+    </NP>
+    <VP>
+      <VBP>
+        <word> followed </word>
+      </VBP>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NN>
+          <word> film </word>
+        </NN>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

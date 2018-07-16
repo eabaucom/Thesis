@@ -1,0 +1,61 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <word> The </word>
+        </DT>
+        <NNP>
+          <word> Secretariat </word>
+        </NNP>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NNP>
+            <word> State </word>
+          </NNP>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> directed </word>
+      </VBZ>
+      <NP>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <JJ>
+            <word> diplomatic </word>
+          </JJ>
+          <NNS>
+            <word> activities </word>
+          </NNS>
+        </NP>
+        <PP>
+          <IN>
+            <word> of </word>
+          </IN>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NNP>
+              <word> Holy </word>
+            </NNP>
+            <NNP>
+              <word> See </word>
+            </NNP>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

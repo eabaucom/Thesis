@@ -1,0 +1,45 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> believed </word>
+      </VBP>
+      <SBAR>
+        <S>
+          <NP>
+            <NNP>
+              <word> Al-Buredi </word>
+            </NNP>
+          </NP>
+          <VP>
+            <TO>
+              <word> to </word>
+            </TO>
+            <VB>
+              <word> be </word>
+            </VB>
+            <NP>
+              <DT>
+                <word> an </word>
+              </DT>
+              <NNP>
+                <word> Adhamiya </word>
+              </NNP>
+              <NN>
+                <word> resident </word>
+              </NN>
+            </NP>
+          </VP>
+        </S>
+      </SBAR>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

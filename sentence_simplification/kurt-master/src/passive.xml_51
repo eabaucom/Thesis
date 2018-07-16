@@ -1,0 +1,87 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> instructed </word>
+      </VBD>
+      <NP>
+        <NNP>
+          <word> Khrayesh </word>
+        </NNP>
+      </NP>
+      <S>
+        <VP>
+          <TO>
+            <word> to </word>
+          </TO>
+          <VP>
+            <VB>
+              <word> arrive </word>
+            </VB>
+            <PP>
+              <IN>
+                <word> at </word>
+              </IN>
+              <NP>
+                <CD>
+                  <word> 0900hrs </word>
+                </CD>
+              </NP>
+            </PP>
+            <S>
+              <VP>
+                <TO>
+                  <word> to </word>
+                </TO>
+                <VP>
+                  <VB>
+                    <word> sit </word>
+                  </VB>
+                  <PP>
+                    <IN>
+                      <word> at </word>
+                    </IN>
+                    <NP>
+                      <DT>
+                        <word> the </word>
+                      </DT>
+                      <NN>
+                        <word> table </word>
+                      </NN>
+                    </NP>
+                  </PP>
+                  <ADVP>
+                    <JJS>
+                      <word> closest </word>
+                    </JJS>
+                    <PP>
+                      <TO>
+                        <word> to </word>
+                      </TO>
+                      <NP>
+                        <DT>
+                          <word> the </word>
+                        </DT>
+                        <NN>
+                          <word> street </word>
+                        </NN>
+                      </NP>
+                    </PP>
+                  </ADVP>
+                </VP>
+              </VP>
+            </S>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

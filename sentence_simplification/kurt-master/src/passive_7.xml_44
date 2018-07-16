@@ -1,0 +1,66 @@
+<top>
+  <S>
+    <NP>
+      <DT>
+        <word> A </word>
+      </DT>
+      <NNP>
+        <word> Blender </word>
+      </NNP>
+      <NN>
+        <word> funding </word>
+      </NN>
+      <NN>
+        <word> campaign </word>
+      </NN>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> started </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <NNP>
+              <word> Roosendaal </word>
+            </NNP>
+          </NP>
+        </PP>
+        <SBAR>
+          <IN>
+            <word> in </word>
+          </IN>
+          <NN>
+            <word> order </word>
+          </NN>
+          <S>
+            <VP>
+              <TO>
+                <word> to </word>
+              </TO>
+              <VP>
+                <VB>
+                  <word> collect </word>
+                </VB>
+                <NP>
+                  <NNS>
+                    <word> donations </word>
+                  </NNS>
+                </NP>
+              </VP>
+            </VP>
+          </S>
+        </SBAR>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

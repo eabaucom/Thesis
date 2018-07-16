@@ -1,0 +1,47 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <word> A </word>
+        </DT>
+        <NN>
+          <word> scientist </word>
+        </NN>
+      </NP>
+      <VP>
+        <VBN>
+          <word> called </word>
+        </VBN>
+        <S>
+          <NP>
+            <NNP>
+              <word> Eratosthenes </word>
+            </NNP>
+          </NP>
+        </S>
+      </VP>
+    </NP>
+    <VP>
+      <ADVP>
+        <RB>
+          <word> first </word>
+        </RB>
+      </ADVP>
+      <VBD>
+        <word> used </word>
+      </VBD>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NN>
+          <word> word </word>
+        </NN>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

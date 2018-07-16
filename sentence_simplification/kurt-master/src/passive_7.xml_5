@@ -1,0 +1,55 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Indo-Aryan </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> spoken </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> by </word>
+          </IN>
+          <NP>
+            <NP>
+              <QP>
+                <IN>
+                  <word> about </word>
+                </IN>
+                <CD>
+                  <word> 74 </word>
+                </CD>
+              </QP>
+              <NN>
+                <word> % </word>
+              </NN>
+            </NP>
+            <PP>
+              <IN>
+                <word> of </word>
+              </IN>
+              <NP>
+                <DT>
+                  <word> the </word>
+                </DT>
+                <NN>
+                  <word> population </word>
+                </NN>
+              </NP>
+            </PP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

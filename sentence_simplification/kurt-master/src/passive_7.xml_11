@@ -1,0 +1,64 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> It </word>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <word> can </word>
+      </MD>
+      <ADVP>
+        <RB>
+          <word> also </word>
+        </RB>
+      </ADVP>
+      <VP>
+        <VB>
+          <word> be </word>
+        </VB>
+        <VP>
+          <VBN>
+            <word> said </word>
+          </VBN>
+          <SBAR>
+            <IN>
+              <word> that </word>
+            </IN>
+            <S>
+              <NP>
+                <CD>
+                  <word> 42 </word>
+                </CD>
+              </NP>
+              <VP>
+                <VBZ>
+                  <word> is </word>
+                </VBZ>
+                <ADJP>
+                  <JJ>
+                    <word> divisible </word>
+                  </JJ>
+                  <PP>
+                    <IN>
+                      <word> by </word>
+                    </IN>
+                    <NP>
+                      <CD>
+                        <word> 7 </word>
+                      </CD>
+                    </NP>
+                  </PP>
+                </ADJP>
+              </VP>
+            </S>
+          </SBAR>
+        </VP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

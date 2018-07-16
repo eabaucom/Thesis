@@ -1,0 +1,186 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[latin1]{inputenc}
+% unicode input encoding is also allowed
+% use the following lines instead of the previous:
+%\usepackage{ucs}
+%\usepackage[utf8x]{inputenc}
+
+\usepackage{times} 
+\usepackage[T1]{fontenc}         
+\usepackage{pslatex}
+
+\usepackage{url}
+\pagestyle{empty}
+
+\bibliographystyle{plain}
+
+\title{Towards Automatic Syntactic Simplification: A Case Study on Identifying Tree Transformations}
+
+% The author(s) should only be added in the final version.
+%
+%\author{John Doe and John Smith
+%\\[0.5cm]Department of Linguistics
+%\\University of Franeker
+%\\E-mail: \texttt{email@email}}
+
+\date{}
+
+\begin{document}
+\maketitle
+
+% An abstract should only be added to the final version.
+%
+% \begin{abstract}
+% \noindent
+% This workshop concerns the relationship 
+% between the syntactic properties of a given language and the choice of 
+% linguistic theory for annotation purposes. In this paper, I will discuss
+% and compare four different annotation schemes that have been proposed for 
+% Swedish in terms of their suitability for Swedish syntax as well as their 
+% relationship to linguistic theory and annotation schemes proposed for other 
+% languages.
+%\end{abstract} 
+
+\thispagestyle{empty}
+
+\section{Introduction}
+
+Written documents tend to be composed of rather complex sentences. For example, the average length of a sentence in the Penn Treebank is about 18 words. There are many situations in which such complex sentences are difficult to process, either by humans or by computers. In such cases, sentence simplification methods can be used to generate simpler sentences. Simplification may replace complex words by more basic words, replace complex grammatical constructions by simpler ones, make implicit assumptions explicit, or apply any combination of those. The range of targeted phenomena is generally determined by the consumer of the simplified texts. If young readers are targeted, all strategies would apply while a reading aid for aphasia patients would focus on the specific phenomena, such as passive sentences, that are difficult for such patients to process. 
+
+In our project, the goal is a trainable natural understanding component that can convert text to a semantic representation based on event semantics \cite{sauri:littman:ea:06}. Since learning a conversion to logical form for unrestricted sentences is a rather daunting task, we simplify sentences before we perform the semantic analysis. In our scenario, syntactic simplifications are the most important type of simplification. Our intention is to develop a method for simplifying any given syntactic phenomenon based on a small set of sentences that exhibit the intended phenomenon, and for which we know the intended simplified form. This method will be based on tree transformation patterns that are extracted from the regular/simplified sentence pairs. The current paper presents a case study on identifying such patterns for the simplification of passive sentences into active ones.\footnote{The final paper will present results for reported speech, omitted here due to space limitations.} To date, this problem has been approached by manually written transformation rules \cite{carroll:minnen:ea:99.2,dornescu:evans:ea:13,inui:fujitsa:ea:03,siddhartan:02}. For this reason, our first approach was to use a tree transducer to automate the actual tree modifications. However, this proved ineffective since the rules had to be extremely specific. %Our novel approach relies on a  word alignment (using GIZA++ \cite{och:ney:00}) of the regular and simplified sentence. 
+Our novel approach relies on the automatic identification of chunks\footnote{Note that we define chunks as sequences of words, as opposed to definitions used for chunk parsing.} that are moved to a new position and chunks that are deleted or added. Aggregating over the set of sentences allows us to extract transformation patterns. For this paper, we compare the rule-based and chunk-based approach in terms of coverage and accuracy.
+
+
+\section{Method}
+
+\paragraph{Data}
+We collected a corpus of passive sentences and their simplified, active forms  from a sentence-aligned parallel corpus of regular  and simple\footnote{\url{http://simple.wikipedia.org/wiki/Main_Page}} English Wiki\-pedia and from the SynCOIN data set \cite{graham:rimland:11}, where simplified versions were provided manually.  We currently concentrate on sentences that contain the target phenomenon without  other sources of complication. 
+%% SK: The sources of complication needs reformulating.
+The parallel sentences were parsed using the Berkeley parser with a model trained on the Penn Treebank \cite{marcus:santorini:ea:93}.
+
+\paragraph{Rule-Based Approach}
+Our rule-based approach relies on a tree transduction package, the Keen Utility for Rewriting Trees (KURT) \cite{rudnick:12}. The rules are written in YAML\footnote{\url{http://www.yaml.org/}} notation and specify the syntactic structures (sub-trees) for rule application, to which the transformation is to apply, as well as the resulting transformed subtrees.  We will provide an example of a rule in the final paper.
+KURT rules are generalizable in the sense that the variables on the left-hand side can match arbitrary subtrees.  But when we need to manipulate specific elements of a subtree on the right-hand side, the internal character of the subtree needs to be stated more explicitly, in terms of numbers and potentially types of daughters.  Since our sentences can have a wide variety of modifications, this leads to an ever-increasing number of rules, even in a restricted task domain such as transforming passive sentences to active.
+%% SK: Eric, does that still make sense?
+
+\paragraph{Chunk-Based Approach}
+
+
+Our novel method relies on aligned chunks between the regular and simplified sentences.  We identify chunks (i.e., sequences of words that remain adjacent, but not necessarily in the same position) between the sentences by considering the sentences as sequences in a classical longest common subsequence (LCS) problem. We then apply the LCS algorithm \cite{hirschberg:75} iteratively while relaxing the constraint that the items in the sequences (i.e., the words) be strictly equal; rather, we consider them a match if their normalized edit distance \cite{levenshtein:66} falls within an experimentally determined threshold. The latter is necessary to account for changes in the inflected forms, for example from the passive verb form to the active one. The common subsequences, in other words the consecutive sequences of words shared by the two sentences, are then considered chunks. Non-aligned words are not considered further, which translates into a deletion within the simplified sentence.
+
+
+Once we have the chunks and their linear positions within each sentence, we identify the chunk that serves as an \textit{anchor}. An anchor  is a fixed chunk around which the other chunks may be arranged. Then, we perform the subsequent re-arrangements.  %One of the primary benefits to this system over using rule-based techniques is that the moved chunks are learned automatically from the data. 
+
+We illustrate the method by means of an example. Consider the regular, passive sentence ``Major scientific breakthroughs were achieved by French scientists in the 18th century .''  It is paired with the corresponding simplified sentence ``French scientists achieved major scientific breakthroughs in the 18th century .'' After iteratively applying the LCS algorithm, we obtain the following chunks:
+
+\begin{enumerate}\itemsep 1pt
+	\item Major scientific breakthroughs
+	\item achieved
+	\item French scientists
+	\item in the 18th century .
+\end{enumerate}
+
+Parsing the two  sentences with the Berkeley parser, using a model trained on the Penn Treebank, we receive the following trees:
+
+\begin{verbatim}
+( (S
+    (NP (JJ Major) (JJ scientific) (NNS breakthroughs))
+    (VP
+      (VBD were)
+      (VP
+        (VBN achieved)
+        (PP (IN by) (NP (JJ French) (NNS scientists)))
+        (PP (IN in) (NP (DT the) (JJ 18th) (NN century)))))
+    (. .)))
+\end{verbatim}
+\begin{verbatim}
+( (S
+    (NP (NP (NNP French) (NNS scientists)))
+    (VP
+      (VBD achieved)
+      (NP (JJ major) (JJ scientific) (NNS breakthroughs))
+      (PP (IN in) (NP (DT the) (JJ 18th) (NN century))))
+    (. .)))
+\end{verbatim}
+
+%To identify the candidate moved chunks, we utilize information from the word alignments between the simple and complex sentences.  We find the maximal subsequences of consecutive indices that are aligned, and call those the moved chunks.  
+
+%% SK: Eric, the following is too detailed. Instead of this, can you insert an example (I can do the formatting of the example if you provide the sentences and the alignment) and explain the process for the example?
+
+We then find the minimal subtree in the regular parsed tree which spans over all the leaves of each candidate chunk. We note that the minimal subtree for candidate chunk 4.\ is actually the full sentence, since the period is dominated by \texttt{S} instead of being grouped in the \texttt{PP} constituent. The period is consequently split off into its own chunk. Other non-constituent candidates are handled similarly.
+
+\begin{enumerate}\itemsep 1pt
+  \item \begin{verbatim}(NP (JJ Major) (JJ scientific) (NNS breakthroughs))\end{verbatim}
+  \item \begin{verbatim}(VBN achieved)\end{verbatim}
+  \item \begin{verbatim}(NP (JJ French) (NNS scientists))\end{verbatim}
+  \item \begin{verbatim}(PP (IN in) (NP (DT the) (JJ 18th) (NN century)))\end{verbatim}
+  \item \begin{verbatim}(. .)\end{verbatim}
+\end{enumerate}
+
+
+Once each chunk is associated with a minimal spanning subtree, we put them through a filter to see which chunk serves as an \textit{anchor}, around which the other chunks are redistributed.  That is, we need to determine which chunk is the most stable with respect to its position in the parse tree  and position in the sentence. Our assumption for the passive-to-active conversion is that this should be the verb. But it may be another chunk for other conversions. Since ``achieved'' maintains the same mother node and position from the regular to simplified trees, it is chosen as the anchor. 
+%First, we check to see if any moved chunks maintain the same mother label and treeposition between the complex parse tree and the simplified parse tree (we define treeposition to be path from the root, including depth and linear position among sister subtrees).  If no anchor is found, we relax this constraint and require only the same mother label and vertical distance (depth) from the root.  We further relax this constraint and require only the same mother label.  If all these requirements are still too strict to produce an anchor, we simply take the top-most \texttt{VP} as the anchor, since, for instance in dependency grammars, the verb is often the most governing component of the sentence.
+
+%Once the anchor has been found, 
+The 4 remaining chunks and their associated minimal spanning subtrees are probed to determine which tree properties are associated with the rearrangements from the complex to simple subtrees.  Since the candidate chunk ``French scientists'' is dominated by a \textit{by}-phrase, whose mother is a \texttt{VP}, it  is assigned to move to the left of the anchor. ``Major scientific breakthroughs'' has the tree root, \texttt{S}, for a mother and originally occurs to the left of the anchor, thus it is moved to the right.  The adjunct and the punctuation remain \textit{in situ}. The resulting sentence matches the simplified sentence: ``French scientists achieved major scientific breakthroughs in the 18th century .'' This describes our intuition that the original subject moves into an object position while the \texttt{NP} of the ``by''-\texttt{PP} becomes the subject. For the future, we are planning to implement a machine learning approach that identifies such patterns across a small training set of sentence pairs using a set of tree substructure templates.  %More details of the method will be provided in the final paper. 
+%In the task of passive-to-active sentence simplification, the movements often amount to switching the grammatical functions (subject to object) of the agent and patient semantic roles.  That is, if there is a \textit{by}-phrase in the complex sentence, this (the agent) will be shifted into the subject of the simplified sentence. Similarly, the former subject in the complex sentence (the patient) will be shifted to the object position, under the anchor. Key properties from the data help to determine which moved chunks are the crucial movers for the task. Key properties for determining the agent in the complex sentence (if there is an overt agent) including the label of the minimal spanning subtree associated with the moved chunk (e.g.\ \texttt{NP}) and whether a \textit{by}-phrase is a sister node. (If there is no overt agent in the complex sentence, a subtree of \textit{We} or \textit{Someone} may be inserted in post-processing.) Key properties for determining the patient in the complex sentence include the mother label as well as the label of the associated minimal spanning tree.
+
+%All remaining moved chunks that are not subjects or objects in the transformed (simple) tree are generally adjuncts. Adjuncts which occur next to the punctuation are left \textit{in situ}, as movement was not observed in the data.  Adjuncts which occur beforehand in the sentence are subsumed under the ``anchor'' moved chunk, since they also were not observed to move with respect to the anchor in the data.
+
+%Finally, the leaves of the moved chunks, having been identified as one of anchor, agent, patient, adjunct, or punctuation, are moved to their respective linear positions relative to the anchor (which of course remains unmoved).
+
+\section{Evaluation}
+
+In this section, we present an evaluation of the approaches in terms of coverage and accuracy. A \textit{correct simplification} has the same linear ordering of the leaves as the gold simplified sentence. I.e., we currently do not performing any morphological adaptation of the word forms.
+ 
+\subsection{KURT}
+
+As mentioned previously, KURT rules must be specific to capture different features of the input. In table \ref{tab:kurtcoverage}, we can see how many additional KURT rules are needed as a function of the number of sentences covered. We used a development set of 62 sentences for this evaluation. A base of 10 rules is needed for the first 10 sentences in the development set, followed by an average of 4 additional rules needed for each 10 additional sentences covered. It is unclear how many more rules need to be added to cover a reasonable set of sentences, but we assume, there is a wide range of modifications in the tree structure that we have not seen in our small data sets.  After developing the rules on the development set, we tested them on a test corpus of 32 sentences.  The results are shown in table \ref{tab:acc}. The KURT rules achieved an accuracy of 65.62\%, i.e., they correctly simplified 21 out of 32 sentences. The incorrect sentences were assigned reasonable parses but they presented the KURT rules with unfamiliar syntactic structures, especially in the main branches of the trees where the transforms take place.
+
+\begin{table}
+	\centering
+		\begin{tabular}{l|ll}
+		\# of sents & Additional rules & Total rules\\
+		\hline
+			10  &  10 & 10 \\
+			20 & 5  & 15 \\
+			30 & 3 & 18 \\
+			40 & 3 & 21 \\
+			50 & 4 & 25 \\
+			62 & 5 & 30 \\ \hline
+		\end{tabular}
+	\caption{Additional KURT rules as a function of number of sentences covered.}
+	\label{tab:kurtcoverage}
+\end{table}
+
+\begin{table}
+	\centering
+		\begin{tabular}{rr}
+		 KURT & Chunk\\
+		\hline
+		65.62\% & 93.75\%\\ \hline
+		\end{tabular}
+	\caption{Accuracy of both methods on the test set.}
+	\label{tab:acc}
+\end{table}
+
+\subsection{Chunk-based}
+
+The chunk-based approach was aggregated over the 62 sentence development corpus, where transformation patterns were extracted from the candidate chunks. Observations made over the data gave insight into the properties that can serve as reliable indicators of which chunk should move left of the anchor,  right of the anchor, or should stay \textit{in situ}. After integrating this information and achieving complete coverage of the development set, we tested against the 32 sentence test corpus. The results of evaluating the accuracy of our approach are shown in table \ref{tab:acc}. We achieved an accuracy of 93.75\%, or 30 out of 32 sentences correctly simplified.  Both incorrectly simplified sentences had incorrect chunks, as in the following example.
+
+\begin{description}
+\item[regular:]  \textit{In the 30s, 70s and 90s the} Underground was bombed many times by the IRA.
+\item[simplified:] \textit{In the 30s, 70s and 90s the} IRA bombed the Underground many times.
+\end{description}
+
+%I.e.\ the sentences we missed had misidentified chunks, separating the determiner from its place in the noun phrase. This phenomenon had simply not been observed in the development set. 
+
+
+\section{Conclusion}
+
+In this paper, we have started to develop an automatic method for simplifying sentences. Our experiments show that KURT requires a large set of very specific rules while the chunk-based approach is more general and more accurate across unseen examples. For the future, we are planning to extend the work to identify the patterns of rearranging chunks automatically by detecting regularities across sentence pairs.
+
+\bibliography{simp}
+
+\end{document}

@@ -1,0 +1,154 @@
+O: Al-Buredi, a former graduate assistant of Ja'afar Dhia Ja'afar, famed Saddam Hussein io-weapons expert, is believed to be an Adhamiya resident. 
+M: Al-Buredi is believed to be an Adhamiya resident. 
+S: They believe X. 
+X is `` Al-Buredi is an Adhamiya resident . ''
+
+O: Khrayesh tells various shop-owners he is trying to re-connect with Al-Buredi, whom he knew during his graduate days at al-Mustansiriyia University. 
+M: Khrayesh tells various shop-owners he is trying to re-connect with Al-Buredi.
+S: Khrayesh tells various shop-owners X. 
+X is `` Khrayesh is trying to re-connect with Al-Buredi . ''
+
+O+M: Khrayesh says that he has a possible business opportunity for Al-Buredi. 
+S: Khrayesh says X. 
+X is `` Khrayesh has a possible business opportunity for Al-Buredi . '' 
+
+O+M: however the e-mail suggested a meeting with Khrayesh at a café on Ali Taleb Street in Adhamiya on 02/03/10.
+S: E-mail suggested X. 
+X is `` there will be a meeting with Khrayesh at a café on Ali Taleb Street in Adhamiya on 02/03/10 . ''
+
+O: Once their interviewers revealed to them that their names and nationalities were already known, they relented and confirmed their identities as Ramses Al-Sabah and Nagib Mandari.  
+M: Once their interviewers revealed to them that their names and nationalities were already known, they confirmed their identities as Ramses Al-Sabah and Nagib Mandari.  
+S: Their interviewers reveal X. 
+X is `` their names and nationalities were already known . '' 
+   They confirm Y. 
+   Y is `` their identities are Ramses Al-Sabah and Nagib Mandari . ''
+
+O+M: Neither man admits to being the “sender” of an email to Omar Khrayesh.
+S: Neither man admits X. 
+X is `` Neither man is the “sender” of an email to Omar Khrayesh . ''
+
+O+M: Detainees Al-Sabah and Mandari are informed that they will be turned over to their government for repatriation due to their lack of cooperation.
+S: Inform X. 
+X is `` Detainees Al-Sabah and Mandari will be turned over to their government for repatriation due to their lack of cooperation . ''
+
+O+M: Foreign nationals, Ramses Al-Sabah and Nagib Mandari, state that their contact for the moped mission was Wajeeh Al-Mutadee. 
+S: Foreign nationals, Ramses Al-Sabah and Nagib Mandari, state X. 
+X is `` Their contact for the moped mission was Wajeeh Al-Mutadee . '' 
+
+O: Sabah and Mandari both claim they never intended to be suicide bombers; their intent was to throw the satchel charge into the café, and then escape on the moped. 
+M: Sabah and Mandari both claim they never intended to be suicide bombers.
+S: Sabah and Mandari claim X. 
+X is `` Sabah and Mandari never intended to be suicide bombers . ''
+
+O+M: Al-Hardi cited growing business opportunities in Iraq given the fact that, “the war will soon be over.”  
+S: Al-Hardi cited X. 
+X is `` there will be growing business opportunities in Iraq given the fact that, “the war will soon be over” . '' 
+
+O+M: Al-Hardi reports that the owner appeared apprehensive so he did not press him.
+S: Al-Hardi reports X. 
+X is `` the owner appeared apprehensive so he did not press him . ''
+
+O: According to the Iraqi National Police (INP), Dahr was loyal follower of the former Ba’athists and is now a tacit supporter of the local Sunni militia operating in Adhamiya.
+M: According to the Iraqi National Police (INP), Dahr was loyal follower of the former Ba’athists.
+S: Iraqi National Police (INP) say X. 
+X is `` Dahr is loyal follower of the former Ba’athists . ''
+
+O+M: He says the war is over soon and people will be back on the streets.
+S: He says X. 
+X is `` the war is over soon and people will be back on the streets . ''
+
+O: He claims he is only interested in a prosperous Iraq; he talks as it the café were already his.” 
+M: He claims he is only interested in a prosperous Iraq.
+S: He claims X. 
+X is `` he is only interested in a prosperous Iraq . ''
+
+O: The front company, “Iraqi-Net Computer Store” which delivered the computers instructed the owner that the installation technicians will come by tomorrow after morning prayers to help set up the new equipment.
+M: The front company instructed the owner that the installation technicians will come by tomorrow after morning prayers to help set up the new equipment.
+S: The front company instructed X.
+X is `` the installation technicians will come by tomorrow after morning prayers to help set up the new equipment . ''
+
+O+M: The manager says he will have someone there tomorrow morning to work on the computers.
+S: The manager says X.
+X is `` the manager will have someone there tomorrow morning to work on the computers . ''
+
+O: Al-Hardi insists he can fix the problem but he will need an operational computer.
+M: Al-Hardi insists he can fix the problem.
+S: Al-Hardi insists X.
+X is `` Al-Hardi can fix the problem . ''
+
+O: Dahr offers al-Hardi use of his personal office computer and takes him to a back office where there are two computers on an independent server
+M: Dahr offers al-Hardi use of his personal office computer.
+S: Dahr offers X.
+X is `` Al-Hardi can use Dahr's personal office computer . ''
+
+O+M: Analysis of data recovered from the computers and server at the Antar Internet Café on 03/23/10 confirms that the “old back room” computer is the source of the original email to Omar Khrayesh received on 02/01/10.
+S: Analysis of data recovered from the computers and server at the Antar Internet Café on 03/23/10 confirms X.
+X is `` the “old back room” computer is the source of the original email to Omar Khrayesh received on 02/01/10 . ''
+
+O+M: The email indicated that the meeting would have to take place in four days.
+S: The emails indicates X.
+X is `` the meeting will have to take place in four days . ''
+
+O: Omar Khrayesh e-mails a reply to Al-Buredi saying a meeting on 04/06/10 will work fine and suggests they meet at their alma mater, the Mustansiriyia University.
+M: Omar Khrayesh e-mails a reply to Al-Buredi saying a meeting on 04/06/10 will work fine.
+S: Omar Khrayesh emails X.
+X is `` a meeting on 04/06/10 will work fine . ''
+   
+O: Omar Khrayesh e-mails a reply to Al-Buredi saying a meeting on 04/06/10 will work fine and suggests they meet at their alma mater, the Mustansiriyia University.
+M: Omar Khrayesh suggests to Al-Buredi  that they meet at their alma mater, the Mustansiriyia University.
+S: Omar Khrayesh suggests X.
+X is `` Omar Khrayesh and Al-Buredi should meet at their alma mater, the Mustansiriyia University . ''
+
+O+M: Comparisons of the time stamp on the keystroke logger with the IP tracers at the café reveal that the phrase was not a component of any outgoing email.
+S: Comparisons of the time stamp on the keystroke logger with the IP tracers at the café reveal X.
+X is `` the phrase was not a component of any outgoing email . ''
+
+O+M: BCT computer network analysts monitoring e-mail traffic conclude the messages recorded by keystroke logger at the Antar Internet Café on 04/03/10 and 04/04/10 were likely “draft emails” that were written but never sent.
+S: BCT computer network analysts monitoring e-mail traffic conclude X.
+X is `` the messages recorded by keystroke logger at the Antar Internet Café on 04/03/10 and 04/04/10 are likely “draft emails” that were written but never sent . ''
+
+O+M: Computer analysts concluded that without IP tracer data the “draft” messages were communications between accomplices sharing the e-mail account log-in and password.  
+S: Computer analysts concluded X.
+X is `` without IP tracer data the “draft” messages are communications between accomplices sharing the e-mail account log-in and password . '' 
+
+O+M: BCT computer network analysts monitoring e-mail traffic via keystroke logger at Antar internet café indicate a gap in the “draft” messages sent on 04/03/10 and 04/04/10, respectively; 
+S: BCT computer network analysts monitoring e-mail traffic via keystroke logger at Antar internet café indicate X.
+X is `` there is a gap in the “draft” messages sent on 04/03/10 and 04/04/10, respectively . ''
+
+O+M: indicating one of the users is most likely communicating from outside the café.
+S: Indicates X.
+X is `` one of the users is most likely communicating from outside the café . ''
+
+O: Email from Hassan Al-Buredi to Omar Khrayesh, indicates that Al-Buredi will be at the Oil Ministry Building //MGRSCOORD: 38S MB 4420 9020// in East Baghdad on 04/17/10, but is not free until 1300 hrs.
+M: Email from Hassan Al-Buredi to Omar Khrayesh, indicates that Al-Buredi will be at the Oil Ministry Building in East Baghdad on 04/17/10.
+S: Email from Hassan Al-Buredi indicates X.
+X is `` Al-Buredi will be at the Oil Ministry Building in East Baghdad on 04/17/10 . ''
+
+O: Khrayesh instructs Al-Buredi to call him on his cell phone number when his meeting is finished; a car will pick him up.
+M: Khrayesh instructs Al-Buredi to call him on his cell phone number when his meeting is finished.
+S: Khrayesh instructs X.
+X is `` Al-Buredi should call Khrayesh on his cell phone number when his meeting is finished . ''
+
+O: BCT computer network analysis confirms email received by Omar Khrayesh on 04/15/10 originated from Antar Internet Café in Adhamiya.
+M: BCT computer network analysis confirms email originated from Antar Internet Café in Adhamiya.
+S: BCT computer network analysis confirms X.
+X is `` the email originated from Antar Internet Café in Adhamiya . ''
+
+O: BCT counter surveillance team suspects man posing as Hassan Al-Buredi is probable suicide bomber and call for mission abort. 
+M: BCT counter surveillance team suspects man posing as Hassan Al-Buredi is probable suicide bomber.
+S: BCT counter surveillance team suspects X.
+X is `` man posing as Hassan Al-Buredi is probable suicide bomber . '' 
+
+O: BCT communications analysts report that a cell phone call was recorded just prior to bombing at Shaikh Omar Tomb from unidentified male (7529508702) RT:  1304hrs, vicinity of the Shaikh Omar Tomb //MGRSCOORD: 38S MB 4450 8965//,to unidentified male (7515762078). 
+M: BCT communications analysts report that a cell phone call was recorded just prior to bombing at Shaikh Omar Tomb from unidentified male.
+S: BCT communications analysts report X.
+X is `` a cell phone call was recorded just prior to bombing at Shaikh Omar Tomb from unidentified male . ''
+
+O: SOF member posing as a customer at Antar Internet Café confirms the presence of a man matching the description of Wajeeh Al-Mutadee; and that the target is talking with the owner.
+M: SOF member posing as a customer at Antar Internet Café confirms the presence of a man matching the description of Wajeeh Al-Mutadee;
+S: SOF member posing as a customer at Antar Internet Café confirms X.
+X is `` a man matching the description of Wajeeh Al-Mutadee is there . ''
+
+O+M: Suspect captured by MNC-I on 04/21/10 in Adhamiya is confirmed to be Wajeeh Al-Mutadee.
+S: Confirms X.
+X is `` suspect captured by MNC-I on 04/21/10 in Adhamiya is Wajeeh Al-Mutadee . ''

@@ -1,0 +1,15 @@
+an algorithm and
+an implementation by which generalized rules for simplication are auto??
+matically induced from annotated training material with a novel partial
+parsing technique which combines constituent structure and dependency in??
+formation This algorithm described in the paper employs example??based
+generalizations on linguistically??motivated structures
+
+semi-automatically?
+
+one sent at a time, discourse related issues not considered (like me!); two-stage process -- analysis followed by transformation: structural description, used to perform actual simplification
+
+they don't use a full parse, rather, identify certain "articulation points" -- chunked into phrasal representations; they can induce rules automatically, but they need annotated aligned corpus of complex and simple text.
+their "gap-filling" routine (like replace "the ball was kicked" with "someone kicked the ball") is complicated/based on pragmatic factors, not discussed
+
+use combined constituent and dep repr's, based on simple dep repr from LTAG -- supertags are elementary trees, with multiple ones associated with each lexical entry, corresponding to types of complex sentences; they don't parse to disambiguate supertags, rather use n-gram distribution info from LTAG'd corpus

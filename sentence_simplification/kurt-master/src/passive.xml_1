@@ -1,0 +1,49 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <NNP>
+          <word> French </word>
+        </NNP>
+        <NNS>
+          <word> scientists </word>
+        </NNS>
+      </NP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> achieved </word>
+      </VBD>
+      <NP>
+        <JJ>
+          <word> major </word>
+        </JJ>
+        <JJ>
+          <word> scientific </word>
+        </JJ>
+        <NNS>
+          <word> breakthroughs </word>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <word> in </word>
+        </IN>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <JJ>
+            <word> 18th </word>
+          </JJ>
+          <NN>
+            <word> century </word>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

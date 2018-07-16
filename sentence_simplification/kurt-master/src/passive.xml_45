@@ -1,0 +1,33 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Ibn </word>
+      </NNP>
+      <NNP>
+        <word> Battuta </word>
+      </NNP>
+    </NP>
+    <ADVP>
+      <RB>
+        <word> also </word>
+      </RB>
+    </ADVP>
+    <VP>
+      <VBD>
+        <word> held </word>
+      </VBD>
+      <NP>
+        <DT>
+          <word> the </word>
+        </DT>
+        <NN>
+          <word> belief </word>
+        </NN>
+      </NP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

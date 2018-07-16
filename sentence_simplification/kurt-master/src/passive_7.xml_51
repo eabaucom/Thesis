@@ -1,0 +1,87 @@
+<top>
+  <S>
+    <NP>
+      <NNP>
+        <word> Khrayesh </word>
+      </NNP>
+    </NP>
+    <VP>
+      <VBD>
+        <word> was </word>
+      </VBD>
+      <VP>
+        <VBN>
+          <word> instructed </word>
+        </VBN>
+        <S>
+          <VP>
+            <TO>
+              <word> to </word>
+            </TO>
+            <VP>
+              <VB>
+                <word> arrive </word>
+              </VB>
+              <PP>
+                <IN>
+                  <word> at </word>
+                </IN>
+                <NP>
+                  <CD>
+                    <word> 0900hrs </word>
+                  </CD>
+                </NP>
+              </PP>
+            </VP>
+          </VP>
+        </S>
+        <S>
+          <VP>
+            <TO>
+              <word> to </word>
+            </TO>
+            <VP>
+              <VB>
+                <word> sit </word>
+              </VB>
+              <PP>
+                <IN>
+                  <word> at </word>
+                </IN>
+                <NP>
+                  <DT>
+                    <word> the </word>
+                  </DT>
+                  <NN>
+                    <word> table </word>
+                  </NN>
+                </NP>
+              </PP>
+              <ADVP>
+                <JJS>
+                  <word> closest </word>
+                </JJS>
+                <PP>
+                  <TO>
+                    <word> to </word>
+                  </TO>
+                  <NP>
+                    <DT>
+                      <word> the </word>
+                    </DT>
+                    <NN>
+                      <word> street </word>
+                    </NN>
+                  </NP>
+                </PP>
+              </ADVP>
+            </VP>
+          </VP>
+        </S>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

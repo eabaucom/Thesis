@@ -1,0 +1,96 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <word> The </word>
+        </DT>
+        <NN>
+          <word> island </word>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <NNP>
+            <word> Taiwan </word>
+          </NNP>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBZ>
+        <word> is </word>
+      </VBZ>
+      <VP>
+        <VBN>
+          <word> claimed </word>
+        </VBN>
+        <PP>
+          <IN>
+            <word> as </word>
+          </IN>
+          <NP>
+            <NP>
+              <DT>
+                <word> a </word>
+              </DT>
+              <JJ>
+                <word> \" </word>
+              </JJ>
+              <NN>
+                <word> province </word>
+              </NN>
+            </NP>
+            <VP>
+              <VBN>
+                <word> \" </word>
+              </VBN>
+              <PP>
+                <IN>
+                  <word> by </word>
+                </IN>
+                <NP>
+                  <NP>
+                    <NP>
+                      <DT>
+                        <word> the </word>
+                      </DT>
+                      <NNPS>
+                        <word> People </word>
+                      </NNPS>
+                      <POS>
+                        <word> 's </word>
+                      </POS>
+                    </NP>
+                    <NNP>
+                      <word> Republic </word>
+                    </NNP>
+                  </NP>
+                  <PP>
+                    <IN>
+                      <word> of </word>
+                    </IN>
+                    <NP>
+                      <NNP>
+                        <word> China </word>
+                      </NNP>
+                      <NNP>
+                        <word> PRC </word>
+                      </NNP>
+                    </NP>
+                  </PP>
+                </NP>
+              </PP>
+            </VP>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

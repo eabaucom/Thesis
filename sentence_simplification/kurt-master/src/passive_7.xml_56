@@ -1,0 +1,45 @@
+<top>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <word> All </word>
+        </DT>
+      </NP>
+      <PP>
+        <IN>
+          <word> of </word>
+        </IN>
+        <NP>
+          <DT>
+            <word> the </word>
+          </DT>
+          <NN>
+            <word> packing </word>
+          </NN>
+          <NNS>
+            <word> boxes </word>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> have </word>
+      </VBP>
+      <VP>
+        <VBN>
+          <word> been </word>
+        </VBN>
+        <VP>
+          <VBN>
+            <word> opened </word>
+          </VBN>
+        </VP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

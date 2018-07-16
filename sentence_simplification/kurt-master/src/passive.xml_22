@@ -1,0 +1,47 @@
+<top>
+  <S>
+    <NP>
+      <PRP>
+        <word> We </word>
+      </PRP>
+    </NP>
+    <VP>
+      <VBP>
+        <word> are </word>
+      </VBP>
+      <ADVP>
+        <RB>
+          <word> currently </word>
+        </RB>
+      </ADVP>
+      <VP>
+        <VBG>
+          <word> debating </word>
+        </VBG>
+        <NP>
+          <NP>
+            <DT>
+              <word> the </word>
+            </DT>
+            <NN>
+              <word> classification </word>
+            </NN>
+          </NP>
+          <PP>
+            <IN>
+              <word> of </word>
+            </IN>
+            <NP>
+              <NNS>
+                <word> crustaceans </word>
+              </NNS>
+            </NP>
+          </PP>
+        </NP>
+      </VP>
+    </VP>
+    <punctuation>
+      <word> . </word>
+    </punctuation>
+  </S>
+</top>

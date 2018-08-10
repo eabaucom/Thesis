@@ -7,7 +7,7 @@
 \title{Automatic Syntactic Sentence Simplification with Transformation Based Learning: An Example}
 \maketitle
 
-In this short document, I will demonstrate one fully worked example of syntactic sentence simplification within the Transformation-Based Learning (TBL) framework. Let us consider the following sentences, first the original ``complex'' sentence (after hand-curation) and then the simplified sentence:
+In this short document, I will demonstrate a handful of fully worked example of syntactic sentence simplification within the Transformation-Based Learning (TBL) framework. Let us consider the following sentences, first the original ``complex'' sentence (after hand-curation) and then the simplified sentence:
 
 \begin{quote}
 In the 17th century the Empire was shattered by the Thirty Years' War.
@@ -30,7 +30,7 @@ parse is the wrong level of analysis, and I may look into partial parsing or chu
 \begin{figure}
 \begin{center}
 \includegraphics[scale=.65]{tree}
-\caption{The original complex sentence (after hand-curation).}
+\caption{The original complex passive sentence (after hand-curation).}
 \end{center}
 \end{figure}
 
@@ -38,7 +38,7 @@ parse is the wrong level of analysis, and I may look into partial parsing or chu
 \begin{figure}
 \begin{center}
 \includegraphics[scale=.65]{tree1}
-\caption{The simplified sentence.}
+\caption{The simplified active sentence.}
 \end{center}
 \end{figure}
 
@@ -52,7 +52,7 @@ Following this scheme, the following constituents will be extracted as being in 
 \item (\textbf{.} \texttt{.)}
 \end{enumerate}
 
-The constituents will then be assigned supertags in both the passive and active sentences which will correspond to their relative positions to the anchor of the sentence. The anchor will be the highest VP node of the sentence. The convention for supertags will be descriptive in relation to the anchor. The anchor will be represented by the character \texttt{a}. The descriptor \texttt{up} is used to indicate going to the parent of the current node. The other descriptors will be natural numbers indicating which child node to go to, in left-to-right linear order (it may prove to be useful to allow negative numbers indicating right-to-left linear order, which would mean two potential supertags for each token, but we will not discuss that further in this example). So, the supertag (a, 2, 3) would mean the constituent that is the anchor's second child's third child. See below for more examples.	
+The constituents will then be assigned supertags in both the passive and active sentences which will correspond to their relative positions to the anchor of the sentence. The anchor will be the highest VP node of the sentence, which can be determined algorithmically via a breadth-first search. The highest VP is a useful anchor given its proximity to both the subject (typically left sibling) and the object(s) (typically the children to the right of the main verb child). The convention for supertags will be descriptive in relation to the anchor. The anchor will be represented by the character \texttt{a}. The descriptor \texttt{up} is used to indicate going to the parent of the current node. The other descriptors will be natural numbers indicating which child node to go to, in left-to-right linear order (it may prove to be useful to allow negative numbers indicating right-to-left linear order, which would mean two potential supertags for each token, but we will not discuss that further in this example). So, the supertag (a, 2, 3) would mean the constituent that is the anchor's second child's third child. See below for more examples.	
 
 Notice that in the previous list, 1 and 5 maintain the same positions relative to the anchors of the two sentences, so they will be ignored as they present no ``errors'' to the TBL system (i.e., they have the same supertags in both sentences). The errors for the other consituents are shown below. The convention for errors in my implementation of TBL will be \textbf{\textless\textit{supertag-a}, \textit{supertag-b}, \textit{number-of-errors}\textgreater} (the number of errors is how TBL judges improvements between consecutive iterations).
 
@@ -63,7 +63,7 @@ Notice that in the previous list, 1 and 5 maintain the same positions relative t
 \item \textbf{\textless(a,3,2), (a,up,2), 1\textgreater}
 \end{enumerate}
 
-We notice that \texttt{the Empire} has moved from the subject position to the object position. Subjects are parsed as above the anchor, and objects are typically the second child of the anchor (highest VP node). Notice that the subject in this case is not in the linear first position above the anchor because of the preceding adjunct \texttt{In the 17th century}. So, we can generalize that the simplification process of passive sentences typically involves placing the subject in the object position. This can be represented by the following template:
+We notice that \texttt{the Empire} has moved from the subject position to the object position. As mentioned, subjects are typically parsed as the left sibling of the anchor, and objects are typically the second child of the anchor. Notice that the subject in this case is not in the linear first position beside the anchor because of the preceding adjunct \texttt{In the 17th century}. So, we can generalize that the simplification process of passive sentences typically involves placing the subject in the object position. This can be represented by the following template:
 
 \begin{center}
 \textbf{Subj2Obj: (a,up,*) $\rightarrow$ (a,2)}

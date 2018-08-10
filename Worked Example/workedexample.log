@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.31)  8 AUG 2018 20:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.31)  8 AUG 2018 22:23
 entering extended mode
 **./workedexample.tex
 (workedexample.tex
@@ -196,7 +196,7 @@ Overfull \hbox (36.1012pt too wide) in paragraph at lines 106--107
 [][] 
  []
 
-[4 <./coord_tree.png>] [5 <./simp_coord.png> <./comp_quot.png>] [6 <./simp_quot
+[4] [5 <./coord_tree.png> <./simp_coord.png>] [6 <./comp_quot.png> <./simp_quot
 .png>] (workedexample.aux) ) 
 Here is how much of TeX's memory you used:
  1485 strings out of 492973
@@ -205,7 +205,7 @@ Here is how much of TeX's memory you used:
  5355 multiletter control sequences out of 15000+200000
  8214 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,939b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,25p,1186b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib
@@ -215,7 +215,7 @@ fonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb>
-Output written on workedexample.pdf (6 pages, 530945 bytes).
+Output written on workedexample.pdf (6 pages, 531115 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
